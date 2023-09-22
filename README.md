@@ -11,8 +11,8 @@ Don't forget to hit the :star: if you like this repo.
 
 # AI for Innovation
 
-## Deskripsi Matakuliah	
-Mempelajari tentang perkembangan AI masa kini yang meliputi generative AI secara umum, Large Language Model, Automated Machine Learning. Selain itu juga membahas tentang Pemanfaatan AI dalam social media maupun bisnis, yaitu recommender system.
+## Course Synopsis
+Explore contemporary AI advancements encompassing generative AI, Large Language Models, and Automated Machine Learning. Additionally, delve into AI's applications in social media and business, specifically focusing on recommender systems.
 
 ## Course Learning Outcomes
 1. Students can create new ideas using LLM and generative AI for images.
