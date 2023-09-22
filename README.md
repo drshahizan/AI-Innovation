@@ -11,15 +11,13 @@ Don't forget to hit the :star: if you like this repo.
 
 # AI for Innovation
 
-![WBDM](https://media.licdn.com/dms/image/C4D12AQGH0S-uUENvNQ/article-cover_image-shrink_600_2000/0/1520206428749?e=2147483647&v=beta&t=22-VhN5U90hQDZFtdhy6YT5KxQdCmV9kLX7fzgPQS_0)
-
 ## Deskripsi Matakuliah	
 Mempelajari tentang perkembangan AI masa kini yang meliputi generative AI secara umum, Large Language Model, Automated Machine Learning. Selain itu juga membahas tentang Pemanfaatan AI dalam social media maupun bisnis, yaitu recommender system.
 
 ## Course Learning Outcomes
-1. Mahasiswa mampu mengembangkan inovasi menggunakan LLM dan generative AI Image 			
-2. Mahasiswa mampu mendapatkan pemahaman komprehensif dan penerapan kemajuan AI generatif, termasuk pembuatan konten multimodal di luar teks, pelajari dasar-dasar arsitektur transformator, dan kuasai teknik pembelajaran mesin otomatis untuk pengembangan model yang efisien. Selain itu, jelajahi cara memanfaatkan AI di media sosial dan bisnis melalui sistem rekomendasi yang kuat, sehingga meningkatkan pengalaman pengguna dan mendorong rekomendasi yang ditargetkan.			
-3. Mahasiswa mampu mengembangkan inovasi menggunakan model RVC, Automated ML, dan ide recommender system dalam e-government (layanan publik)			
+1. Students can create new ideas using LLM and generative AI for images.
+2. Students can fully grasp and use the latest generative AI advancements, making different types of content beyond text. They'll learn about transformer basics and master efficient model development through automated machine learning. Also, they'll understand using AI in social media and business, enhancing user experience with precise recommendations.
+3. Students can come up with creative solutions using the RVC model, Automated ML, and recommender system concepts in e-government for better public services.
 
 ## 🔥 Important things
 
