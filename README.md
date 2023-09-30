@@ -20,6 +20,7 @@ Explore contemporary AI advancements encompassing generative AI, Large Language 
 3. Students can come up with creative solutions using the RVC model, Automated ML, and recommender system concepts in e-government for better public services.
 
 ## 🔥 Important things
+1. [AWS Academy Machine Learning for Natural Language Processing]()
 
 
 ## Weekly Schedule
