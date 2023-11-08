@@ -19,6 +19,12 @@ Explore contemporary AI advancements encompassing generative AI, Large Language 
 2. Students can fully grasp and use the latest generative AI advancements, making different types of content beyond text. They'll learn about transformer basics and master efficient model development through automated machine learning. Also, they'll understand using AI in social media and business, enhancing user experience with precise recommendations.
 3. Students can come up with creative solutions using the RVC model, Automated ML, and recommender system concepts in e-government for better public services.
 
+## Assignment
+| No. | Activity | Topic | File |
+| :-----: | ------ | ------ | :-----: | 
+| 1. | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+
+
 ## 🔥 Important things
 1. [AWS Academy Machine Learning for Natural Language Processing](https://awsacademy.instructure.com/courses/60323)
 
