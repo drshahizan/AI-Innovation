@@ -23,14 +23,14 @@ Ensure proper organization by placing your portfolio within the designated 'Port
 
 ```
 📁 portfolio
-├── 📁BakungaBronson
+├── 📁algadp19
 │   ├── 📄readme.md
 │   └── 📄image.png
-├── 📁HazemFenneer
+├── 📁muhamadiyusup
 │   ├── 📄readme.md
 │   └── 📄image1.png
 ...
-└── 📁zuhayraz
+└── 📁GuruYosen
     ├── 📄readme.md
     └── 📄image.png
 ```
