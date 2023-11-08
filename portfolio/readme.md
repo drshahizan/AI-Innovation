@@ -50,7 +50,7 @@ To update your portfolio information, follow these steps:
 
 ## Deadline ⏰
 
-- Submit your completed portfolio by **October 23, 2023**, to the 'portfolio' folder.
+- Submit your completed portfolio by **12 November, 2023**, to the 'portfolio' folder.
 - Feel free to reach out if you have any questions or need further clarification. Best of luck with crafting your professional portfolio! 🌟
 
 
