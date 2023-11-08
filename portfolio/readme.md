@@ -1,4 +1,3 @@
-# AI for Innovation
 
 <a href="https://github.com/drshahizan/AI-Innovation/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/AI-Innovation" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/AI-Innovation/network/members"><img src="https://img.shields.io/github/forks/drshahizan/AI-Innovation" alt="Forks Badge"/></a>
