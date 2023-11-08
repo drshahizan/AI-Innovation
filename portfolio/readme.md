@@ -9,6 +9,50 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+# Task 1: Portfolio Creation 📂
+
+**Objective**: Develop Your Professional Portfolio 🌟
+
+## Overview 📝
+
+You are tasked with creating a comprehensive portfolio that showcases your beliefs, skills, qualifications, education, training, and experiences. A portfolio is a curated collection that offers a glimpse into your personality and work ethic. It's comparable to an [Online Resume](https://en.wikipedia.org/wiki/Career_portfolio) or [C.V.](https://en.wikipedia.org/wiki/Curriculum_vitae). For a clearer understanding, refer to a [sample portfolio here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
+
+## Folder Structure 🗂️
+
+Ensure proper organization by placing your portfolio within the designated 'Portfolio' folder. Within the [`portfolio`](./portfolio) directory, create a folder using your `github_id` as the folder name. The primary file within this folder should be named `readme.md`. You're encouraged to include any relevant files for your portfolio. The suggested folder structure is as follows:
+
+```
+📁 portfolio
+├── 📁BakungaBronson
+│   ├── 📄readme.md
+│   └── 📄image.png
+├── 📁HazemFenneer
+│   ├── 📄readme.md
+│   └── 📄image1.png
+...
+└── 📁zuhayraz
+    ├── 📄readme.md
+    └── 📄image.png
+```
+
+## Updating Portfolio Information 🔄
+
+To update your portfolio information, follow these steps:
+
+1. Open the file [`student.md`](https://github.com/drshahizan/BDM/blob/main/student.md) on GitHub.
+
+2. Click on the pencil ✏️ icon to edit the file. Navigate to your information section.
+
+3. Add the following code snippet to incorporate a link to your portfolio in the form of an icon:
+   ```html
+   <a href="./portfolio/your_folder"><img src="./images/portfolio.png" width="24px" height="24px"></a>
+   ```
+   Make sure to replace `your_folder` with your own `github_id`.
+
+## Deadline ⏰
+
+- Submit your completed portfolio by **October 23, 2023**, to the 'portfolio' folder.
+- Feel free to reach out if you have any questions or need further clarification. Best of luck with crafting your professional portfolio! 🌟
 
 
 ## Contribution 🛠️
