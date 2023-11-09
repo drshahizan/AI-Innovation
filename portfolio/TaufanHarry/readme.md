@@ -1,3 +1,5 @@
+<a href="./portfolio/TaufanHarry"><img src="./images/MT.jpg" width="24px" height="24px"></a>
+
 ### Hi there 👋
 Welcome to My Portfolio! I'm Taufan Harry, I'm a water treatment professional. I'm also a Student of Magister Inovasi Regional Majoring in Data Science and Business Analysis - UNPAD 
 
