@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IpulMT.jpg" width="524px" height="324px">
+  <img src="Ipul2.jpg" width="324px" height="524px">
 </p>
 
 <h1 align="center">Hi 👋, My Name is Ahmad Syaifullah</h1>
