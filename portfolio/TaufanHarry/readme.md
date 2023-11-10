@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MT.jpg" width="324px" height="524px">
+  <img src="MT.jpg" width="350px" height="524px">
 </p>
 
 ### Hi there 👋
