@@ -1,3 +1,7 @@
+<center>
+  <img src="271261462_1555030051534078_3315623004056622126_n.jpg" width="524px" height="324px">
+</center>
+
 <h1 align="center">Hi 👋, I'm Hilman Revisionery</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <br>
@@ -10,7 +14,7 @@
   
 - 🏢 Currently im working at multimedia company in Indonesia sa Data Scientist
 
-- 👀 Looking for data scien small project to improve and updated my knowledge.
+- 👀 Looking for data scien small project to improve and update my knowledge.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
