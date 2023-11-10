@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hilman Revisionery</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<a href="./portfolio/hilmandei"> <img src="./images/portfolio.png" width="24px" height="24px"></a>
 <br>
 - 🌱 I’m currently learning **python, machine learning**
-
 - 💬 Ask me about **Data science related field**
-
 - 📫 How to reach me **hilman.revisionery@gmail.com**
+- 🏢 Currently im working at multimedia company in Indonesia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
