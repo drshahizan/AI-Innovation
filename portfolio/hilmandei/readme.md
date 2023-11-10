@@ -14,7 +14,7 @@
   
 - 🏢 Currently im working at multimedia company in Indonesia sa Data Scientist
 
-- 👀 Looking for data scien small project to improve and update my knowledge.
+- 👀 Looking for small data science project to improve and update my knowledge.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
