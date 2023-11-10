@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="taufan.jpg" width="350px" height="524px">
+  <img src="taufan.jpg" width="400px" height="524px">
 </p>
 
 ### Hi there 👋
