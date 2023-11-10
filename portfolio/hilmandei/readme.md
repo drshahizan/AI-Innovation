@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hilman Revisionery</h1>
-<h3 align="center">A passionate Data Scientist from Indonesia</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 - 🌱 I’m currently learning **python, machine learning**
 
