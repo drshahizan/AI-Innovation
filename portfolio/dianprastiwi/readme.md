@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="Dian P.JPG" width="524px" height="324px">
+  <img src="Dian P.JPG" width="300px" height="450px" >
 </p>
 
 <h1 align="center">Hi 👋, I'm Dian Prastiwi</h1>
-<h3 align="center">Im a officer Business Planning Performance at Telkom Indonesia</h3>
 <br>
 
 - 🌱 I’m postgraduate student at **Padjajaran University in Bandung**
