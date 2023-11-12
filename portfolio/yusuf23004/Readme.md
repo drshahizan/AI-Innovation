@@ -6,16 +6,16 @@
 <h3 align="center">I am a civil servant at the Department of Manpower in the city of Cirebont</h3>
 <br>
 
-- 🔭 I’m currently working at Labor Office Cirebon City **Job placement Officer**
+- 🏢 I’m currently working at Labor Office Cirebon City as **Job placement Officer**
 
-- 🌱 I’m currently learning **Data Scicence, machine learning**
+- 🔭 The task of a job placement is to match **job seekers** with available **job vacancies**
 
-- 💬 Ask me about **Data science related field**
+- 🌱 I'm postgraduate student at **Padjajaran University in Bandung**
+
+- 💬 Ask me about **Job Vacancies in Cirebon and Surrounding Areas**
   
 - 📫 How to reach me **yusuf021454556@@gmail.com**
   
-- 🏢 Currently im working at multimedia company in Indonesia sa Data Scientist
-
 - 👀 Looking for small data science project to improve and update my knowledge.
 
 <h3 align="left">Connect with me:</h3>
