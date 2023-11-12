@@ -16,6 +16,7 @@
 
 - 👀 Looking for small data science project to improve and update my knowledge.
 
+- For my experiences, please find in linkedin profile below.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hilman-revisionery-48ba21191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilman-revisionery-48ba21191/" height="30" width="40" /></a>
