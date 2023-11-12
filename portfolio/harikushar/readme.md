@@ -15,5 +15,5 @@ I am an open minded person and hope to share and learn knowledge as well..
 - 👀 Looking for data science reference project to improve and update knowledge.
 
 <p align="center">
-  <img src="271261462_1555030051534078_3315623004056622126_n.jpg" width="524px" height="324px">
+  <img src="me and Whoosh.jpeg" width="768px" height="1024px">
 </p>
