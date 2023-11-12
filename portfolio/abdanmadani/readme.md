@@ -49,7 +49,8 @@ A master's degree student in Data Science from Universitas Padjadjaran. Experien
   </ul>
 <h2 align="left">💼 Skill and Tools</h2>
  <h4>Product Management Tools</h4>
- <p align="left"> <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" height="60"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/768px-Atlassian_Confluence_2017_logo.svg.png" alt="confluence" height="30"/> </a>
+ <p align="left"> <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" height="60"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/confluence-logo-45F8F83769-seeklogo.com.png" alt="confluence" height="15"/> </a> </p>
+  <h4>Wireframming & Prototype</h4>
 
 
 <br>
@@ -57,6 +58,3 @@ A master's degree student in Data Science from Universitas Padjadjaran. Experien
 <p align="left">
 <a href="https://linkedin.com/in/abdanmadani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilman-revisionery-48ba21191/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="azure" height="60"/> </a> </p>
