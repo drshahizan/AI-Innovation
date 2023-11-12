@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="7 FOTO M YUSUP.jpg" width="224px" height="324px">
+  <img src="7 FOTO M YUSUP.jpg" width="254px" height="324px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhamad Yusup</h1>
-<h3 align="center">I am a Claim Analyst in Reinsurance</h3>
+<h3 align="center">I am a Claim Analyst</h3>
 <br>
 
 - 🏢 I’m currently working at PT Reasuransi Syariah Indonesia as **Life Claim Analyst**
