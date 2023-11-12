@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yusuf Kurniawan</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">I am a civil servant at the Department of Manpower in the city of Cirebont</h3>
 <br>
 
-- 🌱 I’m currently learning **python, machine learning**
+- 🌱 I’m currently learning **Data Scicence, machine learning**
 
 - 💬 Ask me about **Data science related field**
   
-- 📫 How to reach me **hilman.revisionery@gmail.com**
+- 📫 How to reach me **yusuf021454556@@gmail.com**
   
 - 🏢 Currently im working at multimedia company in Indonesia sa Data Scientist
 
