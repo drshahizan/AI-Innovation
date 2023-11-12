@@ -9,7 +9,6 @@
 
 - 🌱 I'm postgraduate student at **Padjajaran University in Bandung**
 
-- 💬 Ask me about **Job Vacancies in Cirebon and Surrounding Areas**
   
 - 📫 How to reach me **rika.rachmawati.7777@gmail.com**
   
