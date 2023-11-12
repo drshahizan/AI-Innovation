@@ -17,3 +17,6 @@ I am an open minded person and hope to share and learn knowledge as well..
 <p align="center">
   <img src="me and Whoosh.jpeg" width="768px" height="1024px">
 </p>
+<a href="https://www.linkedin.com/in/hari-kusharwanto-79561810/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
