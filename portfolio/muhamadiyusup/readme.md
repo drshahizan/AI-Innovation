@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="7 FOTO M YUSUP.jpg" width="124px" height="324px">
+  <img src="7 FOTO M YUSUP.jpg" width="224px" height="324px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhamad Yusup</h1>
