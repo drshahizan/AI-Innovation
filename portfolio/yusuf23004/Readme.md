@@ -6,6 +6,8 @@
 <h3 align="center">I am a civil servant at the Department of Manpower in the city of Cirebont</h3>
 <br>
 
+- 🔭 I’m currently working at Labor Office Cirebon City **Job placement Officer**
+
 - 🌱 I’m currently learning **Data Scicence, machine learning**
 
 - 💬 Ask me about **Data science related field**
