@@ -1,8 +1,10 @@
-# My Data Analytics and AI Learning Journey
+# Muhammad Arsyad Faturrohman's Portofolio
 
-![Muhammad Arsyad Faturrohman](https://github.com/drshahizan/AI-Innovation/blob/main/portfolio/arsyadfr9/DSC09098.JPG)
+<p align="center">
+<img src="https://github.com/drshahizan/AI-Innovation/blob/main/portfolio/arsyadfr9/DSC09098.JPG" alt="Arsyad" width="321"/>
+</p>
 
-Hello, I'm [Arsyad], a Water Distribution Manager at Perumda Tirtawening. While I'm relatively new to GitHub and Python, I've been actively learning and exploring various aspects of data analytics and AI. Here's a snapshot of my current skills and interests:
+Hello, I'm [Arsyad], a Water Distribution Manager at Perumda Tirtawening. I'm pursuing my studies at Universitas Padjadjaran, majoring in Data Science and Business Analytics. While I'm relatively new to GitHub and Python, I've been actively learning and exploring various aspects of data analytics and AI. Here's a snapshot of my current skills and interests:
 
 ## Learning Journey
 
@@ -12,14 +14,14 @@ Hello, I'm [Arsyad], a Water Distribution Manager at Perumda Tirtawening. While 
 - 🖼️ **Image Analytics:** Delved into basic image analytics concepts and techniques.
 - 🍊 **Orange:** Familiar with basic usage of Orange for data visualization and analysis.
 
-## Planned Projects
+## What I'm really pursuing during my study
 
 ### 1. Water Consumption Analysis
    - Goal: Utilize Python to analyze historical water consumption data.
    - Learn to identify trends and patterns for potential optimizations.
 
 ### 2. Predictive Maintenance Exploration
-   - Goal: Explore the basics of predictive maintenance using scikit-learn.
+   - Goal: Explore the basics of predictive maintenance using AI.
    - Investigate how AI can help predict potential issues in the water distribution system.
 
 ### 3. GIS Integration for Infrastructure Mapping
