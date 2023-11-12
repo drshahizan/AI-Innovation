@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yusuf Kurniawan</h1>
-<h3 align="center">I am a civil servant at the Department of Manpower in the city of Cirebont</h3>
+<h3 align="center">I am a civil servant at Cirebon City Manpower Office</h3>
 <br>
 
 - 🏢 I’m currently working at Labor Office Cirebon City as **Job placement Officer**
