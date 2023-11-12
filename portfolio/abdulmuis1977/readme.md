@@ -23,3 +23,12 @@ Main procurement experience in the last 5 years:
 # Education
 I graduated with a bachelor's degree in mechanical engineering from Diponegoro University, Semarang, Indonesia.
 I am currently studying Masters majoring in Data Science & Business Analysis at Padjadjaran University, Bandung, Indonesia.
+
+# Skill & Competencies
+- Inventory management
+- Procurement management
+- Cost Estimation for material procurement
+- Import & export
+- Customs
+- Warehouse management
+- Still learning : python, image analytics, data analytics, Statistics, Natural Language Processing, machine learning, deep learning & artificial intelligence.
