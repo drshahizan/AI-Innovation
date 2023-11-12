@@ -1,6 +1,6 @@
 # My Data Analytics and AI Learning Journey
 
-![Muhammad Arsyad Faturrohman](portfolio/arsyadfr9/DSC09098.JPG)
+![Muhammad Arsyad Faturrohman](https://github.com/drshahizan/AI-Innovation/blob/main/portfolio/arsyadfr9/DSC09098.JPG)
 
 Hello, I'm [Arsyad], a Water Distribution Manager at Perumda Tirtawening. While I'm relatively new to GitHub and Python, I've been actively learning and exploring various aspects of data analytics and AI. Here's a snapshot of my current skills and interests:
 
@@ -28,6 +28,6 @@ Hello, I'm [Arsyad], a Water Distribution Manager at Perumda Tirtawening. While 
 
 ## Connect with Me
 
-I'm eager to connect with fellow data enthusiasts and professionals. Reach out to me on [LinkedIn]([(https://www.linkedin.com/in/arsyadfr/]) to discuss all things data, AI, and waterworks!
+I'm eager to connect with fellow data enthusiasts and professionals. Reach out to me on [LinkedIn](https://www.linkedin.com/in/arsyadfr/) to discuss all things data, AI, and waterworks!
 
 Let's turn data into insights and make a positive impact on water management! 🌊
