@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rika.jpeg" width="524px" height="324px">
+  <img src="rika.jpeg" >
 </p>
 
 <h1 align="center">Hi 👋, I'm Rika Rachmawati </h1>
