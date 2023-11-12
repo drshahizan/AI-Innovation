@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="524px" height="324px">
+  <img src="https://github.com/drshahizan/AI-Innovation/blob/main/portfolio/abdanmadani/resources/PAS%20FOTO%20ABDAN%202023.jpg" height="324px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdan</h1>
@@ -49,7 +49,7 @@ A master's degree student in Data Science from Universitas Padjadjaran. Experien
   </ul>
 <h2 align="left">💼 Skill and Tools</h2>
  <h4>Product Management Tools</h4>
- <p align="left"> <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" height="60"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/confluence-logo-45F8F83769-seeklogo.com.png" alt="confluence" height="15"/> </a> </p>
+ <p align="left"> <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" height="60px"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/confluence-logo-45F8F83769-seeklogo.com.png" alt="confluence" height="10px"/> </a> </p>
   <h4>Wireframming & Prototype</h4>
 
 
