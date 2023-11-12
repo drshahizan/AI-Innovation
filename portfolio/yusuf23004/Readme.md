@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" width="524px" height="324px">
+  <img src="profile2.jpg" width="524px" height="324px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yusuf Kurniawan</h1>
