@@ -13,3 +13,6 @@ I am an open minded person and hope to share and learn knowledge as well..
 - 📫 How to reach me **hari.kushar@gmail.com**
   
 - 👀 Looking for data science reference project to improve and update knowledge.
+<p align="center">
+  <img src="me and Whoosh.jpeg" width="768px" height="1024px">
+</p>
