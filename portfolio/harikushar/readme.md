@@ -1,4 +1,4 @@
-**Hello** 
+**Greetings...** 
 
 # Welcome to our new Github Page
 I have background as civil engineering and having involved in various infrastructure project around Indonesia and some parts of the world!. 
@@ -17,6 +17,8 @@ I am an open minded person and hope to share and learn knowledge as well..
 <p align="center">
   <img src="me and Whoosh2.jpeg" width="350px" height="467px">
 </p>
+<br>
+<br>
 🏢 Professional working experiences, please find in linkedin profile below.
 <a href="https://www.linkedin.com/in/hari-kusharwanto-79561810/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
