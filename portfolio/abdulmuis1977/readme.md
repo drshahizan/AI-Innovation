@@ -6,6 +6,7 @@
 
 # About me
 Although I'm Procurement Manager, I'm interested in data science, machine learning, deep learning and artificial intelligence. This is important in its implementation in the fields of procurement, logistics, supply chain and another fields.
+How to reach  me : abdulmuiss1977@gmail.com
 
 # Working Experience
 I have worked since 2003:
