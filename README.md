@@ -31,8 +31,8 @@ Explore contemporary AI advancements encompassing generative AI, Large Language 
 ## Artificial Intelligence Tools
 
 | No.  | Name | Description | Info | Tools |
-|------| ------------------|:--------:|:--------:|
-| 1.    | AIPRM for ChatGPT | |<a href="https://drshahizan.gitbook.io/copywriting-chatgpt/tools/aiprm-for-chatgpt" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.aiprm.com/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
+|------| ------------------|-----|:--------:|:--------:|
+| 1.    | AIPRM for ChatGPT |AIPRM is a prompt management tool and community-driven prompt library. Use it to complete marketing, sales, operation, productivity, and customer support tasks in minutes that used to take hours with ready-to-use prompts for ChatGPT, Bard, Midjourney, and DALL-E 2. AIPRM adds a list of curated prompt templates for SEO, SaaS and more to ChatGPT. |<a href="https://drshahizan.gitbook.io/copywriting-chatgpt/tools/aiprm-for-chatgpt" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.aiprm.com/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 
 ## Weekly Schedule
