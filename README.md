@@ -32,7 +32,7 @@ Explore contemporary AI advancements encompassing generative AI, Large Language 
 
 | No.  | Name                                                                                                 | Description | Link |
 |------| ------------------|--------|--------|
-| 1.    | AIPRM for ChatGPT | | |
+| 1.    | AIPRM for ChatGPT | <a href="https://drshahizan.gitbook.io/copywriting-chatgpt/tools/aiprm-for-chatgpt" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.aiprm.com/" ><img src="./images/rfp.png" width="24px" height="24px" ></a> |
 
 
 ## Weekly Schedule
