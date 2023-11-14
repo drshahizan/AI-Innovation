@@ -28,9 +28,10 @@ Explore contemporary AI advancements encompassing generative AI, Large Language 
 ## 🔥 Important things
 1. [AWS Academy Machine Learning for Natural Language Processing](https://awsacademy.instructure.com/courses/60323)
 
-Artificial Intelligence Tools
+## Artificial Intelligence Tools
+
 | No.  | Name                                                                                                 | Description | Link |
-|------|-------------------------------------------------------------------------------------------------------|
+|------| ------------------|--------|--------|
 | 1.    | AIPRM for ChatGPT | | |
 
 
