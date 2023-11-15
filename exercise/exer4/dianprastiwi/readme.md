@@ -1,10 +1,10 @@
-Judul: Bergabunglah Bersama PERSIB Jakarta - Tim Sepak Bola Terbaik di Kota!
+**Judul: Bergabunglah Bersama Jakarta - Tim Sepak Bola Terbaik di Kota!**
 
-PERSIB Jakarta - Merah Kuning, Prestasi Terbang!
+**Jakarta - Merah Kuning, Prestasi Terbang!**
 
-PERSIB Jakarta dengan bangga mengumumkan kehadiran tim sepak bola yang akan meramaikan dunia sepak bola ibukota! Kami mengundang para pemain berbakat dari Jakarta dan sekitarnya untuk menjadi bagian dari keluarga PERSIB dan berkontribusi dalam membangun sejarah baru sepak bola di kota ini.
+Jakarta dengan bangga mengumumkan kehadiran tim sepak bola yang akan meramaikan dunia sepak bola ibukota! Kami mengundang para pemain berbakat dari Jakarta dan sekitarnya untuk menjadi bagian dari keluarga PERSIB dan berkontribusi dalam membangun sejarah baru sepak bola di kota ini.
 
-Apa yang PERSIB Tawarkan?
+Apa yang Tawarkan?
 
 1. **Pelatihan Profesional:** Bergabung dengan PERSIB berarti mendapatkan pelatihan dari para pelatih berlisensi tinggi yang memiliki pengalaman dalam mengembangkan pemain potensial.
 
