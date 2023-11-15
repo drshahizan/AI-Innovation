@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Copywriting: Football team
+# Copywriting: My football team
 You are establishing a football team in Jakarta. Please produce copywriting to inform the existence of the team. In addition, you need to make sure that readers are interested in joining your team.
 
 ## Contribution 🛠️
