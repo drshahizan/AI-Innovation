@@ -1,4 +1,6 @@
-# **Judul: Cinta Budaya Indonesia**
+<div align=center>
+<h1> Judul: Cinta Budaya Indonesia </h1>
+
 
 **(Verse 1)** <br>
 Di negeri yang kaya ragam budaya <br>
@@ -37,3 +39,5 @@ Warna-warni keindahan seni<br>
 Bangga dengan warisan kita<br>
 
 Semoga lagu ini dapat menginspirasi anak-anak untuk mencintai dan memelihara kekayaan budaya Indonesia yang indah.
+</center>
+</div>
