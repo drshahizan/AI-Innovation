@@ -65,4 +65,3 @@ Tentu, berikut adalah 100 data dummy untuk penduduk Indonesia dengan tambahan ko
 | 61   | Dani Setiawan     | Laki-laki     | 16-07-1980    | Jl. Damai Sejahtera No. 45          | 087765432109    |
 | 62   | Maya Fitriani     | Perempuan    | 29-12-1985    | Jl. Puspa Mekar No. 11              | 081234567890    |
 | 63   | Rizal Wibowo      | Laki-laki     | 10-05-1990    | Jl. Mawar Indah No. 56              | 082345678901    |
-| 64   | Dewi Susanti      | Perempuan    | 25-
