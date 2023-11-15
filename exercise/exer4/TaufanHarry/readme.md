@@ -18,9 +18,11 @@ Apa yang membuat tim kami istimewa?
 Bagaimana cara bergabung?
 Datanglah ke sesi seleksi kami yang akan diadakan pada:
 
-📅 Tanggal : [15 November 2023]
-⌚ Waktu : [09.00 s.d selesai]
-📍 Tempat:  [Lapang baru Maung]
+📅 Tanggal : 15 November 2023
+
+⌚ Waktu : 09.00 s.d selesai
+
+📍 Tempat:  Lapang baru Maung
 
 
 Jangan lewatkan kesempatan ini untuk menjadi bagian dari tim sepak bola yang penuh semangat dan ambisi. Bersama-sama, kita akan meraih prestasi gemilang!
