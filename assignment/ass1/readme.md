@@ -17,7 +17,7 @@ In this assignment, you will analyzing the impact of AI tools on the business la
 🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=399517123). Please update your group information:
 
 | No | Group |  Title | Submission | 
-| -----: |  ------ | :-----: |  ----- |  
+| -----: |  ------ | ----- |  :-----: |  
 | 0. | Sample  |  Transformative Waves: A Comprehensive Analysis of AI Tools in Shaping the Indonesian Business Horizon |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
