@@ -1,5 +1,3 @@
-Sure, here is an overview of data science in Markdown format:
-
 **Data Science: Unveiling Insights from Data**
 [Image of a data scientist working on a computer, surrounded by data visualizations and charts]
 
