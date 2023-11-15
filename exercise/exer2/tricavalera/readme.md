@@ -1,3 +1,5 @@
+**INGIN KULIAH DATA SCIENCE**
+
 (Verse 1)
 Di sebuah desa yang riang, tinggal seorang anak
 Penuh semangat dan mimpi, ingin kuliah di Padjadjaran
