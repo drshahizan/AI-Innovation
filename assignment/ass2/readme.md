@@ -10,8 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 # Assignment 2: Comparative Study of AI Chat Services
 
 ## Objective:
-In this assignment, you will analyzing the impact of AI tools on the business landscape in Indonesia. Evaluate how these tools have been utilized in different sectors such as marketing, sales, customer support, and productivity. Provide insights into the advantages and challenges faced by businesses adopting AI tools in the Indonesian context.
-
+Your goal is to conduct an in-depth comparative study of three prominent conversational AI services: Bing Chat, Bard AI, and ChatGPT. This assignment aims to evaluate their respective features, functionality, user-friendliness, and overall effectiveness in enhancing the user experience. Additionally, you are required to investigate how these AI chat services can cater to the specific needs of users in Indonesia and identify potential areas for improvement.
 
 ## 1. Team Collaboration
 🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=399517123). Please update your group information:
@@ -21,30 +20,40 @@ In this assignment, you will analyzing the impact of AI tools on the business la
 | 0. | Sample  |  Transformative Waves: A Comprehensive Case Study on AI Adoption in Indonesian Manufacturing |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
-## 2. Research and Analysis
-a. **AI Tools in Different Sectors:**
-      
-- Investigate how AI tools are utilized in marketing, sales, customer support, and productivity in Indonesian businesses. Provide specific examples and case studies to illustrate your points.
+## Guidelines
 
-b. **Advantages and Challenges:**
-- Explore and evaluate the advantages that businesses gain from adopting AI tools in Indonesia. Simultaneously, identify and analyze the challenges they face in the integration and utilization of these tools.
+### 1. Introduction
+   - Provide a brief introduction to the field of conversational AI and its significance.
+   - Introduce the three AI chat services - Bing Chat, Bard AI, and ChatGPT.
 
-## 3. Report Structure
+### 2. Features and Functionality
+   - Analyze and compare the distinctive features of each AI chat service.
+   - Evaluate the functionality of the services, considering aspects such as response accuracy, language capabilities, and integration with other platforms.
 
-a. **Introduction:**
-- Provide a brief overview of the assignment, including the significance of AI tools in the Indonesian business landscape.
+### 3. User-Friendliness
+   - Assess the user interface and ease of interaction for each AI chat service.
+   - Consider factors such as simplicity of navigation, clarity of responses, and overall user experience.
 
-b. **AI in Marketing, Sales, Customer Support, and Productivity:**
-- Dedicate sections to each sector, presenting your findings on how AI tools have impacted these areas.
+### 4. Effectiveness in User Experience Enhancement
+   - Explore how each AI chat service contributes to enhancing the overall user experience.
+   - Consider user feedback, reviews, and any available metrics that measure user satisfaction.
 
-c. **Advantages and Challenges:**
-- Devote a section to discuss the advantages and challenges associated with the adoption of AI tools in Indonesian businesses.
+### 5. Adaptability to Indonesian Users
+   - Investigate how well each AI chat service caters to the specific linguistic and cultural needs of users in Indonesia.
+   - Analyze the adaptability of language models, understanding of local context, and any localized features.
 
-d. **Conclusion:**
-- Summarize your key findings and insights, emphasizing the overall impact of AI tools on the Indonesian business landscape.
+### 6. Areas for Improvement
+   - Identify potential areas where each AI chat service could be enhanced to better meet the needs of users, especially in the context of Indonesia.
+   - Consider user feedback, common issues, and any limitations observed during your analysis.
 
-## 4. Submission
-- Submit a written report and your presentation slides. Ensure that your report is well-structured, and your presentation is clear and engaging.
+### 7. Conclusion
+   - Summarize the key findings of your comparative analysis.
+   - Conclude with insights into which AI chat service may be better suited for users in Indonesia and potential areas for future development.
+
+### 8. References
+   - Cite relevant sources, research papers, and official documentation to support your analysis.
+
+**Remember to approach the assignment with a critical mindset, providing a balanced evaluation of each AI chat service based on the outlined criteria. Ensure clarity, coherence, and logical flow in your analysis.**
 
 ## 5. Important Dates
 - **Submission Deadline:** 22 November 2023
@@ -54,10 +63,10 @@ d. **Conclusion:**
 
 ## 7. File and Folder Structure 
 
-You must place your file in the submission folder. Within the [`assignment/ass1`](https://github.com/drshahizan/AI-Innovation/edit/main/assignment/ass1) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
+You must place your file in the submission folder. Within the [`assignment/ass2`](https://github.com/drshahizan/AI-Innovation/edit/main/assignment/ass2) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
 
 ```html
-ass1/your_group/
+ass2/your_group/
 ├── 📄 report.md
 └── 📄 readme.md
 ```
