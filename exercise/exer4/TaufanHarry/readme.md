@@ -18,15 +18,14 @@ Apa yang membuat tim kami istimewa?
 Bagaimana cara bergabung?
 Datanglah ke sesi seleksi kami yang akan diadakan pada:
 
-Tanggal: 15 November 2023
+📅 Tanggal : [15 November 2023]
+⌚ Waktu : [09.00 s.d selesai]
+📍 Tempat:  [Lapang baru Maung]
 
-Waktu: 09.00 s.d selesai
-
-Tempat: Lapang baru Maung
 
 Jangan lewatkan kesempatan ini untuk menjadi bagian dari tim sepak bola yang penuh semangat dan ambisi. Bersama-sama, kita akan meraih prestasi gemilang!
 
-Untuk informasi lebih lanjut, hubungi kami di 08111122223 atau kirimkan email ke maungpisan@gmail.com.
+Untuk informasi lebih lanjut, hubungi kami di 📞 08111122223 atau kirimkan email ke maungpisan@gmail.com.
 
 Bergabunglah, tunjukkan bakat Anda, dan jadilah bagian dari sejarah sepak bola Bandung!
 
