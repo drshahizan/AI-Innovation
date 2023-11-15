@@ -1,6 +1,6 @@
 Dummy data for Indonesian residents:
 
-```plaintext
+
 | ID | Name                   | Gender | Date of Birth | Address                         | City             | Phone Number     |
 |----|------------------------|--------|---------------|---------------------------------|------------------|------------------|
 | 1  | John Doe               | Male   | 1990-05-15    | Jl. Kembang No. 123             | Jakarta          | 0812-3456-7890   |
