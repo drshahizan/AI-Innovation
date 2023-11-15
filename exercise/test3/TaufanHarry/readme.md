@@ -1,12 +1,12 @@
-# Dahulu Kala di Unpad
+# Dahulu Kala di Unpad 🎓
 
 Dahulu kala, di sebuah kota bernama Bandung, terdapat sebuah universitas yang bernama **Universitas Padjadjaran** atau yang lebih dikenal dengan sebutan **Unpad**. Unpad didirikan pada tanggal 11 September 1957 dan memiliki dua lokasi kampus, yaitu di Bandung dan Jatinangor. Unpad menawarkan berbagai macam program pendidikan dengan profesor yang ahli di bidangnya masing-masing.
 
-## Sejarah dan Prestasi
+## Sejarah dan Prestasi 🏆
 
 Unpad memiliki sejarah yang panjang dan prestasi yang membanggakan. Pada tahun 2020, Unpad berhasil meraih peringkat ke-10 sebagai universitas terbaik di Indonesia menurut [QS University Ranking](https://www.unpad.ac.id/)¹. Unpad juga menjadi pusat unggulan dalam **Sustainable Development Goals (SDGs)** dan **Environmental and Social Sustainability (ESS)**¹.
 
-## Pusat Unggulan
+## Pusat Unggulan 🌟
 
 Unpad memiliki berbagai macam pusat unggulan, seperti:
 - **Center of Excellence (CoE) for Digitalization and Cultural Development of Sundanese Society**
@@ -15,7 +15,7 @@ Unpad memiliki berbagai macam pusat unggulan, seperti:
 
 Unpad juga memiliki **pusat inovasi psikologi (PIP)** yang bertujuan untuk mengembangkan ilmu psikologi dan memberikan layanan psikologi kepada masyarakat¹.
 
-## Program Pendidikan
+## Program Pendidikan 📚
 
 Unpad menawarkan banyak program pendidikan yang dapat dipilih, seperti:
 - Program sarjana
