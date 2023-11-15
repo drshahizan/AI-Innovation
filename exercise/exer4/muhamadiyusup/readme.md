@@ -1,4 +1,5 @@
-![Logo D.O.T Team](insert_image_url_here)
+![Logo D.O.T Team](insert_logo_image_url_here)
+![Icon Jadwal Tim](insert_schedule_icon_url_here)
 
 **_Selamat Datang di Tim D.O.T - Jakarta Terkini untuk Sepak Bola!_**
 
@@ -26,6 +27,7 @@ Mari bersama-sama membangun tim sepak bola yang luar biasa di Jakarta. Bergabung
 
 Jangan lewatkan kesempatan ini! Ayo, sambut masa depan sepak bola bersama _D.O.T Team_!
 
-![Logo D.O.T Team](insert_image_url_here)
+![Logo D.O.T Team](insert_logo_image_url_here)
+![Icon Jadwal Tim](insert_schedule_icon_url_here)
 
 **_D.O.T Team - Menjadi yang Terbaik Bersama!_**
