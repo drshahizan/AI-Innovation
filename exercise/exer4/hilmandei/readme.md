@@ -1,4 +1,5 @@
-Tentang: Bergabunglah dengan Tim Sepak Bola Baru di Jakarta International Stadium!
+## Bergabunglah !! 
+## Sepak Bola Baru di Jakarta International Stadium!
 
 Halo para pecinta sepak bola! ⚽️⚽️⚽️
 
