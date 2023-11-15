@@ -9,6 +9,13 @@ Don't forget to hit the :star: if you like this repo.
 
 # Assignment 1: Transformative Waves: A Comprehensive Case Study on AI Adoption in Indonesian Manufacturing
 
+| Name          | NPM  | Task            |
+| ------------ | -------------- | --------------- |
+| 1. | MCS231010       |           |
+| 2. | MCS231018        |           |
+| 3. | MCS231013        |           |
+
+
 ## Introduction
 
 Indonesia's manufacturing sector, a vital contributor to the nation's economy, has undergone a remarkable transformation with the infusion of Artificial Intelligence (AI) technologies. In this in-depth case study, we delve into the specific challenges faced by a prominent Indonesian manufacturing company, the detailed process of AI integration, and the quantifiable results achieved.
