@@ -18,9 +18,8 @@ Explore contemporary AI advancements encompassing generative AI, Large Language 
 3. Students can come up with creative solutions using the RVC model, Automated ML, and recommender system concepts in e-government for better public services.
 
 ## Gitbook
-🔥 [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
-
-📘 [AI tools](https://drshahizan.gitbook.io/ai-tools/)
+- [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
+- [AI tools](https://drshahizan.gitbook.io/ai-tools/)
 
 
 
