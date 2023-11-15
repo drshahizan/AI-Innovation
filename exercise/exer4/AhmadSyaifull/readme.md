@@ -1,4 +1,4 @@
-### Bergabunglah Bersama Tim Sepakbola Bandung!
+### Bergabunglah Bersama PERSIB JUNIOR!
 
 Hai para pecinta sepakbola di Bandung!
 
@@ -28,4 +28,4 @@ Jangan lewatkan kesempatan ini untuk menjadi bagian dari Tim Sepakbola Bandung y
 
 Untuk informasi lebih lanjut, hubungi kami di [0821-2859-4435] atau kunjungi situs web kami di [www.persibjunior.com].
 
-Ayo, bersiaplah untuk meraih bintang bersama Tim Sepakbola Bandung! 🌟⚽️
+Ayo, bersiaplah untuk meraih bintang bersama PERSIB JUNIOR! 🌟⚽️
