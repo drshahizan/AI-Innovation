@@ -1,4 +1,4 @@
-Berikut adalah informasi tentang Universitas Padjadjaran dalam format markdown:
+Berikut adalah informasi tentang Universitas Padjadjaran:
 
 ```
 # Universitas Padjadjaran
