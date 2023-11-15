@@ -24,9 +24,7 @@ Certainly! Here's a table with 100 rows of dummy data for Indonesian residents:
 | 20  | Maya        | Putri          | Perempuan     | Jl. Slamet Riyadi 21      | Solo          | 11223    | 082112233445     | 20-08-1994    | 3578658508940020|
 | 21  | Bambang     | Wijaya         | Laki-laki     | Jl. Pangeran Antasari 9   | Banjarmasin   | 33445    | 087678901234     | 15-02-1987    | 5102151502870021|
 | 22  | Rina        | Suryadi        | Perempuan     | Jl. Thamrin No. 87        | Medan         | 56789    | 081122334455     | 25-12-1980    | 1205252512800022|
-| 23  | Yanto       | Siregar        | Laki-laki     | Jl. Sudirman 55          
-
- | Palembang     | 87654    | 082233445566     | 18-09-1993    | 1609181809930023|
+| 23  | Yanto       | Siregar        | Laki-laki     | Jl. Sudirman 55           | Palembang     | 87654    | 082233445566     | 18-09-1993    | 1609181809930023|
 | 24  | Nia         | Widianto       | Perempuan     | Jl. Diponegoro 32         | Yogyakarta    | 54321    | 085612345678     | 03-04-1982    | 3313040404820024|
 | 25  | Agus        | Prabowo        | Laki-laki     | Jl. Ahmad Yani No. 67     | Surabaya      | 78901    | 081234567890     | 21-11-1996    | 3305212111960025|
 | 26  | Maya        | Sari           | Perempuan     | Jl. Gajah Mada 43         | Bandung       | 11223    | 082345678901     | 06-08-1984    | 3208060608840026|
