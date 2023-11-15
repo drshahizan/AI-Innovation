@@ -1,5 +1,5 @@
 
-# Title: Cinta Budaya Kita (Love Our Culture)**
+# Title: Cinta Budaya Kita (Love Our Culture)
 
 **Verse 1:**
 ```
