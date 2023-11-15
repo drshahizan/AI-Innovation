@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 In this assignment, you will analyzing the impact of AI tools on the business landscape in Indonesia. Evaluate how these tools have been utilized in different sectors such as marketing, sales, customer support, and productivity. Provide insights into the advantages and challenges faced by businesses adopting AI tools in the Indonesian context.
 
 
-### 1. Team Collaboration
+## 1. Team Collaboration
 🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=399517123). Please update your group information:
 
 | No | Group |  Title | Submission | 
@@ -21,7 +21,7 @@ In this assignment, you will analyzing the impact of AI tools on the business la
 | 0. | Sample  |  Transformative Waves: A Comprehensive Case Study on AI Adoption in Indonesian Manufacturing |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
-### 2. Research and Analysis
+## 2. Research and Analysis
 a. **AI Tools in Different Sectors:**
       
 - Investigate how AI tools are utilized in marketing, sales, customer support, and productivity in Indonesian businesses. Provide specific examples and case studies to illustrate your points.
@@ -29,7 +29,7 @@ a. **AI Tools in Different Sectors:**
 b. **Advantages and Challenges:**
 - Explore and evaluate the advantages that businesses gain from adopting AI tools in Indonesia. Simultaneously, identify and analyze the challenges they face in the integration and utilization of these tools.
 
-### 3. Report Structure
+## 3. Report Structure
 
 a. **Introduction:**
 - Provide a brief overview of the assignment, including the significance of AI tools in the Indonesian business landscape.
@@ -43,16 +43,16 @@ c. **Advantages and Challenges:**
 d. **Conclusion:**
 - Summarize your key findings and insights, emphasizing the overall impact of AI tools on the Indonesian business landscape.
 
-### 5. Submission
+## 4. Submission
 - Submit a written report and your presentation slides. Ensure that your report is well-structured, and your presentation is clear and engaging.
 
-## Important Dates
-- **Submission Deadline:** [22 November 2023]
+## 5. Important Dates
+- **Submission Deadline:** 22 November 2023
 
-### Academic Integrity
+## 6. Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
 
-## File and Folder Structure 
+## 7. File and Folder Structure 
 
 You must place your file in the submission folder. Within the [`assignment/ass1`](https://github.com/drshahizan/AI-Innovation/edit/main/assignment/ass1) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
 
