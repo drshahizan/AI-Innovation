@@ -1,14 +1,14 @@
 Dummy data for Indonesian residents:
 
 ```plaintext
-| ID | Name                   | Gender | Date of Birth | Address                          | City             | Phone Number     |
-|----|------------------------|--------|---------------|----------------------------------|------------------|-------------------|
-| 1  | John Doe               | Male   | 1990-05-15    | Jl. Kembang No. 123              | Jakarta          | 0812-3456-7890   |
-| 2  | Jane Smith             | Female | 1985-08-22    | Jl. Merdeka No. 45               | Surabaya         | 0812-2345-6789   |
-| 3  | Ahmad Rahman           | Male   | 1995-02-10    | Jl. Bahagia No. 8                | Bandung          | 0812-8765-4321   |
+| ID | Name                   | Gender | Date of Birth | Address                         | City             | Phone Number     |
+|----|------------------------|--------|---------------|---------------------------------|------------------|------------------|
+| 1  | John Doe               | Male   | 1990-05-15    | Jl. Kembang No. 123             | Jakarta          | 0812-3456-7890   |
+| 2  | Jane Smith             | Female | 1985-08-22    | Jl. Merdeka No. 45              | Surabaya         | 0812-2345-6789   |
+| 3  | Ahmad Rahman           | Male   | 1995-02-10    | Jl. Bahagia No. 8               | Bandung          | 0812-8765-4321   |
 | 4  | Siti Nurhaliza         | Female | 1988-11-30    | Jl. Cendana No. 67              | Yogyakarta       | 0812-9876-5432   |
 | 5  | Budi Santoso           | Male   | 1982-07-03    | Jl. Damai No. 21                | Medan            | 0812-3456-1234   |
-| 6  | Dewi Anggraeni         | Female | 1998-04-18    | Jl. Harmoni No. 9                | Surakarta        | 0812-5678-9012   |
+| 6  | Dewi Anggraeni         | Female | 1998-04-18    | Jl. Harmoni No. 9               | Surakarta        | 0812-5678-9012   |
 | 7  | Irfan Wahyudi          | Male   | 1993-09-25    | Jl. Sejahtera No. 33            | Semarang         | 0812-1234-5678   |
 | 8  | Rina Puspita           | Female | 1980-12-07    | Jl. Makmur No. 55               | Denpasar         | 0812-8765-4321   |
 | 9  | Aditya Nugraha         | Male   | 1991-06-14    | Jl. Permai No. 12               | Palembang        | 0812-3456-7890   |
@@ -32,9 +32,7 @@ Dummy data for Indonesian residents:
 | 27 | Dito Prasetyo          | Male   | 1993-01-09    | Jl. Sejahtera No. 65            | Semarang         | 0812-1234-5678   |
 | 28 | Sinta Wijaya           | Female | 1980-08-02    | Jl. Makmur No. 32               | Denpasar         | 0812-8765-4321   |
 | 29 | Rudi Hermawan          | Male   | 1991-07-17    | Jl. Permai No. 76               | Palembang        | 0812-3456-7890   |
-| 30 | Sari Fitri             | Female | 1998-04-09    | Jl. Sentosa No. 43              | Makassar         | 081
-
-2-2345-6789   |
+| 30 | Sari Fitri             | Female | 1998-04-09    | Jl. Sentosa No. 43              | Makassar         | 0812-2345-6789   |
 | 31 | Dian Susanto           | Male   | 1986-10-30    | Jl. Jaya No. 23                 | Jakarta          | 0812-3456-7890   |
 | 32 | Yani Hidayat           | Female | 1994-05-20    | Jl. Merdeka No. 34              | Surabaya         | 0812-2345-6789   |
 | 33 | Hendra Setiawan        | Male   | 1983-02-13    | Jl. Bahagia No. 65              | Bandung          | 0812-8765-4321   |
