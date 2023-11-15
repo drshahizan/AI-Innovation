@@ -1,5 +1,7 @@
+## Descriptions
 Jurusan data science di Universitas Padjadjaran adalah salah satu program studi yang menawarkan pendidikan tinggi di bidang analisis data. Jurusan ini berada di bawah Program Pascasarjana Magister Inovasi Regional dengan Konsentrasi Data Sains¹. Jurusan ini didirikan untuk membekali para mahasiswa agar mempunyai sikap, pengetahuan dan ketrampilan yang unggul dan inovatif dalam menerapkan konsep dan teknologi data sains baik untuk kepentingan public maupun private yang pada akhirnya mampu meningkatkan daya saing Bangsa¹.
 
+## Jurusan
 Jurusan data science di Universitas Padjadjaran memiliki kurikulum yang terdiri dari mata kuliah teori dan praktikum yang meliputi bidang statistik, matematika, pemrograman, domain expertise, komunikasi, ekonomi, dan sosial. Selain itu, jurusan ini juga mengadakan kegiatan akademik dan non-akademik yang mendukung pengembangan kompetensi mahasiswa, seperti seminar, workshop, lomba, riset, dan magang¹².
 
 Jurusan data science di Universitas Padjadjaran memiliki tenaga pengajar yang berkualitas dan berpengalaman di bidang data sains. Beberapa di antaranya adalah Prof. Dr. Eng. I Made Joni, M.Sc, Prof. Dr. Ir. H. Nana Sulaksana, MSP, Dr. Andry Alamsyah, Dr. Z.K. ABDURAHMAN Baizal, S.Si, M.Kom, dan Dr. Riny Ismarini¹. Selain itu, jurusan ini juga bekerja sama dengan para profesional dan praktisi dari berbagai sektor industri yang relevan dengan data sains¹.
