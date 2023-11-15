@@ -1,5 +1,3 @@
-Certainly, here is a table with dummy data for 100 Indonesian residents:
-
 | No | Nama Depan | Nama Belakang | Jenis Kelamin | Tempat Lahir | Tanggal Lahir | Alamat                | Kota      | Kode Pos | No. Telepon    | Email                           |
 |----|------------|---------------|---------------|--------------|---------------|-----------------------|-----------|----------|-----------------|---------------------------------|
 | 1  | Andi       | Wirawan       | Laki-laki     | Jakarta      | 05-12-1989    | Jl. Kembang No. 23    | Bandung   | 40123    | 081234567890   | andi.wirawan@email.com          |
