@@ -20,7 +20,7 @@ In this assignment, you will analyzing the impact of AI tools on the business la
 
 | No | Group |  Title | Dataset | 
 | -----: |  ------ | :-----: |  ----- |  
-| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
+| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
 ### 2. Research and Analysis
