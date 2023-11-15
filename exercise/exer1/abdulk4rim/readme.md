@@ -46,4 +46,4 @@ Berikut adalah 100 data dummy untuk penduduk Indonesia:
 | 42 | Citra Ramadhani       | Perempuan     | 27-09-1992    | Jl. Dahlia 12                 | Serang         | Banten          | 18123    | 081223344556     | citraramadhani@email.com             |
 | 43 | Eko Wijaya            | Laki-Laki     | 10-12-1980    | Jl. Teratai 9 Blok C4         | Malang         | Jawa Timur      | 65123    | 085612345678     | ekowijaya@email.com                  |
 | 44 | Siska Pratiwi         | Perempuan     | 23-05-1994    | Jl. Raya Cendana 7 Blok D1    | Surakarta      | Jawa Tengah     | 57123    | 082112233445     | siskapratiwi@email.com               |
-| 45 | Yoga Nugroho          | L
+
