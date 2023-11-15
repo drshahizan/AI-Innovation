@@ -1,33 +1,31 @@
-Berikut adalah informasi tentang Universitas Padjadjaran:
-
-```
 # Universitas Padjadjaran
 
-Universitas Padjadjaran, atau biasa disebut Unpad, adalah sebuah perguruan tinggi negeri yang berdiri pada tanggal 11 September 1957 di Bandung, Jawa Barat. Lokasi kampus utama Unpad, terutama untuk Program Sarjana, berada di Jatinangor, Kabupaten Sumedang, Jawa Barat.
+**Universitas Padjadjaran**, atau yang akrab disebut Unpad, adalah lembaga pendidikan tinggi negeri yang didirikan pada tanggal 11 September 1957 di Bandung, Jawa Barat. Kampus utama Unpad, terutama untuk Program Sarjana, terletak di Jatinangor, Kabupaten Sumedang, Jawa Barat.
 
 ## Program Pendidikan
 
-Unpad menawarkan berbagai program pendidikan, termasuk:
+Unpad menawarkan beragam program pendidikan, meliputi:
 
-- Fakultas Hukum
-- Ekonomi & Bisnis
-- Kedokteran
-- Matematika & IPA
-- Pertanian
-- Kedokteran Gigi
-- Ilmu Sosial & Ilmu Politik
-- Ilmu Budaya
-- Psikologi
-- Peternakan
-- Ilmu Komunikasi
-- Keperawatan
-- Perikanan & Ilmu Kelautan
-- Teknologi Industri Pertanian
-- Farmasi
-- Teknik Geologi
-- Sekolah Pascasarjana
+- **Fakultas Hukum**
+- **Ekonomi & Bisnis**
+- **Kedokteran**
+- **Matematika & IPA**
+- **Pertanian**
+- **Kedokteran Gigi**
+- **Ilmu Sosial & Ilmu Politik**
+- **Ilmu Budaya**
+- **Psikologi**
+- **Peternakan**
+- **Ilmu Komunikasi**
+- **Keperawatan**
+- **Perikanan & Ilmu Kelautan**
+- **Teknologi Industri Pertanian**
+- **Farmasi**
+- **Teknik Geologi**
+- **Sekolah Pascasarjana**
 
 ## Kehidupan Kampus
 
-Unpad juga dikenal dengan beragam kehidupan kampusnya yang penuh kreativitas dan tak terlupakan, dengan berbagai capaian prestasi yang diukir oleh sivitas akademika, baik di bidang akademik maupun non akademik.
-```
+Unpad dikenal dengan kehidupan kampus yang beragam, penuh kreativitas, dan tak terlupakan. Sivitas akademika Unpad berhasil mencapai prestasi di berbagai bidang, baik akademik maupun non-akademik. Suasana kampus yang dinamis dan inspiratif menjadi daya tarik tersendiri bagi mahasiswa Unpad.
+
+Jadi, jika kamu mencari pengalaman pendidikan yang berkualitas dan berwarna, Unpad adalah pilihan yang tepat! Ayo bergabung dan raih prestasimu di Universitas Padjadjaran. 🎓🌟
