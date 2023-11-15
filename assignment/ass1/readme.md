@@ -47,9 +47,7 @@ d. **Conclusion:**
 - Submit a written report and your presentation slides. Ensure that your report is well-structured, and your presentation is clear and engaging.
 
 ## Important Dates
-- **Assignment Distribution:** [Date]
-- **Submission Deadline:** [Date]
-- **Presentation Dates:** [Date]
+- **Submission Deadline:** [22 November 2023]
 
 ### Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
