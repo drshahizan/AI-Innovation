@@ -1,4 +1,4 @@
-**Universitas Padjadjaran (Unpad): Merangkul Ilmu dan Prestasi**
+**Universitas Padjadjaran (Unpad): Merangkul Ilmu dan Prestasi 🎓🌟**
 
 **Sejarah dan Lokasi:**
 Universitas Padjadjaran (Unpad), pendidikan tinggi negeri di Jawa Barat, didirikan pada 11 September 1957. Kini, Unpad telah berkembang menjadi institusi pendidikan unggul dengan dua kampus utama:
