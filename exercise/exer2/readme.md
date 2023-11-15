@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Dummy dataset
-You are required to produce dummy data for Indonesian residents. The amount of data that needs to be generated is 100 data. Please produce in table form. Suggest a suitable column.
+You are a famous composer of children's songs. Please produce children's song lyrics. This song must have the theme of Love Indonesian Culture. Produce this song in Indonesia language.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
