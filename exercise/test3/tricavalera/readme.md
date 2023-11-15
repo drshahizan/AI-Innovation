@@ -1,14 +1,26 @@
+# Data Science di Universitas Padjadjaran
+
 Data science adalah bidang ilmu yang mempelajari cara mengumpulkan, menganalisis, dan menginterpretasikan data dengan menggunakan metode statistik, matematika, pemrograman, dan domain expertise. Data science dapat digunakan untuk berbagai tujuan, seperti menghasilkan pengetahuan baru, mendukung pengambilan keputusan, atau menciptakan produk dan layanan berbasis data.
 
-Universitas Padjadjaran (Unpad) adalah salah satu perguruan tinggi negeri di Indonesia yang memiliki program studi dan pusat riset yang berkaitan dengan data science. Berikut adalah beberapa informasi yang dapat saya berikan:
+## Program Studi Magister Inovasi Regional dengan Konsentrasi Data Sains
 
-- Program studi **Magister Inovasi Regional dengan Konsentrasi Data Sains** adalah program pascasarjana yang didirikan untuk membekali para mahasiswa agar mempunyai sikap, pengetahuan dan ketrampilan yang unggul dan inovatif dalam menerapkan konsep dan teknologi data sains baik untuk kepentingan public maupun private yang pada akhirnya mampu meningkatkan daya saing bangsa¹. Program studi ini memiliki kurikulum yang meliputi mata kuliah seperti **Pengantar Data Sains, Statistika, Matematika, Pemrograman, Machine Learning, Data Mining, Data Visualization, Big Data, Artificial Intelligence, dan lain-lain**¹. Program studi ini juga didukung oleh tenaga pengajar yang berasal dari berbagai bidang keilmuwan, seperti **teknik, informatika, ekonomi, sosial, biologi, dan lain-lain**¹.
-- Pusat Riset **Kecerdasan Artifisial dan Big Data** (Pusris Aida) adalah unit riset yang berada di bawah koordinasi Direktorat Riset dan Pengabdian Masyarakat Unpad yang dipimpin oleh **Dr. Intan Nurma Yulita, S.T., M.T.**, dosen Departemen Ilmu Komputer Unpad². Pusris Aida bertujuan untuk mengembangkan dan menerapkan konsep dan teknologi kecerdasan artifisial dan big data untuk menyelesaikan berbagai permasalahan di bidang **kesehatan, pendidikan, lingkungan, pertanian, dan lain-lain**². Pusris Aida juga berkolaborasi dengan berbagai pihak, seperti **pemerintah, industri, akademisi, dan masyarakat**².
-- Aplikasi **Unpad SAS** (Seri Analisis Statistik) adalah perangkat lunak untuk pengolahan data statistik berbasis website yang dikembangkan oleh tim dosen Unpad yang terdiri dari **Dr. Riny Ismarini, Dr. Z.K. Abdurahman Baizal, Dr. R. Anang Muftiadi, dan Dr. Dra. Sinta Ningrum**³. Aplikasi ini diharapkan dapat mengurangi penggunaan software pengolah data statistik bajakan sekaligus solusi penggunaan aplikasi yang tidak terlalu mahal³. Aplikasi ini memiliki fitur-fitur seperti **input data, output data, analisis deskriptif, analisis inferensial, analisis regresi, analisis korelasi, analisis anova, dan lain-lain**³.
+Universitas Padjadjaran (Unpad) menawarkan Program Studi **Magister Inovasi Regional dengan Konsentrasi Data Sains**, sebuah program pascasarjana yang bertujuan membekali para mahasiswa dengan sikap, pengetahuan, dan ketrampilan unggul dalam menerapkan konsep dan teknologi data sains. Program ini menawarkan mata kuliah seperti Pengantar Data Sains, Statistika, Matematika, Pemrograman, Machine Learning, Data Mining, Data Visualization, Big Data, dan Artificial Intelligence. Didukung oleh tenaga pengajar dari berbagai bidang keilmuwan, program ini membuka peluang untuk pengembangan diri dalam berbagai disiplin ilmu.
+
+## Pusat Riset Kecerdasan Artifisial dan Big Data (Pusris Aida)
+
+Di Unpad, Pusat Riset **Kecerdasan Artifisial dan Big Data** (Pusris Aida) dipimpin oleh **Dr. Intan Nurma Yulita, S.T., M.T.** Pusris Aida bertujuan untuk mengembangkan dan menerapkan konsep serta teknologi kecerdasan artifisial dan big data dalam menyelesaikan berbagai permasalahan di bidang kesehatan, pendidikan, lingkungan, pertanian, dan lain-lain. Dengan kolaborasi bersama pemerintah, industri, akademisi, dan masyarakat, pusat riset ini menjadi wadah inovasi dan solusi.
+
+## Aplikasi Unpad SAS (Seri Analisis Statistik)
+
+Tim dosen Unpad yang terdiri dari **Dr. Riny Ismarini, Dr. Z.K. Abdurahman Baizal, Dr. R. Anang Muftiadi, dan Dr. Dra. Sinta Ningrum** mengembangkan Aplikasi **Unpad SAS** (Seri Analisis Statistik). Aplikasi ini adalah perangkat lunak untuk pengolahan data statistik berbasis website, dengan fitur-fitur seperti input data, output data, analisis deskriptif, analisis inferensial, analisis regresi, analisis korelasi, analisis anova, dan lain-lain. Unpad SAS diharapkan dapat mengurangi penggunaan software bajakan sekaligus menyediakan solusi pengolahan data statistik yang terjangkau.
+
+Semua ini adalah bagian dari komitmen Unpad untuk menjadikan ilmu data sebagai landasan untuk inovasi, pengembangan, dan pemberdayaan masyarakat. Jika Anda tertarik untuk mengeksplor lebih lanjut atau ingin bergabung dengan tim inovatif ini, kunjungi situs web resmi kami dan temukan potensi baru dalam ilmu data!
+
+> **Website Unpad Data Science Team**: [www.datafootballjakarta.com](www.datafootballjakarta.com)
 
 Semoga informasi ini bermanfaat untuk Anda. Jika Anda memiliki pertanyaan lain, silakan bertanya lagi. 😊
 
-Source: Conversation with Bing, 11/15/2023
-(1) Magister Inovasi Regional Konsentrasi Data Sains - Pascasarjana. https://pasca.unpad.ac.id/program-magister-hybrid-project-based-learning/magister-inovasi-regional-konsentrasi-data-sains/.
-(2) Pusat Riset Kecerdasan Artifisial dan Big Data – Informatika. https://informatika.unpad.ac.id/pusat-riset-kecerdasan-artifisial-dan-big-data/.
-(3) Dosen Unpad Kembangkan Aplikasi Pengolah Data Statistik Berbasis Web. https://www.unpad.ac.id/2022/04/dosen-unpad-kembangkan-aplikasi-pengolah-data-statistik-berbasis-web/.
+**Sumber:**
+- [Magister Inovasi Regional Konsentrasi Data Sains - Pascasarjana](https://pasca.unpad.ac.id/program-magister-hybrid-project-based-learning/magister-inovasi-regional-konsentrasi-data-sains/)
+- [Pusat Riset Kecerdasan Artifisial dan Big Data – Informatika](https://informatika.unpad.ac.id/pusat-riset-kecerdasan-artifisial-dan-big-data/)
+- [Dosen Unpad Kembangkan Aplikasi Pengolah Data Statistik Berbasis Web](https://www.unpad.ac.id/2022/04/dosen-unpad-kembangkan-aplikasi-pengolah-data-statistik-berbasis-web/)
