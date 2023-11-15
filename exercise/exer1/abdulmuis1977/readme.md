@@ -18,9 +18,7 @@
 | 16  | Nanda       | Utami          | Perempuan     | Balikpapan       | 11-12-1986    | Perumahan Balik Indah Blok B1 No. 8                 | Balikpapan    | 23456    | 0813-4567-8901    | nanda.utami@email.com              |
 | 17  | Rizal       | Hermawan       | Laki-laki     | Cirebon          | 25-10-1991    | Jl. Cipto Mangunkusumo No. 17                       | Cirebon       | 78901    | 0814-6789-0123    | rizal.hermawan@email.com           |
 | 18  | Wulan       | Santika        | Perempuan     | Tangerang        | 09-05-1984    | Komplek Green Garden Blok A4 No. 6                  | Tangerang     | 34567    | 0822-1234-5678    | wulan.santika@email.com            |
-| 19  | Ilham       | Wahyudi        | Laki-laki     | Serang           | 17-07-1988    | Jl. Pahlawan No. 11                                  | Serang        | 67890    | 0815-5678-9012
-
-    | ilham.wahyudi@email.com            |
+| 19  | Ilham       | Wahyudi        | Laki-laki     | Serang           | 17-07-1988    | Jl. Pahlawan No. 11                                  | Serang        | 67890    | 0815-5678-9012 | ilham.wahyudi@email.com            |
 | 20  | Maya        | Pratiwi        | Perempuan     | Jambi            | 29-02-1996    | Jl. Ahmad Yani No. 5                                | Jambi         | 12345    | 0823-8901-2345    | maya.pratiwi@email.com             |
 | 21  | Dani        | Kusuma         | Laki-laki     | Pontianak        | 07-04-1983    | Perumahan Harapan Indah Blok C2 No. 9               | Pontianak     | 56789    | 0812-3456-7890    | dani.kusuma@email.com              |
 | 22  | Lina        | Haryanto       | Perempuan     | Ambon            | 23-08-1989    | Jl. Imam Bonjol No. 21                              | Ambon         | 23456    | 0821-2345-6789    | lina.haryanto@email.com            |
