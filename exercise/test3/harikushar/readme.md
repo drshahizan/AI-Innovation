@@ -1,6 +1,3 @@
-## Universitas Padjadjaran
-Of course, here's the information about Universitas Padjadjaran (Unpad) formatted with icons:
-
 🏫 **Universitas Padjadjaran (Unpad)** is a public university established on September 11, 1957, in Bandung, West Java ¹. Unpad operates two main campuses, located in Bandung and Jatinangor.
 
 📚 Unpad offers various educational programs, ranging from undergraduate to doctoral levels, in various faculties:
