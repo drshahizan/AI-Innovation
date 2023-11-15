@@ -17,7 +17,9 @@ Kami dengan bangga memperkenalkan tim sepakbola baru di kota ini - Tim Sepakbola
 Datanglah ke sesi seleksi kami yang akan diselenggarakan pada:
 
 📅 Tanggal: [1 Desember 2023]
+
 🕒 Waktu: [07.00-12.00]
+
 📍 Tempat: [Gelora Bandung Lautan Api]
 
 Siapkan sepatu sepakbola, semangat juang, dan tunjukkan kepada kami bahwa kamu adalah pemain yang kami cari!
