@@ -16,6 +16,12 @@ In this assignment, you will analyzing the impact of AI tools on the business la
 
 ### 1. Pair Formation
 - Choose a partner for this assignment. Ideally, select someone with complementary skills and interests to enhance the depth and breadth of your analysis.
+- Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=433067553). Please update your group information:
+
+| No | Group |  Title | Dataset | 
+| -----: |  ------ | :-----: |  ----- |  
+| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
+
 
 ### 2. Research and Analysis
 a. **AI Tools in Different Sectors:**
@@ -46,12 +52,6 @@ d. **Conclusion:**
 - **Assignment Distribution:** [Date]
 - **Submission Deadline:** [Date]
 - **Presentation Dates:** [Date]
-
-🚀 Form project teams comprising a minimum of three and a maximum of four students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=433067553). Please update your group information:
-
-| No | Group |  File | Dataset | 
-| -----: |  ------ | :-----: |  ----- |  
-| 0. | Sample  |  <a href="./sample/readme.md" ><img src="../../../images/answer.png" width="24px" height="24px" ></a> | 
 
 ### Academic Integrity
 🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
