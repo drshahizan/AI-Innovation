@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Assignment 1: AI Tools Impact Analysis on Indonesian Business Landscape.
+# Assignment 2: Comparative Study of AI Chat Services
 
 ## Objective:
 In this assignment, you will analyzing the impact of AI tools on the business landscape in Indonesia. Evaluate how these tools have been utilized in different sectors such as marketing, sales, customer support, and productivity. Provide insights into the advantages and challenges faced by businesses adopting AI tools in the Indonesian context.
