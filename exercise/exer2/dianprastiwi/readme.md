@@ -1,28 +1,59 @@
-# Tanah Air
+**Judul Lagu: Cinta Budaya Indonesia**
 
-Tanah airku tidak kulupakan  
-Kan terkenang selama hidupku  
-Biarpun saya pergi jauh  
-Tidak kan hilang dari kalbu  
+---
 
-**Reff:**  
-Tanah ku yang kucintai  
-Engkau kuhargai  
-Walaupun banyak negri kujalani  
-Yang masyhur permai di mata  
-Namun kau tetap di hati  
+**Verse 1:**
+```
+Di negeri kita yang indah
+Berserak budaya nan megah
+Dari Sabang sampai Merauke
+Cinta kita padamu tak terbatas
+```
 
-*Indonesia pusaka*  
-*Tanah tumpah darahku*  
-*Indonesia, negeri yang kucinta*  
-*Engkau bagaikan permata*  
-*Di seluruh pelosok dunia*  
+**Chorus:**
+```
+Cinta budaya Indonesia
+Warna-warni keanekaragaman
+Tarian dan lagu nan merdu
+Ciptakan semangat kebersamaan
+```
 
-Kau adalah harapan  
-Kami punya harapan  
-Untuk mempertahankan  
-Kebhinekaan tanah air  
-Tanah airku tidak kulupakan  
-Kan terkenang selama hidupku  
-Biarpun saya pergi jauh  
-Tidak kan hilang dari kalbu
+**Verse 2:**
+```
+Batik kain yang cantik
+Cerminan warisan nenek moyang
+Wayang kulit bergaya epik
+Cerita lama tetap hidup dalam jiwa
+```
+
+**Chorus:**
+```
+Cinta budaya Indonesia
+Warna-warni keanekaragaman
+Tarian dan lagu nan merdu
+Ciptakan semangat kebersamaan
+```
+
+**Bridge:**
+```
+Di setiap sudut bumi Indonesia
+Ada keajaiban tersendiri
+Dari pulau ke pulau
+Satu hati, kita bersama
+```
+
+**Chorus:**
+```
+Cinta budaya Indonesia
+Warna-warni keanekaragaman
+Tarian dan lagu nan merdu
+Ciptakan semangat kebersamaan
+```
+
+**Outro:**
+```
+Mari kita lestarikan
+Cinta budaya Indonesia
+Bersatu kita kuatkan
+Warisan nenek moyang tercinta
+```
