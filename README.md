@@ -24,11 +24,13 @@ Explore contemporary AI advancements encompassing generative AI, Large Language 
 | No. | Activity | Topic | File |
 | -----: | ------ | ------ | :-----: | 
 | 1. | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 2. | Exercise 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 3. | Exercise 2 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 4. | Exercise 3 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 5. | Assignment 1 | AI Tools Impact Analysis on Indonesian Business Landscape. | <a href="./assignment/ass1" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
-| 6. | Assignment 2 | Comparative Study of AI Chat Services | <a href="./assignment/ass2" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 2. | Exercise 1 | Dummy dataset | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 3. | Exercise 2 | Our Beautiful Culture: A Kids' Song of Love for Indonesia
+ | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 4. | Exercise 3 | Story books | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 5. | Exercise 4 | Copywriting: My football team | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 6. | Assignment 1 | AI Tools Impact Analysis on Indonesian Business Landscape. | <a href="./assignment/ass1" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 7. | Assignment 2 | Comparative Study of AI Chat Services | <a href="./assignment/ass2" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 
 
 
