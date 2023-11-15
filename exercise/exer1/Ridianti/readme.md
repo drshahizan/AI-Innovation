@@ -65,4 +65,3 @@ Certainly! Here's a table with 100 rows of dummy data for Indonesian residents:
 | 58 | Rina Puspita           | Female | 1980-08-02    | Jl. Makmur No. 43               | Denpasar         | 0812-8765-4321   |
 | 59 | Aditya Nugraha         | Male   | 1991-07-17    | Jl. Permai No. 76               | Palembang        | 0812-3456-7890   |
 | 60 | Eka Pratiwi            | Female | 1998-04-09    | Jl. Sentosa No. 43              | Makassar         | 0812-2345-6789   |
-| 61 | Adi Kusuma             | Male   | 1986-10-30    | Jl. Jaya No. 23                 | Jakarta          | 0812-
