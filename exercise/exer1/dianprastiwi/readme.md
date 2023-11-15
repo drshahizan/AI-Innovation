@@ -19,9 +19,7 @@
 | 17  | Rizky Nugraha        | Laki-Laki     | Cirebon          | 30-08-1981    | Jl. Siliwangi No. 23                       | Cirebon       | Jawa Barat       | 45126    | 081122334455     | rizky.nugraha@email.com            |
 | 18  | Wulan Sari           | Perempuan     | Padang           | 17-02-1996    | Jl. Sudirman No. 67                        | Padang        | Sumatra Barat    | 25132    | 081987654321     | wulan.sari@email.com               |
 | 19  | Yogi Saputra         | Laki-Laki     | Tasikmalaya      | 02-06-1983    | Jl. Garut No. 34                           | Tasikmalaya   | Jawa Barat       | 46129    | 085678901234     | yogi.saputra@email.com             |
-| 20  | Tika Permata         | Perempuan     |
-
- Serang           | 21-12-1998    | Jl. Raya Anyer No. 56                      | Serang        | Banten           | 42115    | 081234567890     | tika.permata@email.com             |
+| 20  | Tika Permata         | Perempuan     | Serang           | 21-12-1998    | Jl. Raya Anyer No. 56                      | Serang        | Banten           | 42115    | 081234567890     | tika.permata@email.com             |
 | 21  | Irfan Hermawan       | Laki-Laki     | Sukabumi         | 14-04-1989    | Jl. Puncak No. 78                          | Sukabumi      | Jawa Barat       | 43121    | 087654321098     | irfan.hermawan@email.com           |
 | 22  | Sinta Dewi           | Perempuan     | Tegal            | 09-10-1994    | Jl. Surya Kencana No. 43                   | Tegal         | Jawa Tengah      | 52134    | 089876543210     | sinta.dewi@email.com               |
 | 23  | Andi Wijaya          | Laki-Laki     | Magelang         | 23-06-1986    | Jl. Majapahit No. 21                       | Magelang      | Jawa Tengah      | 56123    | 081122334455     | andi.wijaya@email.com              |
