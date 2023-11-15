@@ -1,36 +1,52 @@
-### Universitas Padjadjaran (UNPAD)
+# Universitas Padjadjaran (UNPAD)
 
-**Location**: Sumedang Regency and Bandung, West Java, Indonesia  
-**Established**: September 11, 1957  
-**Type**: Public University
+## Overview
 
-#### Rankings and Recognition
-- **QS University Ranking 2020**: Top 10 Universities in Indonesia
-- **QS World University Rankings 2022**: 7th nationally, 801-1000 globally
-- **National Selection of State University Entrance**: Most applicants and highest passing grade since 2013
-- **Accreditation**: "A" by BAN-PT
-- **Other Rankings**: Ranked 4th in Indonesia in 2019 QS World Universities Ranking
+- **Location**: Sumedang Regency and Bandung, West Java, Indonesia.
+- **Establishment**: September 11, 1957.
+- **Accreditation**: Accredited "A" by BAN-PT.
+- **Ranking**: 4th in Indonesia and 651-700th globally (2019 QS World Universities Ranking).
+- **Campuses**: Main campuses in Jatinangor and Dipati Ukur, Bandung.
+- **Facilities**:
+  - Central library.
+  - Health centers in Dipati Ukur and Jatinangor.
+  - Sports facilities in Jatinangor.
+  - Multiple meeting rooms and event spaces.
+  - Masjid Raya UNPAD (MRU) mosque.
+  - Central laboratory for research, especially in Herbal Science.
 
-#### Development and Expansion
-- **Initial Departments**: Law, Economics, Medicine, Mathematics, and Natural Sciences
-- **Current Structure**: 16 faculties, numerous undergraduate and postgraduate programs including:
-  - 44 undergraduate programs
-  - 2 specialist programs
-  - 9 doctorate programs
-  - 19 master's degree programs
-  - 5 professional programs
-  - 1 four-year diploma program
-  - 32 three-year diploma programs
+## Academic Programs
 
-#### Campuses
-- **Main Campuses**: Jatinangor and Dipati Ukur (Bandung)
-  - **Dipati Ukur Campus**: Mainly for postgraduate programs
-  - **Jatinangor Campus**: Houses the majority of faculties
+- **Initial Departments**: Law, Economics, Medicine, Mathematics and Natural Sciences.
+- **Current Faculties**:
+  - Law, Economics and Business, Medicine, Mathematics and Natural Sciences, Agriculture, Dentistry, Cultural Sciences, Social and Political Sciences, Psychology, Animal Husbandry, Communication Science, Nursing, Fishery and Marine Science, Agroindustrial Technology, Pharmacy, Geological Engineering, and Postgraduate School.
+- **Degrees Offered**:
+  - Bachelor's, Master's, and Doctoral degrees.
+  - International undergraduate and postgraduate programs.
+- **Undergraduate Program**:
+  - Accredited Bachelor's Degrees.
+  - Focus on innovation and international recognition.
+  - Involves courses, research projects, and an undergraduate thesis or Capstone project.
+- **Master's Program**:
+  - Emphasis on developing science, technology, culture, and art.
+  - Independent research with thesis submission.
+  - Extensive job training and internationally recognized qualifications.
 
-#### Facilities
-- **Libraries**: Central library and individual libraries in faculties
-- **Health Centers**: Bale Kesehatan (Dipati Ukur), Klinik Padjadjaran (Jatinangor)
-- **Sports Facilities**: Stadion Jati Padjadjaran (outdoor), Bale Santika (indoor)
-- **Meeting Rooms**: Available in both main campuses
-- **Mosques**: In both Jatinangor and Dipati Ukur campuses
-- **Central Laboratory**: Established in 2016, focusing on multidisciplinary research especially in Herbal Science
+## International Programs
+
+- **Undergraduate**:
+  - International Undergraduate Program (IUP) with lectures in English.
+  - Regular Undergraduate Program (RUP) with lectures predominantly in Indonesian.
+- **Postgraduate**:
+  - Fifteen Master's and Doctoral Study Programs for international students.
+  - International accreditations.
+
+## Research and Innovation
+
+- Focus on multi-discipline research, especially in Herbal Science.
+- Facilities include 21 laboratories in the faculty of Mathematics and Natural Sciences.
+
+## External Links
+
+- [UNPAD Official Website](http://www.unpad.ac.id)
+- [UNPAD Programs Overview](http://www.admission.unpad.ac.id)
