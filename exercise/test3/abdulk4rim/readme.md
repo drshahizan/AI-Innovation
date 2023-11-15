@@ -1,29 +1,37 @@
-**Universitas Padjadjaran (Unpad) adalah sebuah universitas negeri yang berdiri sejak 11 September 1957 di Bandung, Jawa Barat, Indonesia¹.** 🏫 (Gedung Sekolah)
+# Dahulu Kala di Unpad 🎓
 
-**Unpad memiliki dua kampus utama, yaitu di Jatinangor dan Bandung, serta beberapa kampus lain di Sumedang, Garut, dan Pangandaran².** 🌍 (Globe)
+Dahulu kala, di sebuah kota bernama Bandung, terdapat sebuah universitas yang bernama **Universitas Padjadjaran** atau yang lebih dikenal dengan sebutan **Unpad**. Unpad didirikan pada tanggal 11 September 1957 dan memiliki dua lokasi kampus, yaitu di Bandung dan Jatinangor. Unpad menawarkan berbagai macam program pendidikan dengan profesor yang ahli di bidangnya masing-masing.
 
-**Unpad menawarkan berbagai program pendidikan, mulai dari sarjana hingga doktor, di bidang hukum, ekonomi, kedokteran, matematika, pertanian, kedokteran gigi, ilmu sosial, ilmu budaya, psikologi, peternakan, ilmu komunikasi, keperawatan, perikanan, teknologi industri, farmasi, dan teknik geologi¹.** 📚 (Buku)
+## Sejarah dan Prestasi 🏆
 
-**Unpad juga memiliki kelas internasional yang menggunakan bahasa Inggris sebagai medium pengajaran³.** 🌐 (Globe) atau 🌎 (Dunia)
+Unpad memiliki sejarah yang panjang dan prestasi yang membanggakan. Pada tahun 2020, Unpad berhasil meraih peringkat ke-10 sebagai universitas terbaik di Indonesia menurut [QS University Ranking](https://www.unpad.ac.id/)¹. Unpad juga menjadi pusat unggulan dalam **Sustainable Development Goals (SDGs)** dan **Environmental and Social Sustainability (ESS)**¹.
 
-**Unpad memiliki visi menjadi universitas bereputasi dunia dan berdampak pada masyarakat¹.** 🌟 (Bintang)
+## Pusat Unggulan 🌟
 
-**Unpad memiliki beberapa pusat unggulan penelitian dan inovasi, seperti Center for Sustainable Development Goals Studies (SDGs Center), Center for Environment and Sustainability Science (CESS), Pusat Inovasi Psikologi (PIP), dan Pusat Unggulan Inovasi Pelayanan Kefarmasian (PUI-PT IPK)¹.** 🚀 (Roket) atau 🔬 (Mikroskop)
+Unpad memiliki berbagai macam pusat unggulan, seperti:
+- **Center of Excellence (CoE) for Digitalization and Cultural Development of Sundanese Society**
+- **Center of Excellence (CoE) for Innovation in Pharmacy Services**
+- Dan masih banyak lagi¹.
 
-**Unpad juga aktif berkolaborasi dengan berbagai institusi nasional dan internasional, seperti Institut Nanoteknologi Indonesia (INI), America-Eurasia Center, dan ASEAN Higher Education Consortium (AHEC)².** 🤝 (Salam Tangan)
+Unpad juga memiliki **pusat inovasi psikologi (PIP)** yang bertujuan untuk mengembangkan ilmu psikologi dan memberikan layanan psikologi kepada masyarakat¹.
 
-**Unpad memiliki lebih dari 40.000 mahasiswa, 1.800 dosen, dan 1.500 staf⁴.** 📊 (Grafik atau Bagan Statistik)
+## Program Pendidikan 📚
 
-**Unpad juga memiliki ikatan alumni yang kuat, yang meliputi tokoh-tokoh penting di berbagai bidang, seperti politik, bisnis, hukum, media, seni, dan olahraga⁵.** 🎓 (Topi Wisuda)
+Unpad menawarkan banyak program pendidikan yang dapat dipilih, seperti:
+- Program sarjana
+- Program pascasarjana
+- Program magister
+- Program doktor
+- Program spesialis dan subspesialis¹.
 
-**Unpad memiliki berbagai fasilitas dan kegiatan kampus yang mendukung pembelajaran dan pengembangan mahasiswa, seperti perpustakaan, laboratorium, unit kegiatan mahasiswa, beasiswa, orientasi mahasiswa, dan wisuda¹.** 🏢 (Gedung Perguruan Tinggi)
+Unpad juga menawarkan kelas internasional dan beasiswa untuk mahasiswa yang berprestasi¹.
 
-**Unpad juga menyediakan informasi dan dukungan untuk mahasiswa internasional yang ingin belajar di Unpad².** 🌐 (Globe) atau ✈️ (Pesawat)
+Semoga cerita ini dapat memberikan gambaran tentang Unpad dan segala prestasi yang telah diraihnya. 😊
 
-**Source:**
-- [Universitas Padjadjaran – Universitas Padjadjaran berdiri sejak 11 ....](https://www.unpad.ac.id/) (1)
-- [Universitas Padjadjaran – Universitas Padjadjaran berdiri sejak 11 ....](https://www.unpad.ac.id/en/) (2)
-- [Universitas Padjadjaran - Wikipedia bahasa Indonesia, ensiklopedia bebas.](https://id.wikipedia.org/wiki/Universitas_Padjadjaran) (3)
-- [Universitas Padjadjaran | World University Rankings | THE.](https://www.timeshighereducation.com/world-university-rankings/universitas-padjadjaran) (4)
-- [Universitas Padjadjaran (UNPAD) : Rankings, Fees & Courses Details ....](https://www.topuniversities.com/universities/universitas-padjadjaran-unpad) (5)
-
+**Sumber:**
+- Conversation with Bing, 11/15/2023
+- [Universitas Padjadjaran](https://www.unpad.ac.id/)¹
+- [Unpad At A Glance](https://www.admission.unpad.ac.id/unpad-at-a-glance)²
+- [Universitas Padjadjaran - Universitas](https://www.unpad.ac.id/universitas)³
+- [Sejarah - Universitas Padjadjaran](https://www.unpad.ac.id/universitas/sejarah)⁴
+- [Home - Seleksi Masuk](https://smup.unpad.ac.id/)⁵
