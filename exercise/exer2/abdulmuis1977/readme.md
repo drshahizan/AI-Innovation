@@ -1,47 +1,17 @@
-(Verse 1)
-Di bawah matahari tropis yang cerah,
-Berkembang budaya yang kaya,
-Cinta Indonesia dalam setiap lagu,
-Mari kita bernyanyi, teman-teman semua.
+Judul: "Cinta Budaya Indonesia"
 
-(Chorus)
-Cinta budaya Indonesia, oh, begitu indah,
-Warna-warni kehidupan, oh, begitu rasa,
-Tarian tradisional, lagu dan seni,
-Cinta dalam hati, itu yang kita bawa.
+(Verse 1) Di bawah sinar mentari yang ceria, Di negeri yang indah, berwarna, Cinta pada budaya, tumbuh bersama, Mari bernyanyi, sahabat, dalam suka cita.
 
-(Verse 2)
-Di pegunungan yang hijau, di pantai yang biru,
-Keindahan alamnya, sungguh luar biasa,
-Ramahnya senyum, sapaan hangat,
-Cinta Indonesiaku, tak tergantikan.
+(Chorus) Cinta budaya Indonesia, oh begitu mempesona, Tarian, lagu, seni, dan cerita, Hatiku penuh dengan cinta.
 
-(Chorus)
-Cinta budaya Indonesia, oh, begitu indah,
-Warna-warni kehidupan, oh, begitu rasa,
-Tarian tradisional, lagu dan seni,
-Cinta dalam hati, itu yang kita bawa.
+(Verse 2) Batik yang cantik, warna-warni kehidupan, Mengalun seperti lagu, di setiap jalan, Kerajinan tangan, karya para seniman, Cinta pada warisan, tak terhingga.
 
-(Bridge)
-Batik yang cantik, ukiran kayu halus,
-Cinta nusantara, menyatu dalam satu suara,
-Mari kita lestarikan, warisan agung,
-Indonesia, negeri yang penuh cinta.
+(Chorus) Cinta budaya Indonesia, oh begitu mempesona, Tarian, lagu, seni, dan cerita, Hatiku penuh dengan cinta.
 
-(Verse 3)
-Dari Sabang hingga Merauke, pulau-pulau tercinta,
-Satu bahasa, berjuta budaya,
-Mari kita jaga, kebersamaan kita,
-Cinta Indonesia, selamanya kita nyanyikan.
+(Bridge) Gunung yang menjulang, laut yang biru, Keindahan alamnya, luar biasa indah, Di setiap suku, ada kekayaan, Bersatu dalam perbedaan.
 
-(Chorus)
-Cinta budaya Indonesia, oh, begitu indah,
-Warna-warni kehidupan, oh, begitu rasa,
-Tarian tradisional, lagu dan seni,
-Cinta dalam hati, itu yang kita bawa.
+(Verse 3) Dari Sabang hingga Merauke, satu bahasa, Berjuta budaya, seperti cinta yang tak tergantikan, Bersama kita jaga, lestarikan kebersamaan, Indonesia negeri cinta abadi.
 
-(Outro)
-Di bawah bendera merah putih terbang tinggi,
-Bersama-sama, kita cinta Indonesia,
-Budaya yang damai, persatuan yang abadi,
-Cinta untuk tanah air, selamanya ada.
+(Chorus) Cinta budaya Indonesia, oh begitu mempesona, Tarian, lagu, seni, dan cerita, Hatiku penuh dengan cinta.
+
+(Outro) Di bawah langit biru merah putih, Bersatu kita teguh, cinta abadi, Cinta pada budaya, cinta pada tanah air, Indonesia, oh, negeri tercinta.
