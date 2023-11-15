@@ -16,12 +16,6 @@ Tim dosen Unpad yang terdiri dari **Dr. Riny Ismarini, Dr. Z.K. Abdurahman Baiza
 
 Semua ini adalah bagian dari komitmen Unpad untuk menjadikan ilmu data sebagai landasan untuk inovasi, pengembangan, dan pemberdayaan masyarakat. Jika Anda tertarik untuk mengeksplor lebih lanjut atau ingin bergabung dengan tim inovatif ini, kunjungi situs web resmi kami dan temukan potensi baru dalam ilmu data!
 
-> **Website Unpad Data Science Team**: [www.datafootballjakarta.com](www.datafootballjakarta.com)
-
-<div align="center">
-  <img src="path/to/unpad_logo.png" alt="Logo Universitas Padjadjaran" width="150"/>
-</div>
-
 Semoga informasi ini bermanfaat untuk Anda. Jika Anda memiliki pertanyaan lain, silakan bertanya lagi. 😊
 
 **Sumber:**
