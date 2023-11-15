@@ -1,3 +1,4 @@
+Lagu Anak Indonesia
 Tentu saja, berikut adalah lirik lagu anak-anak bertema "Cinta Budaya Indonesia":
 
 [Verse 1]
