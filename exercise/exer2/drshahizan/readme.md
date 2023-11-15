@@ -1,6 +1,5 @@
-Certainly! Here are the lyrics for a children's song celebrating the love for Indonesian culture:
 
-**Title: Cinta Budaya Kita (Love Our Culture)**
+# Title: Cinta Budaya Kita (Love Our Culture)**
 
 **Verse 1:**
 ```
