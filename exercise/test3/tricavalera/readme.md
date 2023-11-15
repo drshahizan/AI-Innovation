@@ -18,6 +18,10 @@ Semua ini adalah bagian dari komitmen Unpad untuk menjadikan ilmu data sebagai l
 
 > **Website Unpad Data Science Team**: [www.datafootballjakarta.com](www.datafootballjakarta.com)
 
+<div align="center">
+  <img src="path/to/unpad_logo.png" alt="Logo Universitas Padjadjaran" width="150"/>
+</div>
+
 Semoga informasi ini bermanfaat untuk Anda. Jika Anda memiliki pertanyaan lain, silakan bertanya lagi. 😊
 
 **Sumber:**
