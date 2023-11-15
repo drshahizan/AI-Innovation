@@ -11,9 +11,9 @@ Don't forget to hit the :star: if you like this repo.
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
-| 1. | MCS231010       |           |
-| 2. | MCS231018        |           |
-| 3. | MCS231013        |           |
+| 1. |        |           |
+| 2. |         |           |
+| 3. |         |           |
 
 
 ## Introduction
