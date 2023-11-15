@@ -1,4 +1,4 @@
-_Title: Membahas Data Science dalam Bahasa Indonesia: Ilmu yang Menginspirasi dan Relevan_
+# Membahas Data Science dalam Bahasa Indonesia: Ilmu yang Menginspirasi dan Relevan
 
 Opening:
 
