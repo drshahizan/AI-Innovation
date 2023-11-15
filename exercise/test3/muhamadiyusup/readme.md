@@ -75,3 +75,11 @@
 - 🌟 "Ilmu yang Amaliah, Amanah, Agamis" - Mengedepankan ilmu pengetahuan yang bermanfaat, integritas, dan nilai-nilai keagamaan.
 
 Universitas Padjajaran terus berkomitmen untuk menjadi lembaga pendidikan unggul, menciptakan lingkungan yang inspiratif, dan melibatkan mahasiswa dalam proses pembelajaran yang holistik.
+
+**Sumber:**
+- Conversation with Bing, 11/15/2023
+- [Universitas Padjadjaran](https://www.unpad.ac.id/)¹
+- [Unpad At A Glance](https://www.admission.unpad.ac.id/unpad-at-a-glance)²
+- [Universitas Padjadjaran - Universitas](https://www.unpad.ac.id/universitas)³
+- [Sejarah - Universitas Padjadjaran](https://www.unpad.ac.id/universitas/sejarah)⁴
+- [Home - Seleksi Masuk](https://smup.unpad.ac.id/)⁵
