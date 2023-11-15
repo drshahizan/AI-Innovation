@@ -7,7 +7,52 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Assignment 4: Feature Engineering
+# Assignment 1: AI Tools Impact Analysis on Indonesian Business Landscape.
+
+## Objective:
+Analyzing the impact of AI tools on the business landscape in Indonesia. Evaluate how these tools have been utilized in different sectors such as marketing, sales, customer support, and productivity. Provide insights into the advantages and challenges faced by businesses adopting AI tools in the Indonesian context.
+
+## Instructions:
+
+1. **Pair Formation:**
+   - Choose a partner for this assignment. Ideally, select someone with complementary skills and interests to enhance the depth and breadth of your analysis.
+
+2. **Research and Analysis:**
+   a. **AI Tools in Different Sectors:**
+      - Investigate how AI tools are utilized in marketing, sales, customer support, and productivity in Indonesian businesses. Provide specific examples and case studies to illustrate your points.
+   b. **Advantages and Challenges:**
+      - Explore and evaluate the advantages that businesses gain from adopting AI tools in Indonesia. Simultaneously, identify and analyze the challenges they face in the integration and utilization of these tools.
+
+3. **Report Structure:**
+   a. **Introduction:**
+      - Provide a brief overview of the assignment, including the significance of AI tools in the Indonesian business landscape.
+   b. **AI in Marketing, Sales, Customer Support, and Productivity:**
+      - Dedicate sections to each sector, presenting your findings on how AI tools have impacted these areas.
+   c. **Advantages and Challenges:**
+      - Devote a section to discuss the advantages and challenges associated with the adoption of AI tools in Indonesian businesses.
+   d. **Conclusion:**
+      - Summarize your key findings and insights, emphasizing the overall impact of AI tools on the Indonesian business landscape.
+
+4. **Presentation:**
+   - Prepare a presentation summarizing your key findings. Use visuals, statistics, and examples to enhance clarity.
+
+5. **Submission:**
+   - Submit a written report and your presentation slides. Ensure that your report is well-structured, and your presentation is clear and engaging.
+
+## Important Dates:
+- **Assignment Distribution:** [Date]
+- **Submission Deadline:** [Date]
+- **Presentation Dates:** [Date]
+
+Should you have any questions or need clarification, feel free to reach out. Good luck, and I look forward to your insightful analyses!
+
+Best regards,
+
+[Your Name]  
+[Your Title]  
+[Contact Information]
+
+
 
 ## Introduction
 In this assignment, you will explore the essential concept of feature engineering in data science. Feature engineering is a critical step in the data preprocessing process, where you manipulate and create new features from your dataset to improve the performance of machine learning models.
