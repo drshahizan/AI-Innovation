@@ -33,9 +33,7 @@ Tentu, berikut adalah 100 data dummy untuk penduduk Indonesia dengan tambahan ko
 | 29   | Rizki Pratama     | Laki-laki     | 05-11-1986    | Jl. Bintang Mulya No. 67            | 089876543210    |
 | 30   | Siti Aisyah       | Perempuan    | 18-06-1991    | Jl. Purnama No. 09                  | 081999888777    |
 | 31   | Dani Supriyanto   | Laki-laki     | 03-02-1984    | Jl. Anggrek Biru No. 56             | 085712345678    |
-| 32   |
-
- Dina Fitriani     | Perempuan    | 26-07-1990    | Jl. Raya Damai No. 34               | 081278945612    |
+| 32   | Dina Fitriani     | Perempuan    | 26-07-1990    | Jl. Raya Damai No. 34               | 081278945612    |
 | 33   | Irfan Setiawan    | Laki-laki     | 10-04-1987    | Jl. Seroja Mekar No. 67             | 087633221100    |
 | 34   | Sari Indah        | Perempuan    | 15-09-1992    | Jl. Harum Sejahtera No. 11          | 081456789012    |
 | 35   | Dedi Pratama      | Laki-laki     | 28-05-1985    | Jl. Mawar Biru No. 45               | 085678901234    |
