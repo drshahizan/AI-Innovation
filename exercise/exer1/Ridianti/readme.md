@@ -1,4 +1,4 @@
-Certainly! Here's a table with 100 rows of dummy data for Indonesian residents:
+Dummy data for Indonesian residents:
 
 ```plaintext
 | ID | Name                   | Gender | Date of Birth | Address                          | City             | Phone Number     |
