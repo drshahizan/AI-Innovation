@@ -48,5 +48,5 @@ Melalui lagu ini, kita sampaikan pesan cinta.
 Indonesia, negeri yang damai dan indah,
 Cinta budaya kita, tumbuh abadi dalam sejarah.
 
-# Ciptaan oleh [Nama Anda]
-*Catatan: Gunakan nama Anda sebagai penulis lagu.*
+# Ciptaan oleh [IndrianaSP]
+
