@@ -7,9 +7,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Copywriting: My Bola
-Write copywriting about football club name "My Bola". "My Bola" location in Jakarta, Indonesia. 
-
+# Copywriting: Football team
+You are establishing a football team in Jakarta. Please produce copywriting to inform the existence of the team. In addition, you need to make sure that readers are interested in joining your team.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
