@@ -24,6 +24,8 @@ Explore contemporary AI advancements encompassing generative AI, Large Language 
 | No. | Activity | Topic | File |
 | -----: | ------ | ------ | :-----: | 
 | 1. | Task 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 2. | Assignment 1 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
+| 3. | Assignment 2 | Portfolio Creation | <a href="./portfolio/readme.md" ><img src="./images/rfp.png" width="24px" height="24px" ></a> | 
 
 
 
