@@ -16,7 +16,7 @@ In this assignment, you will analyzing the impact of AI tools on the business la
 
 ### 1. Pair Formation
 - Choose a partner for this assignment. Ideally, select someone with complementary skills and interests to enhance the depth and breadth of your analysis.
-- Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=433067553). Please update your group information:
+- Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=791205809). Please update your group information:
 
 | No | Group |  Title | Dataset | 
 | -----: |  ------ | :-----: |  ----- |  
