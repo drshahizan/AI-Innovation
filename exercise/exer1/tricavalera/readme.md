@@ -31,8 +31,6 @@ Berikut adalah data lengkap untuk 100 penduduk Indonesia dalam bentuk tabel:
 | 27  | Faisal Ramadhan   | Jl. Cempaka No. 45, Jakarta           | 28 Mar 1986   | faisal.ramadhan@email.com         | 08765432109   |
 | 28  | Nia Hidayah       | Jl. Teratai No. 67, Surakarta         | 6 Apr 1992    | nia.hidayah@email.com             | 08129876543   |
 | 29  | Ahmad Surya       | Jl. Dahlia No. 23, Malang             | 15 Mei 1983   | ahmad.surya@email.com             | 08543210987
-
-   |
 | 30  | Rini Widodo       | Jl. Mawar No. 45, Yogyakarta          | 22 Jun 1998   | rini.widodo@email.com             | 08123456789   |
 | 31  | Andi Pratama      | Jl. Kenanga No. 34, Bandung           | 30 Jul 1989   | andi.pratama@email.com            | 08987654321   |
 | 32  | Lina Handayani    | Jl. Anggrek No. 56, Jakarta           | 8 Sep 1985    | lina.handayani@email.com          | 08123456789   |
