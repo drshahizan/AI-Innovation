@@ -12,9 +12,9 @@ Don't forget to hit the :star: if you like this repo.
 ## Objective:
 In this assignment, you will analyzing the impact of AI tools on the business landscape in Indonesia. Evaluate how these tools have been utilized in different sectors such as marketing, sales, customer support, and productivity. Provide insights into the advantages and challenges faced by businesses adopting AI tools in the Indonesian context.
 
-### 1. Team
-- Choose a partner for this assignment. Ideally, select someone with complementary skills and interests to enhance the depth and breadth of your analysis.
-- Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=399517123). Please update your group information:
+
+### 1. Team Collaboration
+🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=399517123). Please update your group information:
 
 | No | Group |  Title | Dataset | 
 | -----: |  ------ | :-----: |  ----- |  
