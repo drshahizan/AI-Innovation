@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Our Beautiful Culture: A Kids' Song of Love for Indonesia
-You are a famous composer of children's songs. Please produce children's song lyrics. This song must have the theme of Love Indonesian Culture. Produce this song in Indonesia language.
+You are a famous composer of children's songs. Please produce children's song lyrics. This song must have the theme of Love Indonesian Culture. Produce this song in Indonesian language.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
