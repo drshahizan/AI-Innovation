@@ -1,22 +1,28 @@
 Title : Halo Halo Bandung
 
 Halo-halo Bandung
-Hujan turun lagi
-Tak ada yang datang
-Kau tinggalkan lagi
-
+Ibu kota Periangan
 Halo-halo Bandung
-Kota kenangan
-Yang pernah indah
-Sekarang sepi sendiri
-
-Mata hatiku
-Menangis rindu
-Berjumpa lagi
-Hanya dalam mimpi
-
+Kota kenang-kenangan
+Sudah lama beta
+Tidak berjumpa dengan kau
+Sekarang telah menjadi lautan api
+Mari bung rebut kembali
 Halo-halo Bandung
-Kota kenangan
-Yang pernah indah
-Sekarang sepi sendiri
-
+Ibu kota Periangan
+Halo-halo Bandung
+Kota kenang-kenangan
+Sudah lama beta
+Tidak berjumpa dengan kau
+Sekarang telah menjadi lautan api
+Mari bung rebut kembali
+Halo-halo Bandung
+Ibu kota Periangan
+Halo-halo Bandung
+Kota kenang-kenangan
+Sudah lama beta
+Tidak berjumpa dengan kau
+Sekarang telah menjadi lautan api
+Mari bung rebut kembali
+Mari bung rebut kembali
+Mari bung rebut kembali
