@@ -1,4 +1,4 @@
-### Petualangan Bintang Kecil
+### Petualangan Bintang Besar
 
 Di sebuah desa kecil, hiduplah seorang bintang kecil bernama Bintang Kecil. Bintang Kecil selalu bersinar dengan cahaya yang hangat dan ceria. Dia memiliki satu impian besar, yaitu menjelajahi alam semesta dan belajar hal-hal baru.
 
