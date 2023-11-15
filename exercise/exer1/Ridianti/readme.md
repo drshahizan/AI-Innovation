@@ -1,1 +1,68 @@
+Certainly! Here's a table with 100 rows of dummy data for Indonesian residents:
 
+```plaintext
+| ID | Name                   | Gender | Date of Birth | Address                          | City             | Phone Number     |
+|----|------------------------|--------|---------------|----------------------------------|------------------|-------------------|
+| 1  | John Doe               | Male   | 1990-05-15    | Jl. Kembang No. 123              | Jakarta          | 0812-3456-7890   |
+| 2  | Jane Smith             | Female | 1985-08-22    | Jl. Merdeka No. 45               | Surabaya         | 0812-2345-6789   |
+| 3  | Ahmad Rahman           | Male   | 1995-02-10    | Jl. Bahagia No. 8                | Bandung          | 0812-8765-4321   |
+| 4  | Siti Nurhaliza         | Female | 1988-11-30    | Jl. Cendana No. 67              | Yogyakarta       | 0812-9876-5432   |
+| 5  | Budi Santoso           | Male   | 1982-07-03    | Jl. Damai No. 21                | Medan            | 0812-3456-1234   |
+| 6  | Dewi Anggraeni         | Female | 1998-04-18    | Jl. Harmoni No. 9                | Surakarta        | 0812-5678-9012   |
+| 7  | Irfan Wahyudi          | Male   | 1993-09-25    | Jl. Sejahtera No. 33            | Semarang         | 0812-1234-5678   |
+| 8  | Rina Puspita           | Female | 1980-12-07    | Jl. Makmur No. 55               | Denpasar         | 0812-8765-4321   |
+| 9  | Aditya Nugraha         | Male   | 1991-06-14    | Jl. Permai No. 12               | Palembang        | 0812-3456-7890   |
+| 10 | Eka Pratiwi            | Female | 1997-03-09    | Jl. Sentosa No. 78              | Makassar         | 0812-2345-6789   |
+| 11 | Adi Kusuma             | Male   | 1986-08-03    | Jl. Jujur No. 34                | Jakarta          | 0812-3456-7890   |
+| 12 | Retno Wulandari        | Female | 1994-01-22    | Jl. Mawar No. 56                | Surabaya         | 0812-2345-6789   |
+| 13 | Faisal Abdullah        | Male   | 1983-12-14    | Jl. Mandiri No. 89              | Bandung          | 0812-8765-4321   |
+| 14 | Kartika Sari           | Female | 1999-07-29    | Jl. Indah No. 76                | Yogyakarta       | 0812-9876-5432   |
+| 15 | Yoga Prakoso           | Male   | 1989-04-05    | Jl. Damai No. 43                | Medan            | 0812-3456-1234   |
+| 16 | Rini Susanti           | Female | 1981-11-20    | Jl. Bahagia No. 32              | Surakarta        | 0812-5678-9012   |
+| 17 | Joko Santoso           | Male   | 1992-06-11    | Jl. Sejahtera No. 14            | Semarang         | 0812-1234-5678   |
+| 18 | Dewi Lestari           | Female | 1984-09-18    | Jl. Makmur No. 78               | Denpasar         | 0812-8765-4321   |
+| 19 | Dodi Priyanto          | Male   | 1996-03-26    | Jl. Permai No. 56               | Palembang        | 0812-3456-7890   |
+| 20 | Tri Utami              | Female | 1987-10-09    | Jl. Sentosa No. 21              | Makassar         | 0812-2345-6789   |
+| 21 | Bambang Sulistio       | Male   | 1980-05-18    | Jl. Jaya No. 65                 | Jakarta          | 0812-3456-7890   |
+| 22 | Lina Susilo            | Female | 1985-02-02    | Jl. Merdeka No. 87              | Surabaya         | 0812-2345-6789   |
+| 23 | Rizki Pratama          | Male   | 1997-09-15    | Jl. Bahagia No. 43              | Bandung          | 0812-8765-4321   |
+| 24 | Nita Setiawan          | Female | 1988-04-28    | Jl. Cendana No. 21              | Yogyakarta       | 0812-9876-5432   |
+| 25 | Iwan Nugroho           | Male   | 1982-11-10    | Jl. Damai No. 76                | Medan            | 0812-3456-1234   |
+| 26 | Maya Dewi              | Female | 1990-06-16    | Jl. Harmoni No. 54              | Surakarta        | 0812-5678-9012   |
+| 27 | Dito Prasetyo          | Male   | 1993-01-09    | Jl. Sejahtera No. 65            | Semarang         | 0812-1234-5678   |
+| 28 | Sinta Wijaya           | Female | 1980-08-02    | Jl. Makmur No. 32               | Denpasar         | 0812-8765-4321   |
+| 29 | Rudi Hermawan          | Male   | 1991-07-17    | Jl. Permai No. 76               | Palembang        | 0812-3456-7890   |
+| 30 | Sari Fitri             | Female | 1998-04-09    | Jl. Sentosa No. 43              | Makassar         | 081
+
+2-2345-6789   |
+| 31 | Dian Susanto           | Male   | 1986-10-30    | Jl. Jaya No. 23                 | Jakarta          | 0812-3456-7890   |
+| 32 | Yani Hidayat           | Female | 1994-05-20    | Jl. Merdeka No. 34              | Surabaya         | 0812-2345-6789   |
+| 33 | Hendra Setiawan        | Male   | 1983-02-13    | Jl. Bahagia No. 65              | Bandung          | 0812-8765-4321   |
+| 34 | Fika Sari              | Female | 1999-09-28    | Jl. Cendana No. 43              | Yogyakarta       | 0812-9876-5432   |
+| 35 | Adit Prasetyo          | Male   | 1989-04-11    | Jl. Damai No. 32                | Medan            | 0812-3456-1234   |
+| 36 | Ria Anggraini          | Female | 1981-12-26    | Jl. Harmoni No. 12              | Surakarta        | 0812-5678-9012   |
+| 37 | Arya Wibowo            | Male   | 1992-07-09    | Jl. Sejahtera No. 21            | Semarang         | 0812-1234-5678   |
+| 38 | Dini Kurniawan         | Female | 1984-02-18    | Jl. Makmur No. 43               | Denpasar         | 0812-8765-4321   |
+| 39 | Bima Permana           | Male   | 1996-06-14    | Jl. Permai No. 21               | Palembang        | 0812-3456-7890   |
+| 40 | Tika Rahayu            | Female | 1987-03-09    | Jl. Sentosa No. 54              | Makassar         | 0812-2345-6789   |
+| 41 | Galih Wijaya           | Male   | 1980-09-15    | Jl. Jaya No. 21                 | Jakarta          | 0812-3456-7890   |
+| 42 | Rina Sari              | Female | 1985-04-28    | Jl. Merdeka No. 65              | Surabaya         | 0812-2345-6789   |
+| 43 | Denny Rahman           | Male   | 1997-11-10    | Jl. Bahagia No. 23              | Bandung          | 0812-8765-4321   |
+| 44 | Nia Anggraeni          | Female | 1988-06-16    | Jl. Cendana No. 54              | Yogyakarta       | 0812-9876-5432   |
+| 45 | Andi Wijaya            | Male   | 1982-01-09    | Jl. Damai No. 21                | Medan            | 0812-3456-1234   |
+| 46 | Ani Setiawan           | Female | 1990-07-17    | Jl. Harmoni No. 87              | Surakarta        | 0812-5678-9012   |
+| 47 | Dodi Prayogo           | Male   | 1993-04-09    | Jl. Sejahtera No. 34            | Semarang         | 0812-1234-5678   |
+| 48 | Dewi Anggraini         | Female | 1980-09-30    | Jl. Makmur No. 65               | Denpasar         | 0812-8765-4321   |
+| 49 | Adi Nugroho            | Male   | 1991-03-26    | Jl. Permai No. 43               | Palembang        | 0812-3456-7890   |
+| 50 | Yulia Fitri            | Female | 1998-10-09    | Jl. Sentosa No. 76              | Makassar         | 0812-2345-6789   |
+| 51 | Budi Santoso           | Male   | 1986-05-18    | Jl. Jaya No. 32                 | Jakarta          | 0812-3456-7890   |
+| 52 | Dewi Lestari           | Female | 1994-02-02    | Jl. Merdeka No. 54              | Surabaya         | 0812-2345-6789   |
+| 53 | Ahmad Rahman           | Male   | 1983-09-15    | Jl. Bahagia No. 76              | Bandung          | 0812-8765-4321   |
+| 54 | Siti Nurhaliza         | Female | 1999-04-28    | Jl. Cendana No. 21              | Yogyakarta       | 0812-9876-5432   |
+| 55 | Iwan Nugroho           | Male   | 1989-11-10    | Jl. Damai No. 43                | Medan            | 0812-3456-1234   |
+| 56 | Dewi Anggraeni         | Female | 1990-06-16    | Jl. Harmoni No. 32              | Surakarta        | 0812-5678-9012   |
+| 57 | Irfan Wahyudi          | Male   | 1993-01-09    | Jl. Sejahtera No. 12            | Semarang         | 0812-1234-5678   |
+| 58 | Rina Puspita           | Female | 1980-08-02    | Jl. Makmur No. 43               | Denpasar         | 0812-8765-4321   |
+| 59 | Aditya Nugraha         | Male   | 1991-07-17    | Jl. Permai No. 76               | Palembang        | 0812-3456-7890   |
+| 60 | Eka Pratiwi            | Female | 1998-04-09    | Jl. Sentosa No. 43              | Makassar         | 0812-2345-6789   |
+| 61 | Adi Kusuma             | Male   | 1986-10-30    | Jl. Jaya No. 23                 | Jakarta          | 0812-
