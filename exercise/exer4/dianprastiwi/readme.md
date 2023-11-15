@@ -29,3 +29,9 @@ Langkah-langkah bergabung:
 4. **Bergabung dengan PERSIB Jakarta:** Para pemain yang berhasil melewati evaluasi akan diundang untuk menjadi bagian resmi dari PERSIB Jakarta.
 
 Jangan lewatkan kesempatan untuk menjadi bagian dari sejarah PERSIB Jakarta! Bergabunglah sekarang dan mari bersama-sama menciptakan prestasi gemilang dalam dunia sepak bola! 🌟⚽️🔴 #PERSIBJakarta #SepakBola #BergabungBersamaKami
+
+📅 Tanggal: [15 November 2023]
+
+🕒 Waktu: 9am
+
+📍 Tempat: GBLA
