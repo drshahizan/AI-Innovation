@@ -54,11 +54,11 @@ d. **Conclusion:**
 
 ## File and Folder Structure 
 
-You must place your file in the submission folder. Within the [`assignment/`](https://github.com/drshahizan/Python_EDA/edit/main/assignment/ass4/bdm) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
+You must place your file in the submission folder. Within the [`assignment/ass1`](https://github.com/drshahizan/AI-Innovation/edit/main/assignment/ass1) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
 
 ```html
-bdm/your_group/
-├── 📄 feature_eng.md
+ass1/your_group/
+├── 📄 report.md
 └── 📄 readme.md
 ```
 
