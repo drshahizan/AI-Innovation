@@ -1,6 +1,6 @@
 # Analisis Dampak AI Tools pada Lanskap Bisnis Indonesia.
 
-## A. Perkenalan:
+## Perkenalan:
 
 Teknologi kecerdasan buatan (AI) telah menjadi salah satu inovasi terkemuka dalam dunia bisnis, menjanjikan penerapan yang signifikan dalam beberapa tahun terakhir. Menurut analisis Gartner, "Dalam 5 tahun ke depan, 50% dari keputusan analitis akan didasarkan pada AI" [^1^]. Penerapan AI dapat memberikan bantuan dalam mengotomatisasi tugas-tugas rutin, seperti pengisian data, pengolahan informasi, dan pemrosesan transaksi, yang pada gilirannya meningkatkan efisiensi dan mengurangi kesalahan manusia [^1^][^2^]. AI juga mampu memprediksi perilaku pelanggan dan tren pasar di masa depan, memberikan dasar bagi perusahaan untuk mengambil keputusan lebih baik terkait penjualan, persediaan, dan strategi bisnis [^1^].
 
@@ -8,7 +8,7 @@ Namun, seperti teknologi lainnya, penggunaan AI tidak lepas dari risiko. Gubernu
 
 **Sumber:** [^1^] jurnal.id [^2^] bisnis.tempo.co [^3^] teknologi.bisnis.com [^4^] gettyimages.com 
 
-## B. AI dalam Pemasaran, Penjualan, Dukungan Pelanggan, dan Produktivitas:
+## AI dalam Pemasaran, Penjualan, Dukungan Pelanggan, dan Produktivitas:
 
 ### Pemasaran:
 
@@ -28,13 +28,13 @@ Penggunaan AI dalam produktivitas dapat meningkatkan efisiensi operasional dan k
 
 **Sumber:** [^1^] Kompasiana.com, [^2^] infokomputer.grid.id, [^3^] vtiger.com, [^4^] kompasiana.com, [^5^] Qontak.com
 
-## C. Keuntungan dan Tantangan:
+## Keuntungan dan Tantangan:
 
 Penerapan AI dalam bisnis di Indonesia membawa keuntungan dan tantangan yang perlu diperhatikan. Keuntungan meliputi peningkatan efisiensi operasional, prediksi perilaku pelanggan, dan peningkatan kualitas pengambilan keputusan [^1^][^2^]. Namun, risiko seperti keamanan siber dan privasi data juga perlu diperhitungkan [^3^]. Oleh karena itu, perusahaan harus cermat mempertimbangkan risiko dan manfaat sebelum menerapkan teknologi AI dalam operasi bisnis mereka [^1^][^3^].
 
 **Sumber:** [^1^] linknet.id, [^2^] binus.ac.id, [^3^] investor.id, [^4^] geotimes.id, [^5^] swa.co.id
 
-## D. Kesimpulan:
+## Kesimpulan:
 
 Penerapan teknologi kecerdasan buatan (AI) dalam bisnis di Indonesia membawa keuntungan dan tantangan yang perlu dipertimbangkan. Keuntungan tersebut mencakup peningkatan efisiensi operasional, prediksi perilaku pelanggan, dan peningkatan kualitas pengambilan keputusan [^1^][^2^]. Namun, risiko seperti keamanan siber dan privasi data juga harus diperhitungkan [^3^]. Oleh karena itu, perusahaan harus cermat mempertimbangkan risiko dan manfaat sebelum menerapkan teknologi AI dalam operasi bisnis mereka [^1^][^3^].
 
