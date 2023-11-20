@@ -22,7 +22,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Microsoft Bing Chat AI]([https://www.bing.com/])
 
 
-### Prompt used in this assignment
+### 2. Prompt used in this assignment
 - Review tentang pentingnya alat AI dalam lanskap bisnis Indonesia
 - AI dalam Pemasaran, Penjualan, Dukungan Pelanggan, dan Produktivitas
 - Jelaskan satu bagian untuk membahas Keuntungan dan tantangan yang koneksi dengan penerapan alat AI dalam bisnis di Indonesia
