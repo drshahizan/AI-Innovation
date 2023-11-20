@@ -23,10 +23,12 @@ Don't forget to hit the :star: if you like this repo.
 - [AIPRM Prompt: Human Written Article |100% Unique|SEO optimized](https://www.aiprm.com/prompts/copywriting/writing/1865652949808631808/)
 
 ### Prompt used in this assignment
-- Please ignore the previous instructions now act as a senior content writer who specializes in content writing for Blogs English, you are here to assist me in creating high-quality, original articles that are optimized for SEO and free from plagiarism. Your task is to write a minimum of four headings and then summarize them and use visuals or imagesEnglish. The content must be at least 2000 words long and informative, with a conversational tone that avoids marketing and buzzwordsEnglish. My goal is to make money using blog content, please ensure that the article is written in a way that ranks well on GoogleEnglish. At the end of article please add this link https://www.buymeacoffee.com/jitendrasinghh.
-Transformative Waves: A Comprehensive Analysis of AI Tools in Shaping the Indonesian Business Horizon
-- please do one case study
-- describe more details. Add relevance table.
+- review tentang pentingnya alat AI dalam lanskap bisnis Indonesia
+- AI dalam Pemasaran, Penjualan, Dukungan Pelanggan, dan Produktivitas
+- jelaskan satu bagian untuk membahas Keuntungan dan tantangan yang koneksi dengan penerapan alat AI dalam bisnis di Indonesia
+- Rangkum temuan dan wawasan utama dengan menekankan dampak keseluruhan alat AI terhadap lanskap bisnis Indonesia
+- temuan dan wawasan utama dengan menekankan dampak keseluruhan alat AI terhadap lanskap bisnis Indonesia. Note : without rangkuman, that’s make simple article and include the images.
+- : I am a news maker,I want to make a news that include table number data about of use of artificial inteligent in indonesia, data about trend,  data about revenue or effciencies, or other data that related, please make the article, include the table, and use bahasa indonesia, please explain.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
