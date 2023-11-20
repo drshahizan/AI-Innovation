@@ -1,4 +1,4 @@
-# Gelombang Transformatif : Studi Kasus Komprehensif tentang Adopsi AI Indonesia
+# Gelombang Transformatif : Studi Kasus Komprehensif tentang Adopsi Artificial Intelligence Indonesia
 
 **Penulis:** DMF & TY
 
