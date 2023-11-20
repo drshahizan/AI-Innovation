@@ -1,4 +1,4 @@
-# Gelombang Transformatif : Studi Kasus Komprehensif tentang Adopsi AI di Manufaktur Indonesia
+# Gelombang Transformatif : Studi Kasus Komprehensif tentang Adopsi AI Indonesia
 
 **Penulis:** DMF & TY
 
