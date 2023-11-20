@@ -210,3 +210,6 @@ Secara keseluruhan, AI memiliki dampak yang signifikan dan berpotensi mengubah c
 [^3]: [LinkNet.ID - Artificial Intelligence: Dampak, Tantangan, dan Manfaat dalam Bisnis](https://www.linknet.id/article/artificial-intelligence--dampak-tantangan-dan-manfaat-dalam-bisnis)
 [^4]: [InfoKomputer.Grid.ID - Apa Saja Dampak Teknologi AI untuk Sektor Ekonomi Indonesia?](https://infokomputer.grid.id/read/123860780/apa-saja-dampak-teknologi-ai-untuk-sektor-ekonomi-indonesia)
 [^5]: [WartaEkonomi.CO.ID - 14 Perusahaan Indonesia Gunakan AI sebagai Core Business Strategy](https://wartaekonomi.co.id/read221154/14-perusahaan-indonesia-gunakan-ai-sebagai-core-business-strategy)
+
+
+![Visitor Count](https://profile-counter.glitch.me/{tricavalera/count.svg)
