@@ -95,7 +95,6 @@ Secara keseluruhan, AI memiliki dampak yang signifikan terhadap lanskap bisnis d
 3. [InfoKomputer Grid](https://infokomputer.grid.id/read/123070906/tren-artificial-intelligence-untuk-bisnis-tahun-2022)
 4. [East Ventures](https://east.vc/id/insights-id/kecerdasan-buatan-di-indonesia-situasi-saat-ini-dan-peluangnya/)
 5. [BPS - Statistik Telekomunikasi Indonesia 2020](https://www.bps.go.id/publication/2021/10/11/e03aca1e6ae93396ee660328/statistik-telekomunikasi-indonesia-2020.html)
-6. [BPS - Statistik Air Bersih 2017-2021](
 
 https://www.bps.go.id/publication/2022/12/21/87c1eff74c1c05c909e1af78/statistik-air-bersih-2017-2021.html)
 7. [BPS - Statistik Air Bersih 2015-2020](https://www.bps.go.id/publication/2021/12/16/a641ca7512995e9d254ee194/statistik-air-bersih-2015-2020.html)
