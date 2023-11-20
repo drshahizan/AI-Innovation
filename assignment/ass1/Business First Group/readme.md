@@ -21,9 +21,6 @@ Don't forget to hit the :star: if you like this repo.
 ### 1. AI tools used: 
 - [Microsoft Bing Chat AI]([https://www.bing.com/])
 
-## Tools:
-### 1. AI tools used: 
-- [AIPRM Prompt: Human Written Article |100% Unique|SEO optimized](https://www.aiprm.com/prompts/copywriting/writing/1865652949808631808/)
 
 ### Prompt used in this assignment
 - Review tentang pentingnya alat AI dalam lanskap bisnis Indonesia
