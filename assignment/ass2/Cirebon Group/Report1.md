@@ -92,4 +92,12 @@ Meskipun ketiga layanan AI percakapan ini telah mencapai tingkat kecanggihan yan
 
 ### Kesimpulan
 
-Bing Chat, Bard AI, dan ChatGPT merupakan layanan AI percakapan yang memiliki kemampuan dan potensi yang luar biasa untuk meningkatkan pengalaman pengguna
+Bing Chat, Bard AI, dan ChatGPT merupakan layanan AI percakapan yang memiliki kemampuan dan potensi yang luar biasa untuk meningkatkan pengalaman pengguna.
+
+### Referensi
+
+* Bard, A. (2023). Bard: A large language model from Google AI. Google AI Blog.
+* ChatGPT. (n.d.). ChatGPT: A large language model chatbot developed by OpenAI. OpenAI.
+* Microsoft. (n.d.). Bing Chat: Conversational AI from Microsoft. Microsoft.
+* Rollco Digital. (2023, April 12). From Chit-Chat to Deep Conversations: A Comparative Study of ChatGPT, Google BARD, and Bing Chat. Medium.
+* Vidhya, N. Devi, D., Nithya, A., & Manju, A. (2023, July). Prognosis of exploration on chat gpt with artiﬁcial intelligence ethics. Brazilian Journal of Science, 2(9), 60–69.
