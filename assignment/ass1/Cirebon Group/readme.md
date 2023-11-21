@@ -16,7 +16,9 @@ Don't forget to hit the :star: if you like this repo.
 | 3. Yusuf Kurniawan | 251010230017        | Research Using ChatGPT         |
 
 ## 📂 Folder content:
-* [📖 Report](report.md)
+* [📖 Report 1 : BARD AI](Report1.md)
+* [📖 Report 2 : BING AI](Report2.md)
+* [📖 Report 3 : ChatGPT AI](Report3.md)
 
 ## Tools:
 ### 1. AI tools used: 
