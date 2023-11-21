@@ -17,7 +17,7 @@ Your goal is to conduct an in-depth comparative study of three prominent convers
 
 | No | Group |  Title | Submission | 
 | -----: |  ------ | ----- |  :-----: |  
-| 1. | cIREBON GROUP  |  Analisis Perbandingan Komprehensif Bing Chat, Bard AI, dan ChatGPT dengan Fokus pada Pengalaman Pengguna dan Adaptabilitas di Konteks Indonesia |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. | Cirebon Group  |  Analisis Perbandingan Komprehensif Bing Chat, Bard AI, dan ChatGPT dengan Fokus pada Pengalaman Pengguna dan Adaptabilitas di Konteks Indonesia |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
 ## Guidelines
