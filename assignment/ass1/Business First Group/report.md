@@ -1,5 +1,4 @@
-# Gelombang Transformatif : Studi Kasus Komprehensif tentang Adopsi Artificial Intelligence Indonesia
-
+# AI Tools Impact Analysis on Indonesian Business Landscape.
 **Penulis:** DMF & TY
 
 
