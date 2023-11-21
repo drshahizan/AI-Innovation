@@ -1,3 +1,5 @@
+**_Dibuat dengan Google Bard AI_**
+
 ## Studi Perbandingan Mendalam Tiga Layanan AI Percakapan Terkemuka: Bing Chat, Bard AI, dan ChatGPT
 
 ### Pendahuluan
