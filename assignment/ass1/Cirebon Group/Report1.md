@@ -1,4 +1,4 @@
-**_Dibuat dengan Google Rard AI_**
+**_Dibuat dengan Google Bard AI_**
 
 ## Dampak Alat AI pada Lanskap Bisnis di Indonesia
 
