@@ -1,9 +1,12 @@
 # Comparative Study of AI Chat Services
+**Penulis:** DMF & TY
+
 
 ## 1. Pengantar
 Selama percapakan dalam bahasa Artificial Intelligence (AI) yang berhubungan dengan pengembangan teknologi untuk interaksi dengan bahasa manusia. Manfaat AI terkait kehidupan sehari – hari yaitu pengolahan data informasi, alat bantu teknis, mendukung kebutuhan tugas pekerjaan dan pengembangan bahasa dunia. 
 Ketiga AI tools yang digunakan di Indonesia yaitu Bing Chat, Bard AI, dan Chat GPT.  Bisnis Indonesia memanfaatkan ketiga platform tersebut untuk mengisi pertanyaan sesuai kebutuhan pengguna, mudah mendapatkan jawaban secara langsung. Contohnya para pengguna yang mengajukan beberapa pertanyaan terkait mencari solusi untuk kendala bahasa koding, rekomendasi resep masakan, sejarah dan macam-macam, dapat dijawabkan sesuai porsi kapasitas pemahaman ketiga platform ini. Pelayanan Bing chat, Bard AI, dan Chat GPT itu memang hampir sama, terutama chatbot yang tersedia.
 Microsoft Bing yang menciptakan produk bing chat di pencarian bing, sedangkan Bard AI itu berasal dari Google, dan terakhir ChatGPT yang didirikan oleh OpenAI. Hanya fasilitas layanan ketiga platform itu berbeda, misalnya layanan chatGPT memakai LLM untuk merevisi bahasa teks yang lebih bagus lagi daripada kalimat sebelumnya, layanan Bing chat yang menghimpun banyak pertanyaan dijawab dengan hasil kepuasan yang baik,  dan layanan Bard AI dapat melahirkan banyak pengetahuan dunia yang kreatif dan sangat lengkap. Hanya saja ChatGPT bisa dipakai untuk kalangan umum. Ketiga layanan obrolan AI ini memiliki kelebihan dan kekurangan masing-masing. 
+
 
 ## 2. Features and Functionality
 
@@ -37,6 +40,7 @@ Microsoft Bing yang menciptakan produk bing chat di pencarian bing, sedangkan Ba
 |            | - Membatasi banyak permintaan yang tidak pantas | -                                                |                                                  |
 |            | - Hanya pengguna ChatGPT Plus dan pengembang yang akan memiliki akses ke GPT-4 pada awalnya, dengan bantuan mode developer | -                                                |                                                  |
 
+
 ## 3. Identifikasi tujuan, bahasa, dan kemampuan layanan AI di Bing chat, bard AI dan Chatgpt di tabel
 | AI         | Bahasa                      | Kemampuan                                      | Tujuan                                          |
 |------------|-----------------------------|------------------------------------------------|--------------------------------------------------|
@@ -53,6 +57,8 @@ Microsoft Bing yang menciptakan produk bing chat di pencarian bing, sedangkan Ba
 |            |                              | - Membantu pengguna dengan tugas           |                                                  |
 |            |                              | - Menyusun email, esai dan kode             |                                                  |
 
+
+
 ## 4. Analisis perbandingan fitur khas dari setiap layanan obrolan AI terdiri dari Bard AI, ChatGPT, dan Bing AI :
 
 - **Bard AI**
@@ -62,7 +68,9 @@ Microsoft Bing yang menciptakan produk bing chat di pencarian bing, sedangkan Ba
 - **Bing AI**
   - Bing AI lumayan mirip dengan ChatGPT. Karena menggunakan program language model chatbot yang sama. Bing AI yang ada di pencarian situs untuk mencari informasi, menulis konten, membuat gambar, dan berbagai hal lainnya sama dengan chatGPT juga. Hanya saja bing AI jauh lebih informatif dan komprehensif, alasannya bisa mengolah data hasil permintaan misalnya, tabel, kata-kata sederhana untuk anak-anak, dan dapat memodifikasinya. Setiap percakapan yang dilakukan di Bing AI menyimpan konteks pertanyaan awal lagi karena hanya sampai 5 pertanyaan. Bing AI juga dapat memberikan jawaban bertenaga AI langsung di halaman hasil pencarian yang di bagian bawah secara lengkap dan sumber internet. Kekurangannya tidak dapat menyimpan jangka panjang, perlu diulang lagi dan harus mengetik ulang apabila kondisi lupa.
 
-## 5. Menilai antarmuka pengguna dan kemudahan interaksi untuk layanan obrolan AI 
+
+
+# 5. Menilai antarmuka pengguna dan kemudahan interaksi untuk layanan obrolan AI 
 
 1. **Kesederhanaan Navigasi:**
    - Antarmuka harus intuitif dan mudah digunakan. Pengguna harus dapat dengan mudah memahami bagaimana berinteraksi dengan asisten dan menemukan fitur atau fungsi yang mereka cari.
@@ -78,6 +86,8 @@ Microsoft Bing yang menciptakan produk bing chat di pencarian bing, sedangkan Ba
    - Asisten harus menjaga privasi dan keamanan pengguna. Ini berarti tidak menyimpan informasi pribadi kecuali diperlukan untuk fungsi asisten, dan menggunakan enkripsi dan langkah-langkah keamanan lainnya untuk melindungi data pengguna.
 
 Semua faktor ini berkontribusi terhadap kualitas keseluruhan dari layanan obrolan AI dan pengalaman pengguna secara keseluruhan. Sebuah layanan yang baik akan menyeimbangkan semua faktor ini untuk memberikan pengalaman yang mulus dan memuaskan bagi pengguna. 
+
+
 
 ## 6. Metrik Layanan dalam tabel
 
@@ -98,6 +108,8 @@ Semua faktor ini berkontribusi terhadap kualitas keseluruhan dari layanan obrola
 - **Metrik Interaksi:** Ini bisa mencakup berapa banyak pertanyaan yang dijawab dengan benar, berapa lama waktu respons, dan seberapa sering pengguna berinteraksi dengan asisten.
 - **Analisis Sentimen:** Analisis sentimen dapat digunakan untuk memahami bagaimana pengguna merasa tentang interaksi mereka dengan asisten.
 
+
+
 ## 7. Risiko keamanan
 
 Ya, seperti teknologi lainnya, penggunaan layanan obrolan AI juga memiliki beberapa risiko keamanan potensial, termasuk:
@@ -108,6 +120,8 @@ Ya, seperti teknologi lainnya, penggunaan layanan obrolan AI juga memiliki beber
 4. **Penggunaan yang Tidak Pantas:** Layanan obrolan AI dapat disalahgunakan oleh pengguna dengan niat jahat, misalnya, untuk menyebarkan konten yang merugikan atau menyesatkan.
 
 Untuk mengurangi risiko ini, penting bagi pengguna untuk menggunakan layanan obrolan AI dengan bijaksana dan berhati-hati dalam berbagi informasi pribadi. Selain itu, penyedia layanan harus berkomitmen untuk melindungi data pengguna dan menerapkan langkah-langkah keamanan yang kuat.
+
+
 
 ## 8. Adaptabilitas to Indonesian Users
 
@@ -129,6 +143,8 @@ Dalam hal kepekaan budaya, ketiga chatbot menunjukkan kemampuan yang sama dalam 
 
 Dalam memilih chatbot yang tepat, pengguna harus mempertimbangkan kebutuhan mereka dan memilih chatbot yang paling sesuai dengan kebutuhan mereka. Namun, ketiga chatbot menawarkan kemampuan yang unik dan dapat membantu pengguna dalam berbagai hal.
 
+
+
 ## 9. Areas for Improvement
 
 Ketiga layanan ini memiliki kelebihan dan kekurangan masing-masing. Berikut adalah tabel perbandingan antara ketiga layanan AI chatbot:
@@ -149,9 +165,12 @@ Dalam pengalaman pengguna, ketiga layanan AI chatbot ini memiliki kelebihan dan 
 
 Semoga informasi ini bermanfaat bagi Anda. Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan lain. Terima kasih telah menggunakan layanan Bing.
 
+
+
 ## 10. Kesimpulan
 
 Bing Chat, Bard AI, dan ChatGPT masing-masing memiliki keunggulan dan kekurangan dalam analisis ini. Pengguna di Indonesia dapat memilih platform yang paling mereka sukai, artikel ini dapat membantu mereka memilih yang terbaik, dan juga, memahami fitur, fungsionalitas, keramahan pengguna, dan konteks budaya sangat penting untuk membuat keputusan informasi yang baik.
+
 
 ## 11. Referensi
 
