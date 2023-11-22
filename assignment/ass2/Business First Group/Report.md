@@ -70,7 +70,7 @@ Microsoft Bing yang menciptakan produk bing chat di pencarian bing, sedangkan Ba
 
 
 
-# 5. Menilai antarmuka pengguna dan kemudahan interaksi untuk layanan obrolan AI 
+## 5. Menilai antarmuka pengguna dan kemudahan interaksi untuk layanan obrolan AI 
 
 1. **Kesederhanaan Navigasi:**
    - Antarmuka harus intuitif dan mudah digunakan. Pengguna harus dapat dengan mudah memahami bagaimana berinteraksi dengan asisten dan menemukan fitur atau fungsi yang mereka cari.
