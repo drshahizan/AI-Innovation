@@ -4,7 +4,9 @@
 
 ## 1. Pengantar
 Selama percapakan dalam bahasa Artificial Intelligence (AI) yang berhubungan dengan pengembangan teknologi untuk interaksi dengan bahasa manusia. Manfaat AI terkait kehidupan sehari – hari yaitu pengolahan data informasi, alat bantu teknis, mendukung kebutuhan tugas pekerjaan dan pengembangan bahasa dunia. 
+
 Ketiga AI tools yang digunakan di Indonesia yaitu Bing Chat, Bard AI, dan Chat GPT.  Bisnis Indonesia memanfaatkan ketiga platform tersebut untuk mengisi pertanyaan sesuai kebutuhan pengguna, mudah mendapatkan jawaban secara langsung. Contohnya para pengguna yang mengajukan beberapa pertanyaan terkait mencari solusi untuk kendala bahasa koding, rekomendasi resep masakan, sejarah dan macam-macam, dapat dijawabkan sesuai porsi kapasitas pemahaman ketiga platform ini. Pelayanan Bing chat, Bard AI, dan Chat GPT itu memang hampir sama, terutama chatbot yang tersedia.
+
 Microsoft Bing yang menciptakan produk bing chat di pencarian bing, sedangkan Bard AI itu berasal dari Google, dan terakhir ChatGPT yang didirikan oleh OpenAI. Hanya fasilitas layanan ketiga platform itu berbeda, misalnya layanan chatGPT memakai LLM untuk merevisi bahasa teks yang lebih bagus lagi daripada kalimat sebelumnya, layanan Bing chat yang menghimpun banyak pertanyaan dijawab dengan hasil kepuasan yang baik,  dan layanan Bard AI dapat melahirkan banyak pengetahuan dunia yang kreatif dan sangat lengkap. Hanya saja ChatGPT bisa dipakai untuk kalangan umum. Ketiga layanan obrolan AI ini memiliki kelebihan dan kekurangan masing-masing. 
 
 
