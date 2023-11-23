@@ -1,4 +1,4 @@
-## Transformative Waves: A Comprehensive Case Study on AI Adoption in Indonesian Hotel Industry
+## Transformative Waves: AI Adoption in Indonesian Hotel Industry
 
 ### Introduction
 ![enter image description here](https://media-cdn.tripadvisor.com/media/photo-s/19/23/89/ac/wyndham-casablanca-jakarta.jpg)
