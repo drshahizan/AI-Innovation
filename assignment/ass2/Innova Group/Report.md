@@ -54,7 +54,7 @@ Despite their strengths, all three LLMs have areas for improvement:
 | LLM | Areas for Improvement |
 |---|---|
 | Bing Chat | Enhance creative writing capabilities and expand repertoire of writing styles and genres |
-| Bard AI | Improve ability to access and process information from the real world in real-time, providing |
+| Bard AI | Improve ability to access and process information from the real world in real-time, providing more up-to-date and contextually relevant responses |
 | ChatGPT |	Expand knowledge base to encompass a wider range of topics and domains, and enhance language translation capabilities to provide more accurate and natural-sounding translations |
 <BR>
 
