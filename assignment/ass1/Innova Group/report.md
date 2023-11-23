@@ -34,8 +34,7 @@ AI is boosting hotel productivity by automating routine tasks, streamlining oper
  - AI can increase the productivity and efficiency of hotel operations by optimizing resource allocation, reducing costs, enhancing security, and streamlining workflows
  - AI can foster innovation and competitiveness in the hotel industry by enabling new business models, creating new value propositions, and generating new insights from data
 
-
-
+ - 
 
 ![enter image description here](https://arevtech.com/wp-content/uploads/2021/03/AI-hackers.jpg)
 
