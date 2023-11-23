@@ -25,6 +25,7 @@ AI is revolutionizing hotel customer support by providing 24/7 assistance, autom
 AI is boosting hotel productivity by automating routine tasks, streamlining operations, and optimizing resource allocation. AI-powered chatbots are handling guest inquiries, automating reservation processes, and providing personalized recommendations, freeing up staff time to focus on more value-added activities. **AI-powered predictive maintenance systems are optimizing asset management, reducing downtime, and minimizing maintenance costs.**
 
 ## Advantages and Challenges
+![enter image description here](https://i.pinimg.com/originals/e1/1c/5f/e11c5f4e8425d30c805e246e01ef2999.png)
 
 ### Advantages
 
