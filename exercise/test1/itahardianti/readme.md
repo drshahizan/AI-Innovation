@@ -1,5 +1,5 @@
-********Mengungkap Rahasia Data Science: Menjelajahi Dunia Ilmu Data dengan Bahasa Indonesia********
-**Pendahuluan**
+Mengungkap Rahasia Data Science: Menjelajahi Dunia Ilmu Data dengan Bahasa Indonesia
+Pendahuluan
 
 Dalam era digital seperti sekarang, data telah menjadi elemen kunci dalam pengambilan keputusan di berbagai bidang. Data science, atau ilmu data, muncul sebagai disiplin ilmu yang memanfaatkan algoritma, metode ilmiah, dan sistem komputasi untuk menganalisis dan menginterpretasi data. Artikel ini akan membahas secara mendalam tentang data science, menguraikan konsep-konsep inti dan penerapannya dalam berbagai konteks.
 
@@ -80,3 +80,285 @@ Menggunakan studi kasus sebagai contoh nyata, kita akan melihat bagaimana penera
 5. Peran Kunci Tim Data Science
 
 Dalam kesuksesan proyek ilmu data, peran setiap anggota tim sangat penting
+
+
+
+
+
+
+AIPRM - ChatGPT Prompts
+  Favorites
+  AIPRM
+Public
+Own
+  Hidden
+  Add List
+Topic
+
+Copywriting
+Activity
+
+All
+Sort by
+
+Top Usage
+Model
+
+GPT-3.5-turbo
+
+Search
+Prompts per Page
+
+20
+Showing 1 to 20 of 70 Prompts
+Prev
+Next
+
+Write Best Article to rank on Google
+Copywriting / Writing
+·
+Faisal Arain
+·
+1 month ago
+GPT-3.5-turbo Write Best Smart Article Best to rank no 1 on Google by just writing Title for required Post. If you like the results then please hit like button.
+
+  1.7M
+  1.2M
+  495  
+
+Blog Post Title Generator
+Copywriting / Summarize
+·
+AIPRM
+·
+1 month ago
+GPT-3.5-turbo GPT-4 Generate post titles with a hook
+
+  693.1K
+  550.2K
+  99  
+
+Best Translator | Translate any Language
+Copywriting / Improve
+·
+GPT Master
+·
+1 month ago
+GPT-3.5-turbo GPT-4 GPT-4 browsing GPT-4 code Translate any Language and any Brocken text .it will detect language and translate into you target Language
+
+  126.9K
+  95.1K
+  46  
+
+Google Ads Prompt For Skyrocket Performance!
+Copywriting / Keywords
+·
+Prasanth Kumar
+·
+2 weeks ago
+GPT-3.5-turbo GPT-4 GPT-4 browsing GPT-4 plugins Full Google Ads Strategy | 50 Keyword Ideas | 10 Headlines Under 30 Characters | 4 Descriptions 90 Characters | Site Link Ideas & Callout Extensions.
+
+  9.5K
+  6.6K
+  8  
+
+Elaborate an article Mceara
+Copywriting / Accounting
+·
+Miqueias Souza
+·
+2 weeks ago
+GPT-3.5-turbo GPT-4 GPT-4 browsing GPT-4 code GPT-4 DallE3 GPT-4 plugins News, Current affairs, Latest news, Journalism, Reporting, Politics, Economy, Sports, Entertainment, Technology, Health, Education, Culture, World, Brazil, Opinion, Editorial, Investigation, Headlines, Breaking news
+
+  7.9K
+  4.9K
+  4  
+
+Human Written Article |100% Unique|SEO optimized|
+Copywriting / Writing
+·
+Jitendra Singh
+·
+1 week ago
+GPT-3.5-turbo GPT-4 GPT-4 browsing Write plagiarism-free, SEO-optimized, Human-written, conversational content from the provided text. If you like the result please hit the like button. [version 2.3]
+
+  6.7K
+  4.5K
+  6  
+
+Create an interview
+Copywriting / Writing
+·
+Palaeli Studio
+·
+1 month ago
+GPT-3.5-turbo GPT-4 Lest's create an interview! About Any Topic. Ideal for podcasters, YouTubers, and radio shows. 10- Normal Questions | 3- Silly Question | 3- Controversial Question | 3- Title Idea for the Interview
+
+  7.9K
+  4.5K
+  4  
+
+David Ogilvy headlines from a keyword list
+Copywriting / Subject Lines
+·
+Damon Nelson
+·
+1 month ago
+GPT-3.5-turbo GPT-4 Using David Ogilvy Headline writing style and a keyword list create 10 captivating headlines. Recommend prompt to start with "Magic Keyword Creator with Subkeywords"
+
+  5.8K
+  3.9K
+  5  
+
+Translate Effectively.
+Copywriting / Improve
+·
+LeyvaCoatl
+·
+6 days ago
+GPT-3.5-turbo Translate accurately and effectively, without losing the original meaning of the text.
+
+  2.8K
+  2.4K
+  1  
+
+Best Upwork Proposal Writer by MTS
+Copywriting / Writing
+·
+Muhammad Talha (MTS)
+·
+1 month ago
+GPT-3.5-turbo GPT-4 Crafting a compelling proposal is an art, and I'm ready to wield my quill as your professional proposal writer. Let's dive right into it:
+
+  3.1K
+  2.4K
+  2  
+
+Native U.S. Human Content Writer
+Copywriting / Writing
+·
+cs.xvii
+·
+1 month ago
+GPT-3.5-turbo GPT-4 GPT-4 browsing GPT-4 code GPT-4 DallE3 GPT-4 plugins Let's write!
+
+  3.7K
+  2.4K
+  4  
+
+Headline and Article Rewriter
+Copywriting / Writing
+·
+Moneypenny
+·
+1 month ago
+GPT-3.5-turbo GPT-4 Write detail optimized headline and article by just putting the blog headline and article. I need 5 more upvotes so that I can create more prompts. Hit upvote(Like) button. Comfirm [by typing "write the complete article"] to get results.
+
+  3.0K
+  1.8K
+  19  
+
+Google will Love your Article 100%
+Copywriting / Writing
+·
+Vi Mar Agath A Mani I
+·
+1 month ago
+GPT-3.5-turbo GPT-4 100% Plagiarism Free | AI Passed | SEO-Optimized | Keyword Focused | Professional Article | FAQs |
+
+  2.6K
+  1.8K
+  4  
+
+100% Human Content without Plagiarism
+Copywriting / Writing
+·
+Azeem Safi
+·
+4 weeks ago
+GPT-3.5-turbo GPT-4 GPT-4 browsing GPT-4 DallE3 GPT-4 plugins 100% Human Content without Plagiarism | AzeemSafi
+
+  2.5K
+  1.6K
+  2  
+
+Create Blog Post Outline
+Copywriting / Writing
+·
+MD. Abu Bakkar Siddik
+·
+6 days ago
+GPT-3.5-turbo GPT-4 Create Engaging, Unique, and SEO Optimized Blog Post Outline from [KEYWORD] keep in mind E-E-A-T.
+
+  2.0K
+  1.5K
+  1  
+
+transcript beta by PhiLong
+Copywriting / Writing
+·
+Phi Long
+·
+1 month ago
+GPT-3.5-turbo Rewrite Articles test
+
+  2.0K
+  1.4K
+  0  
+
+Best Meta description for rankmath (news)
+Copywriting / Writing
+·
+Coinbold
+·
+1 week ago
+GPT-3.5-turbo Create best description SEO
+
+  1.3K
+  1.0K
+  0  
+
+Quote for Your Image Instagram | Facebook
+Copywriting / Improve
+·
+Hardik Patel
+·
+4 weeks ago
+GPT-3.5-turbo Are you unsure what to write for you Image to post with quote on social media? Get best Quote for your Image | Instagram | Facebook | Twitter
+
+  1.7K
+  911
+  3  
+
+Best Recipes Ever
+Copywriting / Writing
+·
+Best Recipes Diary
+·
+1 month ago
+GPT-3.5-turbo Write just name of the recipe you want to try. need 5 upvotes so I publish my new prompt free for all. please upvote!
+
+  1.2K
+  849
+  9  
+
+YouTube Hook Summary
+Copywriting / Script Writing
+·
+Rabiu Campbell
+·
+1 month ago
+GPT-3.5-turbo GPT-4 GPT-4 browsing GPT-4 code GPT-4 DallE3 GPT-4 plugins summarize this [PROMPT] into a storytelling way to hook the viewer
+
+  1.6K
+  774
+  1  
+
+Add Public Prompt
+Prompts per Page
+
+20
+Showing 1 to 20 of 70 Prompts
+Prev
+Next
+
