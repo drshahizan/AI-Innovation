@@ -6,6 +6,7 @@
 In the ever-evolving landscape of the Indonesian hospitality sector, artificial intelligence (AI) has emerged as a transformative force, revolutionizing operations, enhancing customer experiences, and driving business growth. AI tools, with their capabilities of data analysis, pattern recognition, and machine learning, are empowering Indonesian hotels to optimize marketing strategies, personalize sales approaches, elevate customer support interactions, and boost overall productivity. This comprehensive case study delves into the transformative impact of AI across four key areas: marketing, sales, customer support, and productivity.
 
 ## AI in Marketing, Sales, Customer Support, and Productivity
+![enter image description here](https://www.worldhotelmarketing.com/blog/wp-content/uploads/2017/01/shutterstock_548770261.jpg)
 
 ### Marketing
 
