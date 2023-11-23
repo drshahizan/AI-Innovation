@@ -28,19 +28,15 @@ AI is boosting hotel productivity by automating routine tasks, streamlining oper
 
 ### Advantages
 
-* Enhanced customer experience
-* Improved operational efficiency
-* Increased revenue and profitability
-* Data-driven decision-making
-* Personalized marketing and sales strategies
+ - AI can improve the quality of service and customer satisfaction by providing personalized recommendations, chatbots, smart rooms, and automated check-in and check-out processes
+ - AI can increase the productivity and efficiency of hotel operations by optimizing resource allocation, reducing costs, enhancing security, and streamlining workflows
+ - AI can foster innovation and competitiveness in the hotel industry by enabling new business models, creating new value propositions, and generating new insights from data
 
 ### Challenges
 
-* Data quality and integration
-* AI skills and expertise shortage
-* Ethical considerations and privacy concerns
-* Initial investment costs and ongoing maintenance
-* Adapting to changing customer expectations
+- AI requires a high level of digitalization, infrastructure, and investment, which may be difficult to achieve for some hotels in Indonesia, especially in rural areas
+ - AI poses ethical, social, and legal risks, such as privacy, security, accountability, transparency, and human dignity, which need to be addressed by appropriate regulations and standards
+ - AI may have negative impacts on the labor market, such as job displacement, skill mismatch, and social inequality, which need to be mitigated by education, training, and social protection
 
 ## Conclusion
 
