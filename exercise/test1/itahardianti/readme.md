@@ -1,9 +1,9 @@
-Mengungkap Rahasia Data Science: Menjelajahi Dunia Ilmu Data dengan Bahasa Indonesia
-Pendahuluan
+********Mengungkap Rahasia Data Science: Menjelajahi Dunia Ilmu Data dengan Bahasa Indonesia
+Pendahuluan********
 
 Dalam era digital seperti sekarang, data telah menjadi elemen kunci dalam pengambilan keputusan di berbagai bidang. Data science, atau ilmu data, muncul sebagai disiplin ilmu yang memanfaatkan algoritma, metode ilmiah, dan sistem komputasi untuk menganalisis dan menginterpretasi data. Artikel ini akan membahas secara mendalam tentang data science, menguraikan konsep-konsep inti dan penerapannya dalam berbagai konteks.
 
-Apa Itu Data Science?
+****Apa Itu Data Science?****
 
 Ilmu Data dalam Perspektif Bahasa Indonesia
 
