@@ -1,6 +1,7 @@
 ## Transformative Waves: A Comprehensive Case Study on AI Adoption in Indonesian Hotel Industry
 
 ### Introduction
+![enter image description here](https://media-cdn.tripadvisor.com/media/photo-s/19/23/89/ac/wyndham-casablanca-jakarta.jpg)
 
 In the ever-evolving landscape of the Indonesian hospitality sector, artificial intelligence (AI) has emerged as a transformative force, revolutionizing operations, enhancing customer experiences, and driving business growth. AI tools, with their capabilities of data analysis, pattern recognition, and machine learning, are empowering Indonesian hotels to optimize marketing strategies, personalize sales approaches, elevate customer support interactions, and boost overall productivity. This comprehensive case study delves into the transformative impact of AI across four key areas: marketing, sales, customer support, and productivity.
 
