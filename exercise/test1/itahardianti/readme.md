@@ -1,4 +1,4 @@
-Pendahuluan
+**Pendahuluan**
 
 Dalam era digital seperti sekarang, data telah menjadi elemen kunci dalam pengambilan keputusan di berbagai bidang. Data science, atau ilmu data, muncul sebagai disiplin ilmu yang memanfaatkan algoritma, metode ilmiah, dan sistem komputasi untuk menganalisis dan menginterpretasi data. Artikel ini akan membahas secara mendalam tentang data science, menguraikan konsep-konsep inti dan penerapannya dalam berbagai konteks.
 
