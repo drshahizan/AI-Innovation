@@ -10,19 +10,19 @@ In the ever-evolving landscape of the Indonesian hospitality sector, artificial 
 
 ### Marketing
 
-AI is revolutionizing hotel marketing by enabling data-driven decision-making, personalized targeting, and real-time campaign optimization. AI-powered tools are helping Indonesian hotels gather insights from customer data, social media, and online reviews to identify target segments, predict customer behavior, and tailor marketing campaigns accordingly. Chatbots powered by AI are providing 24/7 customer support, answering queries, resolving issues, and providing personalized recommendations.
+AI is revolutionizing hotel marketing by enabling data-driven decision-making, personalized targeting, and real-time campaign optimization. AI-powered tools are helping Indonesian hotels gather insights from customer data, social media, and online reviews to identify target segments, predict customer behavior, and tailor marketing campaigns accordingly. **Chatbots powered by AI are providing 24/7 customer support, answering queries, resolving issues, and providing personalized recommendations**
 
 ### Sales
 
-AI is transforming hotel sales by automating repetitive tasks, providing real-time market insights, and enabling personalized sales pitches. AI-powered revenue management systems are optimizing pricing strategies, maximizing occupancy rates, and increasing profitability. AI-powered customer relationship management (CRM) systems are providing sales teams with a holistic view of customer interactions, enabling them to anticipate customer needs and tailor sales pitches accordingly.
+AI is transforming hotel sales by automating repetitive tasks, providing real-time market insights, and enabling personalized sales pitches. AI-powered revenue management systems are optimizing pricing strategies, maximizing occupancy rates, and increasing profitability. **AI-powered customer relationship management (CRM) systems are providing sales teams with a holistic view of customer interactions, enabling them to anticipate customer needs and tailor sales pitches accordingly.**
 
 ### Customer Support
 
-AI is revolutionizing hotel customer support by providing 24/7 assistance, automating repetitive tasks, and resolving issues efficiently. AI-powered chatbots are handling routine customer queries, resolving issues promptly, and providing personalized recommendations. AI-powered sentiment analysis tools are enabling hotels to monitor customer feedback, identify areas for improvement, and enhance customer satisfaction.
+AI is revolutionizing hotel customer support by providing 24/7 assistance, automating repetitive tasks, and resolving issues efficiently. AI-powered chatbots are handling routine customer queries, resolving issues promptly, and providing personalized recommendations. **AI-powered sentiment analysis tools are enabling hotels to monitor customer feedback, identify areas for improvement, and enhance customer satisfaction.**
 
 ### Productivity
 
-AI is boosting hotel productivity by automating routine tasks, streamlining operations, and optimizing resource allocation. AI-powered chatbots are handling guest inquiries, automating reservation processes, and providing personalized recommendations, freeing up staff time to focus on more value-added activities. AI-powered predictive maintenance systems are optimizing asset management, reducing downtime, and minimizing maintenance costs.
+AI is boosting hotel productivity by automating routine tasks, streamlining operations, and optimizing resource allocation. AI-powered chatbots are handling guest inquiries, automating reservation processes, and providing personalized recommendations, freeing up staff time to focus on more value-added activities. **AI-powered predictive maintenance systems are optimizing asset management, reducing downtime, and minimizing maintenance costs.**
 
 ## Advantages and Challenges
 
