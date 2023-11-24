@@ -63,15 +63,10 @@ Compare and evaluate the efficiency of different literature search tools in retr
 | -----: |  ------ | ----- |  :-----: |  
 | 0. | Sample  |  Analisis Perbandingan Komprehensif Bing Chat, Bard AI, dan ChatGPT dengan Fokus pada Pengalaman Pengguna dan Adaptabilitas di Konteks Indonesia |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
+## Important Dates
+- **Submission Deadline:** ## December 2023
 
-
-## 5. Important Dates
-- **Submission Deadline:** 22 November 2023
-
-## 6. Academic Integrity
-🚫 Uphold the highest standards of academic integrity. Any candidate suspected of cheating in the assignment will face disciplinary action, which may include suspension or expulsion from the University. Moreover, any materials or devices found to be in violation of examination rules and regulations will be confiscated.
-
-## 7. File and Folder Structure 
+## File and Folder Structure 
 
 You must place your file in the submission folder. Within the [`assignment/ass3`](https://github.com/drshahizan/AI-Innovation/edit/main/assignment/ass3) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
 
