@@ -40,8 +40,6 @@ Compare and evaluate the efficiency of different literature search tools in retr
 5. Write a comprehensive report discussing the strengths and weaknesses of each tool based on your findings.
 6. Conclude with recommendations on which tool(s) are most suitable for different research needs.
 
----
-
 ### 2. Impact Assessment Using Publish or Perish:
 
 #### Objective:
@@ -55,8 +53,6 @@ Investigate the impact of selected computer science research papers using the Pu
 5. Consider factors that may influence citation metrics.
 6. Summarize your findings in a report, emphasizing the significance of using citation metrics in assessing research impact.
 
----
-
 ### 3. Citation Analysis with scite.ai:
 
 #### Objective:
@@ -68,8 +64,6 @@ Assess the reliability of scientific claims in computer science research using s
 3. Evaluate the context in which the selected papers are cited and discuss the reliability of the claims made.
 4. Explore how scite.ai contributes to understanding the credibility of the selected papers.
 5. Summarize your findings in a report, highlighting the insights gained from the citation analysis.
-
----
 
 ### 4. Collaborative Research Using Emerging Platforms:
 
@@ -83,8 +77,6 @@ Explore the functionalities of emerging collaborative research platforms in faci
 4. Evaluate the effectiveness of the platforms in enhancing teamwork, communication, and decision-making.
 5. Document challenges and benefits experienced during the collaborative research process.
 6. Present your findings in a report, providing insights into the suitability of these platforms for collaborative research in computer science.
-
----
 
 ### 5. Biomedical Informatics Literature Review with PubMed:
 
