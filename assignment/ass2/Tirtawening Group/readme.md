@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 | 3.Mochamad Taufan Harry Sakti Ruchendi |251020230014         |           |
 
 <p align="center">
-  <img src="AIChat.jpeg" width="1600px" height="900px">
+  <img src="AIChat.jpeg" width="524px" height="324px">
 </p>
 
 # Created with AIPRM Prompt "Article Builder Pro by Pastiin Dulu"
