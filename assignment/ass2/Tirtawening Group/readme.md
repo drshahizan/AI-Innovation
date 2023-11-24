@@ -4,6 +4,6 @@ Don't forget to hit the :star: if you like this repo.
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
-| 1. |Muhammad Arsyad Faturrohman       |251020230012           |
-| 2. |Ahmad Syaifullah          |251020230013           |
-| 3. |Mochamad Taufan Harry Sakti Ruchendi         |251020230014           |
+| 1.Muhammad Arsyad Faturrohman |251020230012       |           |
+| 2.Ahmad Syaifullah |251020230013          |           |
+| 3.Mochamad Taufan Harry Sakti Ruchendi |251020230014         |           |
