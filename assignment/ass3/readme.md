@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Assignment 2: Comparative Analysis of Literature Search Tools
+# Assignment 3: Comparative Analysis of Literature Search Tools
 
 
 ## Objective:
