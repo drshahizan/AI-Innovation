@@ -17,7 +17,21 @@ Don't forget to hit the :star: if you like this repo.
 | 4. | Gephi | Gephi is an open-source software platform for visualizing and analyzing networks. It is a powerful tool that can be used to visualize the relationships between different entities, such as people, organizations, and products. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/paper-visualization/gephi" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://gephi.org/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 | 5. | Bibliometrix | Bibliometrix is an R-tool for comprehensive science mapping analysis. Bibliometrix is a software that helps you create and explore networks of publications based on citation data.|<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/paper-visualization/bibliometrix" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.bibliometrix.org/home/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 
+## Exercise
 
+1. **Open Knowledge Maps: Mapping Trends in Artificial Intelligence (AI) Research:**
+   - **Objective:** Utilize Open Knowledge Maps to visually represent trends in AI research over the past decade.
+   - **Tasks:**
+     - Create a knowledge map to highlight key subfields in AI.
+     - Visualize the connections between prominent authors and institutions.
+     - Identify the most cited papers and their influence on the field.
+
+2. **VOSviewer: Visualizing Collaboration Networks in Big Data Analytics:**
+   - **Objective:** Apply VOSviewer to visualize collaboration networks among researchers in the field of Big Data Analytics.
+   - **Tasks:**
+     - Create a network map of authors and institutions based on co-authorship.
+     - Explore the density and centrality of collaboration clusters.
+     - Analyze the evolution of collaboration networks over time.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
