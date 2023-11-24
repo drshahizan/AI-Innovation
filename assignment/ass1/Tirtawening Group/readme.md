@@ -8,6 +8,10 @@ Don't forget to hit the :star: if you like this repo.
 | 2.Ahmad Syaifullah |251020230013          |           |
 | 3.Mochamad Taufan Harry Sakti Ruchendi |251020230014         |           |
 
+<p align="center">
+  <img src="AImanufacturer.jpg" width="524px" height="324px">
+</p>
+
 Created with AIPRM Prompt "Article Builder Pro by Pastiin Dulu"
 
 Penerapan AI di Manufaktur Indonesia
