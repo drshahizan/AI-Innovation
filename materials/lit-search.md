@@ -34,7 +34,7 @@ Compare and evaluate the efficiency of different literature search tools in retr
 
 #### Instructions:
 1. Select a specific research topic within computer science that interests you.
-2. Choose four literature search tools to compare (e.g., Scopus, Web of Science, Google Scholar, Semantic Scholar).
+2. Choose four literature search tools to compare (e.g., Google Scholar, Semantic Scholar, Scopus).
 3. Conduct a literature search on your chosen topic using each tool.
 4. Document and compare the results in terms of relevance, coverage, and user-friendliness.
 5. Write a comprehensive report discussing the strengths and weaknesses of each tool based on your findings.
