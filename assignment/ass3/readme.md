@@ -9,10 +9,54 @@ Don't forget to hit the :star: if you like this repo.
 
 # Assignment 2: Comparative Analysis of Literature Search Tools
 
-## Objective:
-Your goal is to conduct an in-depth comparative study of three prominent conversational AI services: Bing Chat, Bard AI, and ChatGPT. This assignment aims to evaluate their respective features, functionality, user-friendliness, and overall effectiveness in enhancing the user experience. Additionally, you are required to investigate how these AI chat services can cater to the specific needs of users in Indonesia and identify potential areas for improvement.
 
-## 1. Team Collaboration
+## Objective:
+Compare and evaluate the efficiency of different literature search tools in retrieving relevant information in the field of computer science.
+
+## Instructions:
+
+1. **Select a Specific Research Topic:**
+   - Choose a focused and specific research topic within the field of computer science that interests you. Ensure that the topic is broad enough to yield results from various literature search tools.
+
+2. **Choose Four Literature Search Tools:**
+   - Select four literature search tools for comparison. Examples include Scopus, Web of Science, Google Scholar, and Semantic Scholar. Ensure a mix of both general and specialized tools.
+
+3. **Conduct Literature Searches:**
+   - Use each selected tool to conduct a literature search on your chosen topic. Make sure to use similar search queries for consistency.
+
+4. **Document and Compare Results:**
+   - Record and document the results from each literature search. Consider the following parameters for comparison:
+     - Relevance: Evaluate the relevance of the retrieved articles to your research topic.
+     - Coverage: Assess the comprehensiveness of the database in capturing relevant publications.
+     - User-Friendliness: Consider the ease of use, interface, and accessibility of each tool.
+
+5. **Write a Comprehensive Report:**
+   - Structure your report with the following sections:
+     - **Introduction:**
+       - Briefly introduce the importance of literature search tools in research.
+       - State your chosen research topic.
+
+     - **Literature Search Methodology:**
+       - Provide details on the search queries used for each tool.
+       - Mention any filters or limitations applied during the searches.
+
+     - **Results and Comparison:**
+       - Present the results of each literature search.
+       - Compare the relevance, coverage, and user-friendliness of each tool.
+
+     - **Strengths and Weaknesses:**
+       - Discuss the strengths and weaknesses of each literature search tool based on your findings.
+       - Consider aspects such as precision, recall, and the types of sources included.
+
+     - **Conclusion:**
+       - Summarize the key findings.
+       - Provide recommendations on which tool(s) are most suitable for different research needs within computer science.
+
+6. **Conclude with Recommendations:**
+   - Based on your analysis, conclude the report with recommendations on the most suitable literature search tool(s) for different types of research needs in computer science.
+
+
+## Team Collaboration
 🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=1640371957). Please update your group information:
 
 | No | Group |  Title | Submission | 
@@ -20,40 +64,6 @@ Your goal is to conduct an in-depth comparative study of three prominent convers
 | 0. | Sample  |  Analisis Perbandingan Komprehensif Bing Chat, Bard AI, dan ChatGPT dengan Fokus pada Pengalaman Pengguna dan Adaptabilitas di Konteks Indonesia |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
 
-## Guidelines
-
-### 1. Introduction
-   - Provide a brief introduction to the field of conversational AI and its significance.
-   - Introduce the three AI chat services - Bing Chat, Bard AI, and ChatGPT.
-
-### 2. Features and Functionality
-   - Analyze and compare the distinctive features of each AI chat service.
-   - Evaluate the functionality of the services, considering aspects such as response accuracy, language capabilities, and integration with other platforms.
-
-### 3. User-Friendliness
-   - Assess the user interface and ease of interaction for each AI chat service.
-   - Consider factors such as simplicity of navigation, clarity of responses, and overall user experience.
-
-### 4. Effectiveness in User Experience Enhancement
-   - Explore how each AI chat service contributes to enhancing the overall user experience.
-   - Consider user feedback, reviews, and any available metrics that measure user satisfaction.
-
-### 5. Adaptability to Indonesian Users
-   - Investigate how well each AI chat service caters to the specific linguistic and cultural needs of users in Indonesia.
-   - Analyze the adaptability of language models, understanding of local context, and any localized features.
-
-### 6. Areas for Improvement
-   - Identify potential areas where each AI chat service could be enhanced to better meet the needs of users, especially in the context of Indonesia.
-   - Consider user feedback, common issues, and any limitations observed during your analysis.
-
-### 7. Conclusion
-   - Summarize the key findings of your comparative analysis.
-   - Conclude with insights into which AI chat service may be better suited for users in Indonesia and potential areas for future development.
-
-### 8. References
-   - Cite relevant sources, research papers, and official documentation to support your analysis.
-
-**Remember to approach the assignment with a critical mindset, providing a balanced evaluation of each AI chat service based on the outlined criteria. Ensure clarity, coherence, and logical flow in your analysis.**
 
 ## 5. Important Dates
 - **Submission Deadline:** 22 November 2023
@@ -63,10 +73,10 @@ Your goal is to conduct an in-depth comparative study of three prominent convers
 
 ## 7. File and Folder Structure 
 
-You must place your file in the submission folder. Within the [`assignment/ass2`](https://github.com/drshahizan/AI-Innovation/edit/main/assignment/ass2) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
+You must place your file in the submission folder. Within the [`assignment/ass3`](https://github.com/drshahizan/AI-Innovation/edit/main/assignment/ass3) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
 
 ```html
-ass2/your_group/
+ass3/your_group/
 ├── 📄 report.md
 └── 📄 readme.md
 ```
