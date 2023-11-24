@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Assignment 2: Comparative Study of AI Chat Services
+# Assignment 2: Comparative Analysis of Literature Search Tools
 
 ## Objective:
 Your goal is to conduct an in-depth comparative study of three prominent conversational AI services: Bing Chat, Bard AI, and ChatGPT. This assignment aims to evaluate their respective features, functionality, user-friendliness, and overall effectiveness in enhancing the user experience. Additionally, you are required to investigate how these AI chat services can cater to the specific needs of users in Indonesia and identify potential areas for improvement.
