@@ -1,3 +1,4 @@
+Certainly! Here is a table with 100 rows of dummy data for Indonesian residents:
 | No  | Nama Depan | Nama Belakang | Jenis Kelamin | Tanggal Lahir | Alamat                       | Kota          | Kode Pos | Nomor Telepon    | Email                                |
 |-----|------------|---------------|---------------|---------------|------------------------------|---------------|----------|------------------|--------------------------------------|
 | 1   | Andi       | Susanto       | Pria          | 12/05/1989    | Jl. Pemuda No. 45           | Jakarta       | 12345    | 081234567890     | andi.susanto@email.com              |
