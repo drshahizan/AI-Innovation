@@ -45,7 +45,7 @@ Layanan conversational AI memungkinkan pengguna berinteraksi dengan sistem berba
   - Tidak ada fitur gambar, suara, atau video.
   - Keterbatasan jumlah kata atau karakter.
   - Risiko menghasilkan konten tidak relevan atau tidak akurat.
- 
+
 # Adaptabilitas untuk Pengguna Indonesia
 
 Penelitian ini bertujuan untuk mengevaluasi sejauh mana setiap layanan Chat AI dapat memenuhi kebutuhan linguistik dan budaya pengguna di Indonesia. Analisis melibatkan adaptabilitas model bahasa, pemahaman konteks lokal, dan fitur-fitur lokal yang disediakan oleh masing-masing layanan.
@@ -91,8 +91,6 @@ Berikut adalah beberapa area potensial di mana setiap layanan Chat AI dapat diti
 1. **Peningkatan Kemampuan Bahasa Indonesia:** Lakukan pengembangan lebih lanjut agar ChatGPT dapat lebih responsif terhadap variasi bahasa Indonesia dan ekspresi lokal.
 2. **Pemahaman Konteks:** Tambahkan kemampuan untuk secara lebih efektif memahami dan menanggapi konteks sosial dan budaya Indonesia.
 3. **Fleksibilitas Penggunaan:** Perbarui batasan jumlah kata atau karakter untuk meningkatkan fleksibilitas penggunaan, memungkinkan pengguna menghasilkan teks yang lebih panjang dan mendetail.
-
-
 ## Temuan Kunci:
 
 ### 1. **Bing Chat:**
