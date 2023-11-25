@@ -28,6 +28,7 @@ Don't forget to hit the :star: if you like this repo.
 - Description and analysis AI in Pmarketing, sales, customer support, and productivity in Indonesian businesses.
 - Keuntungan dan Tantangan Mengadopsi Alat Kecerdasan Buatan (AI) dalam Bisnis di Indonesia.
 - Temuan dan Wawasan AI dalam Bisnis di Indonesia
+- Kesimpulan
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
