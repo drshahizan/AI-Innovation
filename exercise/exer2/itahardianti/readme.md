@@ -1,15 +1,16 @@
-Ibu kita Kartini
-Putri sejati
-Pahlawan perempuan
-P'negri kita
+# Lirik Lagu "Ibu Kita Kartini"
 
-Harum namanya
-Harum baktinya
-Merintis jalan keadilan
-Menuju Indonesia merdeka
+Ibu kita Kartini  
+Putri sejati  
+Pahlawan perempuan  
+P'negri kita  
 
-Ayo maju terus
-Berkarya untuk nusa
-Ayo s'lamatkan
-Neg'ri tercinta
+Harum namanya  
+Harum baktinya  
+Merintis jalan keadilan  
+Menuju Indonesia merdeka  
 
+**Ayo maju terus**  
+**Berkarya untuk nusa**  
+**Ayo s'lamatkan**  
+**Neg'ri tercinta**
