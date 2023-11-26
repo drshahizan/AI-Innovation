@@ -4,5 +4,4 @@
 |---------|---------| 
 | mila sekarini | 251020220502  | 
 
-[Report](assignment/ass1/Suzuki Group/Report.md)
 
