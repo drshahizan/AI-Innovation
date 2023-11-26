@@ -4,5 +4,5 @@
 |---------|---------| 
 | mila sekarini | 251020220502  | 
 
-[Nama Folder](./)
+[Report.md](./assignment/ass1/Suzuki Group/Report.md)
 
