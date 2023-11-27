@@ -7,7 +7,7 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 
 #### 1.Efisiensi Operasional🔄
 
-<img src="assets/1.gif" align="left" width="70px" height="75px"/> &nbsp; Penggunaan AI dalam proses otomatisasi telah meningkatkan efisiensi operasional perusahaan. Sistem otomatisasi &nbsp;&nbsp;menggunakan machine learning untuk memprediksi pola, mengelola inventaris, dan mengoptimalkan rantai pasok, &nbsp;&nbsp;menghasilkan penghematan biaya dan waktu yang signifikan.
+<img src="assets/8.gif" align="left" width="70px" height="75px"/> &nbsp; Penggunaan AI dalam proses otomatisasi telah meningkatkan efisiensi operasional perusahaan. Sistem otomatisasi &nbsp;&nbsp;menggunakan machine learning untuk memprediksi pola, mengelola inventaris, dan mengoptimalkan rantai pasok, &nbsp;&nbsp;menghasilkan penghematan biaya dan waktu yang signifikan.
 <br clear="left"/>
 
 #### 2.Peningkatan Pengalaman Pelanggan🤖
@@ -50,7 +50,7 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 - **Deskripsi:** Alat AI menganalisis ulasan, komentar, dan respons sosial media untuk mengukur sentimen konsumen terhadap produk atau merek.
 - **Contoh:** Perusahaan makanan dan minuman menggunakan analisis sentimen untuk menilai respon pelanggan terhadap produk baru mereka dan mengoptimalkan kampanye pemasaran berdasarkan umpan balik konsumen.
 
-### 2. Penjualan 🤝
+## ${\textsf{\color{blue}2. Penjualan}}$ 🤝
 
 #### Chatbot dan Asisten Virtual:
 - **Deskripsi:** Chatbot dan asisten virtual menggunakan teknologi pemrosesan bahasa alami (NLP) untuk berkomunikasi dengan pelanggan, memberikan informasi produk, dan membantu dalam proses penjualan.
@@ -60,7 +60,8 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 - **Deskripsi:** Alat AI menganalisis data penjualan historis dan tren pasar untuk membuat prediksi penjualan yang lebih akurat.
 - **Contoh:** Sebuah perusahaan manufaktur menggunakan analisis penjualan prediktif untuk merencanakan produksi dan mengelola persediaan, menghindari risiko kelebihan atau kekurangan barang.
 
-### 3. Dukungan Pelanggan 🤖
+## ${\textsf{\color{blue}3. Dukungan Pelanggan}}$ 🤖
+
 
 #### Sistem Otomatisasi Layanan Pelanggan:
 - **Deskripsi:** Chatbot dan sistem otomatisasi layanan pelanggan menggunakan AI untuk memberikan respons cepat terhadap pertanyaan pelanggan, mengelola permintaan, dan memberikan dukungan 24/7.
@@ -70,7 +71,7 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 - **Deskripsi:** Alat AI menganalisis pola permintaan layanan pelanggan untuk merencanakan dan mengoptimalkan tim dukungan.
 - **Contoh:** Sebuah penyedia layanan e-commerce menggunakan analisis data untuk mengidentifikasi tren permintaan layanan pelanggan, memungkinkan mereka mengalokasikan sumber daya dengan lebih efisien.
 
-### 4. Produktivitas 🚀
+## ${\textsf{\color{blue}4. Produktivitas}}$ 🚀
 
 #### Manajemen Proyek dan Penjadwalan:
 - **Deskripsi:** Asisten virtual menggunakan AI untuk membantu dalam manajemen proyek, penjadwalan pertemuan, dan pengaturan tugas tim.
@@ -110,47 +111,46 @@ Semoga informasi mengenai tantangan-tantangan ini membantu memahami kompleksitas
 
 ### 1. Peningkatan Efisiensi Operasional:
 
-**Temuan:**
+**✅Temuan:**
 - Banyak perusahaan di Indonesia yang mengadopsi AI melaporkan peningkatan efisiensi operasional hingga 30%.
 - Otomatisasi proses bisnis, seperti pengolahan data dan administrasi, telah mengurangi beban kerja manual.
 
-**Wawasan:**
+**👍Wawasan:**
 - Perusahaan yang menggabungkan AI dengan proses operasional mereka dapat mengoptimalkan sumber daya dan meningkatkan kinerja.
 
 ### 2. Personalisasi Pemasaran:
 
-**Temuan:**
-- Penggunaan analisis data dan machine learning telah memungkinkan personalisasi pemasaran yang lebih efektif.
-- Penargetan iklan berdasarkan perilaku konsumen telah meningkatkan tingkat respons.
+**✅Temuan:**
+- Penggunaan analisis data dan machine learning telah memungkinkan personalisasi pemasaran yang lebih efektif. - Penargetan iklan berdasarkan perilaku konsumen telah meningkatkan tingkat respons.
 
-**Wawasan:**
+**👍Wawasan:**
 - Bisnis yang memahami secara mendalam preferensi pelanggan dapat menciptakan pengalaman yang lebih relevan dan meningkatkan loyalitas.
 
 ### 3. Chatbot untuk Dukungan Pelanggan:
 
-**Temuan:**
+**✅Temuan:**
 - Perusahaan yang mengintegrasikan chatbot dalam layanan pelanggan melaporkan peningkatan respons dan penyelesaian masalah yang lebih cepat.
 - Implementasi chatbot telah mengurangi beban kerja pada tim dukungan pelanggan.
 
-**Wawasan:**
+**👍Wawasan:**
 - Penggunaan chatbot tidak hanya meningkatkan efisiensi, tetapi juga meningkatkan kepuasan pelanggan melalui layanan 24/7.
 
 ### 4. Analisis Data untuk Pengambilan Keputusan:
 
-**Temuan:**
+**✅Temuan:**
 - Bisnis yang menerapkan analisis data AI melaporkan kemampuan pengambilan keputusan yang lebih cepat dan tepat.
 - Prediksi bisnis berdasarkan analisis data telah membantu perusahaan mengantisipasi perubahan pasar.
 
-**Wawasan:**
+**👍Wawasan:**
 - Implementasi analisis data mendalam memungkinkan perusahaan mengambil keputusan strategis dengan dasar informasi yang kuat.
 
 ### 5. Inovasi Produk dan Layanan:
 
-**Temuan:**
+**✅Temuan:**
 - Perusahaan yang mendorong inovasi melalui penggunaan teknologi AI melaporkan lahirnya produk dan layanan baru yang sukses.
 - Pengembangan produk yang didukung AI menciptakan solusi yang lebih adaptif dan canggih.
 
-**Wawasan:**
+**👍Wawasan:**
 - Bisnis yang terbuka terhadap inovasi AI dapat memimpin dalam memenuhi tuntutan pasar yang terus berkembang.
 
 
