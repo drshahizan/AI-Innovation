@@ -1,4 +1,4 @@
-## Analisis Dampak Alat Kecerdasan Buatan (AI) terhadap Lanskap Bisnis di Indonesia 🚀
+# Analisis Dampak Alat Kecerdasan Buatan (AI) terhadap Lanskap Bisnis di Indonesia 🚀
 
 ### Pendahuluan 🌐
 
@@ -37,7 +37,7 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 #### 7. Peluang Pasar Baru 🌱
 
 <img src="assets/7.gif" align="left" width="70px" height="55px"/> &nbsp;&nbsp;Penggunaan teknologi AI membuka peluang baru di pasar. Perusahaan yang dapat beradaptasi dengan cepat memiliki &nbsp;&nbsp;kesempatan untuk mendominasi pasar baru yang muncul, seperti pengembangan solusi AI berbasis lokal.
-
+<br clear="left"/>
 ## Pemanfaatan Alat Kecerdasan Buatan (AI) di Berbagai Sektor Bisnis
 
 ## ${\textsf{\color{blue}1. Pemasaran}}$ 📢 
