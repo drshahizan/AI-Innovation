@@ -13,6 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
 | 1. Ita Hardianti | 251020230011 | Research, Promt and doing report          |
+| 2. Hilman Revisionery | 251020230004 | Research, Editing          |
  
 
 ## 📂 Folder content:
