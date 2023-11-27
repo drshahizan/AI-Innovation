@@ -25,7 +25,7 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 
 #### 5. Transformasi Industri🏭
 
-<img src="assets/5.gif" align="left" width="70px" height="65px"/> &nbsp;Sejumlah industri, seperti manufaktur, logistik, dan keuangan, mengalami transformasi signifikan melalui integrasi AI. Robotika dan otomatisasi proses produksi memberikan efisiensi tambahan, sementara algoritma keuangan cerdas mendukung pengambilan keputusan investasi.
+<img src="assets/5.gif" align="left" width="80px" height="95px"/> &nbsp;Sejumlah industri, seperti manufaktur, logistik, dan keuangan, mengalami transformasi signifikan melalui integrasi AI. Robotika &nbsp;dan otomatisasi proses produksi memberikan efisiensi tambahan, sementara algoritma keuangan cerdas mendukung &nbsp;pengambilan keputusan investasi.
 
 #### 6. Tantangan Etika dan Regulasi🚦
 
