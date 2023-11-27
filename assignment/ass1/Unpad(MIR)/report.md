@@ -12,27 +12,28 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 
 #### 2.Peningkatan Pengalaman Pelanggan🤖
 
-Implementasi chatbot dan sistem AI berbasis data telah meningkatkan interaksi dengan pelanggan. Ini tidak hanya meningkatkan kecepatan tanggapan, tetapi juga memberikan pengalaman pelanggan yang lebih personal dan relevan.
+<img src="assets/2.gif" align="left" width="70px" height="65px"/> &nbsp;Implementasi chatbot dan sistem AI berbasis data telah meningkatkan interaksi dengan pelanggan. Ini tidak hanya meningkatkan &nbsp;kecepatan tanggapan, tetapi juga memberikan pengalaman pelanggan yang lebih personal dan relevan.
+<br clear="left"/>
 
 #### 3. Analisis Data yang Mendalam📊
 
-Perusahaan menggunakan AI untuk menganalisis besar volume data. Ini memungkinkan pengambilan keputusan yang lebih baik, pemahaman pelanggan yang lebih mendalam, dan identifikasi tren pasar, membantu perusahaan mengoptimalkan strategi mereka.
+<img src="assets/3.gif" align="left" width="70px" height="65px"/> &nbsp;Perusahaan menggunakan AI untuk menganalisis besar volume data. Ini memungkinkan pengambilan keputusan yang lebih baik, &nbsp;pemahaman pelanggan yang lebih mendalam, dan identifikasi tren pasar, membantu perusahaan mengoptimalkan strategi &nbsp;mereka.
 
 #### 4. Peningkatan Keamanan dan Deteksi Fraud🔒
 
-Sistem keamanan berbasis AI dapat mendeteksi ancaman siber secara real-time dan memberikan perlindungan yang lebih baik terhadap serangan siber. Selain itu, algoritma deteksi fraud yang canggih membantu mencegah kegiatan ilegal dalam transaksi bisnis.
+<img src="assets/4.gif" align="left" width="70px" height="65px"/> &nbsp;Sistem keamanan berbasis AI dapat mendeteksi ancaman siber secara real-time dan memberikan perlindungan yang lebih baik &nbsp;terhadap serangan siber. Selain itu, algoritma deteksi fraud yang canggih membantu mencegah kegiatan ilegal dalam transaksi &nbsp;bisnis.
 
 #### 5. Transformasi Industri🏭
 
-Sejumlah industri, seperti manufaktur, logistik, dan keuangan, mengalami transformasi signifikan melalui integrasi AI. Robotika dan otomatisasi proses produksi memberikan efisiensi tambahan, sementara algoritma keuangan cerdas mendukung pengambilan keputusan investasi.
+<img src="assets/5.gif" align="left" width="70px" height="65px"/> &nbsp;Sejumlah industri, seperti manufaktur, logistik, dan keuangan, mengalami transformasi signifikan melalui integrasi AI. Robotika dan otomatisasi proses produksi memberikan efisiensi tambahan, sementara algoritma keuangan cerdas mendukung pengambilan keputusan investasi.
 
 #### 6. Tantangan Etika dan Regulasi🚦
 
-Penggunaan AI juga memunculkan tantangan etika dan regulasi. Diperlukan kerangka kerja regulasi yang jelas untuk mengelola penggunaan AI dan memastikan keadilan, transparansi, dan keamanan data.
+<img src="assets/6.gif" align="left" width="70px" height="65px"/> &nbsp;Penggunaan AI juga memunculkan tantangan etika dan regulasi. Diperlukan kerangka kerja regulasi yang jelas untuk mengelola penggunaan AI dan memastikan keadilan, transparansi, dan keamanan data.
 
 #### 7. Peluang Pasar Baru 🌱
 
-Penggunaan teknologi AI membuka peluang baru di pasar. Perusahaan yang dapat beradaptasi dengan cepat memiliki kesempatan untuk mendominasi pasar baru yang muncul, seperti pengembangan solusi AI berbasis lokal.
+<img src="assets/7.gif" align="left" width="70px" height="65px"/> &nbsp;Penggunaan teknologi AI membuka peluang baru di pasar. Perusahaan yang dapat beradaptasi dengan cepat memiliki kesempatan untuk mendominasi pasar baru yang muncul, seperti pengembangan solusi AI berbasis lokal.
 
 ## Pemanfaatan Alat Kecerdasan Buatan (AI) di Berbagai Sektor Bisnis
 
