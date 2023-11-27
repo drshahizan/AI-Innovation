@@ -5,12 +5,12 @@
 Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terhadap lanskap bisnis di Indonesia. Kita akan mengevaluasi bagaimana alat-alat ini telah dimanfaatkan dalam sektor-sektor berbeda seperti pemasaran, penjualan, dukungan pelanggan, dan produktivitas. Selain itu, kita akan memberikan wawasan tentang keuntungan dan tantangan yang dihadapi oleh bisnis yang mengadopsi alat AI dalam konteks Indonesia.
 
 
-#### 1.Efisiensi Operasional🔄
+#### 1. Efisiensi Operasional🔄
 
 <img src="assets/1.gif" align="left" width="70px" height="75px"/> &nbsp; Penggunaan AI dalam proses otomatisasi telah meningkatkan efisiensi operasional perusahaan. Sistem otomatisasi &nbsp;&nbsp;menggunakan machine learning untuk memprediksi pola, mengelola inventaris, dan mengoptimalkan rantai pasok, &nbsp;&nbsp;menghasilkan penghematan biaya dan waktu yang signifikan.
 <br clear="left"/>
 
-#### 2.Peningkatan Pengalaman Pelanggan🤖
+#### 2. Peningkatan Pengalaman Pelanggan🤖
 
 <img src="assets/2.gif" align="left" width="70px" height="65px"/> &nbsp;Implementasi chatbot dan sistem AI berbasis data telah meningkatkan interaksi dengan pelanggan. Ini tidak hanya meningkatkan &nbsp;kecepatan tanggapan, tetapi juga memberikan pengalaman pelanggan yang lebih personal dan relevan.
 <br clear="left"/>
