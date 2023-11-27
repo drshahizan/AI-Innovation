@@ -109,7 +109,7 @@ Semoga informasi mengenai tantangan-tantangan ini membantu memahami kompleksitas
 
 ## Temuan dan Wawasan AI dalam Bisnis di Indonesia 🚀
 
-### 1. Peningkatan Efisiensi Operasional:
+## ${\textsf{\color{green}1. Peningkatan Efisiensi Operasional}}$
 
 **✅Temuan:**
 - Banyak perusahaan di Indonesia yang mengadopsi AI melaporkan peningkatan efisiensi operasional hingga 30%.
@@ -118,7 +118,7 @@ Semoga informasi mengenai tantangan-tantangan ini membantu memahami kompleksitas
 **👍Wawasan:**
 - Perusahaan yang menggabungkan AI dengan proses operasional mereka dapat mengoptimalkan sumber daya dan meningkatkan kinerja.
 
-### 2. Personalisasi Pemasaran:
+## ${\textsf{\color{green}2. Personalisasi Pemasaran}}$
 
 **✅Temuan:**
 - Penggunaan analisis data dan machine learning telah memungkinkan personalisasi pemasaran yang lebih efektif. - Penargetan iklan berdasarkan perilaku konsumen telah meningkatkan tingkat respons.
@@ -126,7 +126,7 @@ Semoga informasi mengenai tantangan-tantangan ini membantu memahami kompleksitas
 **👍Wawasan:**
 - Bisnis yang memahami secara mendalam preferensi pelanggan dapat menciptakan pengalaman yang lebih relevan dan meningkatkan loyalitas.
 
-### 3. Chatbot untuk Dukungan Pelanggan:
+## ${\textsf{\color{green}3. Chatbot untuk Dukungan Pelanggan}}$
 
 **✅Temuan:**
 - Perusahaan yang mengintegrasikan chatbot dalam layanan pelanggan melaporkan peningkatan respons dan penyelesaian masalah yang lebih cepat.
@@ -135,7 +135,7 @@ Semoga informasi mengenai tantangan-tantangan ini membantu memahami kompleksitas
 **👍Wawasan:**
 - Penggunaan chatbot tidak hanya meningkatkan efisiensi, tetapi juga meningkatkan kepuasan pelanggan melalui layanan 24/7.
 
-### 4. Analisis Data untuk Pengambilan Keputusan:
+## ${\textsf{\color{green}4. Analisis Data untuk Pengambilan Keputusan}}$
 
 **✅Temuan:**
 - Bisnis yang menerapkan analisis data AI melaporkan kemampuan pengambilan keputusan yang lebih cepat dan tepat.
@@ -144,7 +144,7 @@ Semoga informasi mengenai tantangan-tantangan ini membantu memahami kompleksitas
 **👍Wawasan:**
 - Implementasi analisis data mendalam memungkinkan perusahaan mengambil keputusan strategis dengan dasar informasi yang kuat.
 
-### 5. Inovasi Produk dan Layanan:
+## ${\textsf{\color{green}5. Inovasi Produk dan Layanan}}$
 
 **✅Temuan:**
 - Perusahaan yang mendorong inovasi melalui penggunaan teknologi AI melaporkan lahirnya produk dan layanan baru yang sukses.
@@ -154,6 +154,6 @@ Semoga informasi mengenai tantangan-tantangan ini membantu memahami kompleksitas
 - Bisnis yang terbuka terhadap inovasi AI dapat memimpin dalam memenuhi tuntutan pasar yang terus berkembang.
 
 
-### Kesimpulan 🌐
+## Kesimpulan
 
-Pemanfaatan dan Pengadopsian AI di berbagai sektor bisnis, seperti pemasaran, penjualan, dukungan pelanggan, dan produktivitas, memberikan peluang untuk meningkatkan efisiensi, memahami pelanggan dengan lebih baik, dan mengoptimalkan kinerja perusahaan secara keseluruhan. Meskipun demikian, perusahaan harus memastikan keamanan data dan kepatuhan terhadap regulasi dalam penggunaan teknologi ini. disisi lain keuntungan signifikan bagi bisnis di Indonesia, tetapi tantangan seperti kekurangan keterampilan, masalah etika, dan biaya implementasi harus dikelola dengan bijak. Perusahaan yang dapat mengatasi tantangan ini akan mendapatkan keunggulan kompetitif dalam era digital.
+<img src="assets/9.gif" align="left" width="120px" height="130px"/> Pemanfaatan dan Pengadopsian AI di berbagai sektor bisnis, seperti pemasaran, penjualan, dukungan pelanggan, dan produktivitas, memberikan peluang untuk meningkatkan efisiensi, memahami pelanggan dengan lebih baik, dan mengoptimalkan kinerja perusahaan secara keseluruhan. Meskipun demikian, perusahaan harus memastikan keamanan data dan kepatuhan terhadap regulasi dalam penggunaan teknologi ini. disisi lain keuntungan signifikan bagi bisnis di Indonesia, tetapi tantangan seperti kekurangan keterampilan, masalah etika, dan biaya implementasi harus dikelola dengan bijak. Perusahaan yang dapat mengatasi tantangan ini akan mendapatkan keunggulan kompetitif dalam era digital.
