@@ -31,7 +31,7 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 
 #### 6. Tantangan Etika dan Regulasi🚦
 
-<img src="assets/6.gif" align="left" width="70px" height="65px"/> &nbsp;Penggunaan AI juga memunculkan tantangan etika dan regulasi. Diperlukan kerangka kerja regulasi yang jelas untuk mengelola &nbsp;penggunaan AI dan memastikan keadilan, transparansi, dan keamanan data.
+<img src="assets/6.gif" align="left" width="70px" height="65px"/> &nbsp;Penggunaan AI juga memunculkan tantangan etika dan regulasi. Diperlukan kerangka kerja regulasi yang jelas untuk mengelola  &nbsp;penggunaan AI dan memastikan keadilan, transparansi, dan keamanan data.
 <br clear="left"/>
 
 #### 7. Peluang Pasar Baru 🌱
