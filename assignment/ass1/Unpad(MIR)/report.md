@@ -7,7 +7,7 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 
 #### 1.Efisiensi Operasional🔄
 
-<img src="assets/1.gif" align="left" width="80px" height="75px"/> &nbsp; Penggunaan AI dalam proses otomatisasi telah meningkatkan efisiensi operasional perusahaan. Sistem otomatisasi &nbsp;&nbsp;menggunakan machine learning untuk memprediksi pola, mengelola inventaris, dan mengoptimalkan rantai pasok, &nbsp;&nbsp;menghasilkan penghematan biaya dan waktu yang signifikan.
+<img src="assets/1.gif" align="left" width="70px" height="75px"/> &nbsp; Penggunaan AI dalam proses otomatisasi telah meningkatkan efisiensi operasional perusahaan. Sistem otomatisasi &nbsp;&nbsp;menggunakan machine learning untuk memprediksi pola, mengelola inventaris, dan mengoptimalkan rantai pasok, &nbsp;&nbsp;menghasilkan penghematan biaya dan waktu yang signifikan.
 <br clear="left"/>
 
 #### 2.Peningkatan Pengalaman Pelanggan🤖
@@ -22,18 +22,21 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 #### 4. Peningkatan Keamanan dan Deteksi Fraud🔒
 
 <img src="assets/4.gif" align="left" width="70px" height="65px"/> &nbsp;Sistem keamanan berbasis AI dapat mendeteksi ancaman siber secara real-time dan memberikan perlindungan yang lebih baik &nbsp;terhadap serangan siber. Selain itu, algoritma deteksi fraud yang canggih membantu mencegah kegiatan ilegal dalam transaksi &nbsp;bisnis.
+<br clear="left"/>
 
 #### 5. Transformasi Industri🏭
 
-<img src="assets/5.gif" align="left" width="80px" height="95px"/> &nbsp;Sejumlah industri, seperti manufaktur, logistik, dan keuangan, mengalami transformasi signifikan melalui integrasi AI. Robotika &nbsp;dan otomatisasi proses produksi memberikan efisiensi tambahan, sementara algoritma keuangan cerdas mendukung &nbsp;pengambilan keputusan investasi.
+<img src="assets/5.gif" align="left" width="70px" height="95px"/> &nbsp;Sejumlah industri, seperti manufaktur, logistik, dan keuangan, mengalami transformasi signifikan melalui integrasi AI. Robotika &nbsp;dan otomatisasi proses produksi memberikan efisiensi tambahan, sementara algoritma keuangan cerdas mendukung &nbsp;pengambilan keputusan investasi.
+<br clear="left"/>
 
 #### 6. Tantangan Etika dan Regulasi🚦
 
-<img src="assets/6.gif" align="left" width="70px" height="75px"/> &nbsp;Penggunaan AI juga memunculkan tantangan etika dan regulasi. Diperlukan kerangka kerja regulasi yang jelas untuk mengelola penggunaan AI dan memastikan keadilan, transparansi, dan keamanan data.
+<img src="assets/6.gif" align="left" width="70px" height="65px"/> &nbsp;Penggunaan AI juga memunculkan tantangan etika dan regulasi. Diperlukan kerangka kerja regulasi yang jelas untuk mengelola &nbsp;penggunaan AI dan memastikan keadilan, transparansi, dan keamanan data.
+<br clear="left"/>
 
 #### 7. Peluang Pasar Baru 🌱
 
-<img src="assets/7.gif" align="left" width="60px" height="55px"/> &nbsp;Penggunaan teknologi AI membuka peluang baru di pasar. Perusahaan yang dapat beradaptasi dengan cepat memiliki kesempatan untuk mendominasi pasar baru yang muncul, seperti pengembangan solusi AI berbasis lokal.
+<img src="assets/7.gif" align="left" width="70px" height="55px"/> &nbsp;&nbsp;Penggunaan teknologi AI membuka peluang baru di pasar. Perusahaan yang dapat beradaptasi dengan cepat memiliki &nbsp;&nbsp;kesempatan untuk mendominasi pasar baru yang muncul, seperti pengembangan solusi AI berbasis lokal.
 
 ## Pemanfaatan Alat Kecerdasan Buatan (AI) di Berbagai Sektor Bisnis
 
