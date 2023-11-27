@@ -26,7 +26,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ### 2. Prompt used in this assignment
 - Description about AI tools on bussines landscpae Indonesia.
-- Description and analysis AI in Pmarketing, sales, customer support, and productivity in Indonesian businesses.
+- Description and analysis AI in marketing, sales, customer support, and productivity in Indonesian businesses.
 - Keuntungan dan Tantangan Mengadopsi Alat Kecerdasan Buatan (AI) dalam Bisnis di Indonesia.
 - Temuan dan Wawasan AI dalam Bisnis di Indonesia
 - Kesimpulan
