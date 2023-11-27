@@ -7,7 +7,7 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 
 #### 1.Efisiensi Operasional🔄
 
-<img src="assets/8.gif" align="left" width="70px" height="75px"/> &nbsp; Penggunaan AI dalam proses otomatisasi telah meningkatkan efisiensi operasional perusahaan. Sistem otomatisasi &nbsp;&nbsp;menggunakan machine learning untuk memprediksi pola, mengelola inventaris, dan mengoptimalkan rantai pasok, &nbsp;&nbsp;menghasilkan penghematan biaya dan waktu yang signifikan.
+<img src="assets/1.gif" align="left" width="70px" height="75px"/> &nbsp; Penggunaan AI dalam proses otomatisasi telah meningkatkan efisiensi operasional perusahaan. Sistem otomatisasi &nbsp;&nbsp;menggunakan machine learning untuk memprediksi pola, mengelola inventaris, dan mengoptimalkan rantai pasok, &nbsp;&nbsp;menghasilkan penghematan biaya dan waktu yang signifikan.
 <br clear="left"/>
 
 #### 2.Peningkatan Pengalaman Pelanggan🤖
