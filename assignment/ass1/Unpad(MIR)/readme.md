@@ -21,8 +21,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Tools:
 ### 1. AI tools used: 
-- (https://chat.openai.com/)
-
+<a href="https://chat.openai.com/"> <img src= "assets/chagptlogo.jpeg" width="234px" height="54px" /></a>
 
 ### 2. Prompt used in this assignment
 - Description about AI tools on bussines landscpae Indonesia.
