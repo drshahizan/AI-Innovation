@@ -40,7 +40,7 @@ Dalam tugas ini, kita akan menganalisis dampak alat Kecerdasan Buatan (AI) terha
 
 ## Pemanfaatan Alat Kecerdasan Buatan (AI) di Berbagai Sektor Bisnis
 
-### 1. Pemasaran 📢
+## ${\textsf{\color{blue}1. Pemasaran}}$ 📢 
 
 #### Pemodelan Prediktif:
 - **Deskripsi:** Algoritma machine learning digunakan untuk menganalisis data konsumen dan tren pasar, memungkinkan perusahaan membuat model prediktif untuk meramalkan perilaku konsumen dan kebutuhan pasar di masa depan.
