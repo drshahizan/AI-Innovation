@@ -5,10 +5,7 @@
 <a href="https://github.com/drshahizan/AI-Innovation/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/AI-Innovation?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FAI-Innovation&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Assignment 2: Comparative Study of AI Chat Services
-
-## Objective:
-Your goal is to conduct an in-depth comparative study of three prominent conversational AI services: Bing Chat, Bard AI, and ChatGPT. This assignment aims to evaluate their respective features, functionality, user-friendliness, and overall effectiveness in enhancing the user experience. Additionally, you are required to investigate how these AI chat services can cater to the specific needs of users in Indonesia and identify potential areas for improvement.
+# RSI GROUP
 
 # Assignment 2: Comparative Study of AI Chat Services
 
