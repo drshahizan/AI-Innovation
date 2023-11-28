@@ -11,9 +11,9 @@ Don't forget to hit the :star: if you like this repo.
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
-| Dian Prastiwi |   251020220503     |        |
-|  Abdul Muis  |   251020220505     |          |
-| Nisa Ismundari Wildan  |   251020220501    |           |
+| Dian Prastiwi |   251020220503     | Searching by using chatgpt AI       |
+|  Abdul Muis  |   251020220505     | Searching by using Bard AI         |
+| Nisa Ismundari Wildan  |   251020220501    | Searching by using Bing AI           |
 
 ## 📂 Folder content:
 * [📖 Report](report.md)
