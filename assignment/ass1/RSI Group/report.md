@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.jpeg" width="524px" height="324px">
+  <img src="image.jpg" width="524px" height="324px">
 </p>
 
 # Analisis Dampak Alat Kecerdasan Buatan pada Lanskap Bisnis di Indonesia
