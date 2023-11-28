@@ -1,6 +1,5 @@
 # Analisis Kecerdasan Buatan (AI) terhadap Lanskap Bisnis di Indonesia 
 
-<img src="AI.jpg" align="left" width="120px" height="130px"/>
 
 ## 1. Deskripsi
 
