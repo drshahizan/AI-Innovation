@@ -9,7 +9,7 @@ Analisis dampak kecerdasan buatan (AI) terhadap lanskap bisnis di Indonesia meli
 
 
 ## 2. Dampak, Keuntungan, Tantangan 
-### Dampak
+
 
 | Dampak        | keuntungan | tantangan |
 | ------------ | -------------- | -------------- |
