@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
-| Dian Prastiwi |   251020220503     | Research with ChatGPT       |
+| Dian Prastiwi |   251020220503     | Research with ChatGPT (Report 1)    |
 |  Abdul Muis  |   251020220505     | Research with Bard AI (Report2)         |
 | Nisa Ismundari Wildan  |   251020220501    | Research with Bing AI          |
 
