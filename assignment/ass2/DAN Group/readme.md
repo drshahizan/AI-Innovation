@@ -23,11 +23,11 @@ Don't forget to hit the :star: if you like this repo.
 ### ChatGPT
 
 ## Features and Functionality
-| response accuracy  | language capabilities | integration with other platforms |
-| ------------ | -------------- | --------------- |
-|  |        |        |
-|    |        |          |
-|   |       |           |
+| Platform | response accuracy  | language capabilities | integration with other platforms |
+| ------------ | -------------- | --------------- | ---------- |
+| Bing Chat |        |        |
+| Bard AI   |        |          |
+| Chat GPT  |       |           |
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
