@@ -71,11 +71,10 @@ These case studies showcase the practical application of AI tools in the context
 ## Team Collaboration
 🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=2105041612). Please update your group information:
 
-| Name          | NPM  | Task            |
-| ------------ | -------------- | --------------- |
-| 1.Muhammad Arsyad Faturrohman |251020230012       |Research, Prompt, Reporting           |
-| 2.Ahmad Syaifullah |251020230013          |Research, Prompt, Reporting           |
-| 3.Mochamad Taufan Harry Sakti Ruchendi |251020230014         |   Research, Prompt, Reporting        |
+| No | Group |  Title | Submission | 
+| -----: |  ------ | ----- |  :-----: |  
+| 1. | Tirtawening  |  Exploring the Power of "Cara Memanfaatkan Tools Humata AI" for Enhanced Business Strategies |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> |
+
 
 ## Important Dates
 - **Submission Deadline:** ## December 2023
