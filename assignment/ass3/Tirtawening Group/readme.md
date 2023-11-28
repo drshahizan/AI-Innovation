@@ -7,7 +7,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Assignment 3
+# Assignment 3: Comparative Analysis of Literature Search Tools
+
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
 | 1.Muhammad Arsyad Faturrohman |251020230012       |   Research, Prompt, Reporting        |
