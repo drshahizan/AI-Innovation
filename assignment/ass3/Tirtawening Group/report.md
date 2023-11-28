@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="seo-ai.jpg" width="524px" height="324px">
+</p>
+
 _Created with [AIPRM Prompt "Article Builder Pro by Pastiin Dulu"](https://www.aiprm.com/prompts/copywriting/writing/1805771235708375040/)_
 
 # Navigating the Digital Frontier: Humata AI and Litmaps in Collaborative Paper Discovery for Regional Development
