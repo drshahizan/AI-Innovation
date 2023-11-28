@@ -1,3 +1,7 @@
+**Judul:**
+
+* **Dampak AI terhadap Lanskap Bisnis Indonesia**
+[Image of Lanskap Bisnis Indonesia]
 
 **Pendahuluan**
 
