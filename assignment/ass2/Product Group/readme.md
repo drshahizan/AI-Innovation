@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Assignment 1: Comparative Study of AI Chat Services
+# Assignment 2: Comparative Study of AI Chat Services
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
