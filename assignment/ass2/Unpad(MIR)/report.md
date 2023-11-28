@@ -55,6 +55,7 @@ Layanan conversational AI memungkinkan pengguna berinteraksi dengan sistem berba
 Penelitian ini bertujuan untuk mengevaluasi sejauh mana setiap layanan Chat AI dapat memenuhi kebutuhan linguistik dan budaya pengguna di Indonesia. Analisis melibatkan adaptabilitas model bahasa, pemahaman konteks lokal, dan fitur-fitur lokal yang disediakan oleh masing-masing layanan.
 
 ## Bing Chat
+<img src="assets/bing.png" align="left" width="70px" height="75px"/>
 **Adaptabilitas Bahasa:** Meskipun Bing Chat menggunakan teknologi GPT-4, keberagaman bahasa Indonesia dalam konteks informal mungkin menjadi tantangan. Penggunaan bahasa gaul atau bahasa daerah bisa menjadi aspek yang perlu dieksplorasi lebih lanjut.
 
 **Pemahaman Konteks Lokal:** Bing Chat mungkin memerlukan penyesuaian lebih lanjut dalam pemahaman konteks lokal, termasuk isu-isu budaya atau perbedaan dalam percakapan sehari-hari di Indonesia.
@@ -62,6 +63,7 @@ Penelitian ini bertujuan untuk mengevaluasi sejauh mana setiap layanan Chat AI d
 **Fitur Lokal:** Bing Chat perlu mempertimbangkan penambahan fitur-fitur lokal yang relevan, seperti integrasi dengan sumber daya lokal, untuk memberikan nilai tambah bagi pengguna Indonesia.
 
 ## Bard AI
+<img src="assets/bard.png" align="left" width="70px" height="75px"/>
 **Adaptabilitas Bahasa:** Bard AI, menggunakan teknologi Google Neural Machine Translation (GNMT), mungkin dapat mengatasi beberapa tantangan dalam adaptasi bahasa. Namun, perlu diuji sejauh mana pemahaman terhadap bahasa informal dan variasi dialek di Indonesia.
 
 **Pemahaman Konteks Lokal:** Bard AI dapat meningkatkan pemahaman terhadap konteks lokal dengan menggali lebih dalam ke dalam ekspresi budaya dan kebiasaan komunikasi yang unik bagi pengguna Indonesia.
@@ -69,6 +71,7 @@ Penelitian ini bertujuan untuk mengevaluasi sejauh mana setiap layanan Chat AI d
 **Fitur Lokal:** Integrasi fitur-fitur lokal seperti pengenalan kata-kata atau frasa khas Indonesia dapat menjadi peningkatan yang signifikan untuk memperkaya pengalaman pengguna.
 
 ## ChatGPT
+<img src="assets/chatgpt.png" align="left" width="70px" height="75px"/>
 **Adaptabilitas Bahasa:** ChatGPT, menggunakan teknologi GPT-3.5, memiliki kemampuan adaptasi bahasa yang baik. Meskipun dapat mengatasi banyak variasi bahasa, uji coba lebih lanjut diperlukan untuk menilai kinerjanya dalam konteks bahasa Indonesia.
 
 **Pemahaman Konteks Lokal:** ChatGPT dapat ditingkatkan dengan memasukkan pengetahuan lebih lanjut tentang konteks lokal Indonesia, termasuk norma budaya dan aturan komunikasi yang berlaku.
@@ -97,24 +100,19 @@ Berikut adalah beberapa area potensial di mana setiap layanan Chat AI dapat diti
 3. **Fleksibilitas Penggunaan:** Perbarui batasan jumlah kata atau karakter untuk meningkatkan fleksibilitas penggunaan, memungkinkan pengguna menghasilkan teks yang lebih panjang dan mendetail.
 ## Temuan Kunci:
 
-### 1. **Bing Chat:**
-   - Kelebihan: Memberikan informasi yang akurat dan konten kreatif.
-   - Keterbatasan: Dukungan bahasa informal dan variasi dialek perlu diperkuat.
-   - Potensi Peningkatan: Menambahkan fitur-fitur lokal dan kontrol kualitas konten.
+Tentu, berikut ini dalam format tabel markdown:
 
-### 2. **Bard AI:**
-   - Kelebihan: Kemampuan mengoreksi dan mengoptimalkan teks.
-   - Keterbatasan: Pemahaman bahasa informal dan kurangnya integrasi budaya.
-   - Potensi Peningkatan: Meningkatkan pemahaman konteks lokal dan personalisasi respon.
+| Platform     | Kelebihan                                    | Keterbatasan                               | Potensi Peningkatan                                       |
+|--------------|-----------------------------------------------|--------------------------------------------|-----------------------------------------------------------|
+| **Bing Chat**    | Memberikan informasi akurat & konten kreatif  | Dukungan bahasa informal & variasi dialek  | Menambahkan fitur-fitur lokal & kontrol kualitas konten    |
+| **Bard AI**      | Kemampuan mengoreksi & mengoptimalkan teks    | Pemahaman bahasa informal & integrasi budaya yang kurang | Meningkatkan pemahaman konteks lokal & personalisasi respon |
+| **ChatGPT**      | Adaptasi bahasa yang baik & konten berkualitas tinggi | Pemahaman konteks lokal dapat ditingkatkan | Peningkatan pemahaman konteks lokal & penyesuaian batasan kata/karakter |
 
-### 3. **ChatGPT:**
-   - Kelebihan: Adaptasi bahasa yang baik dan konten berkualitas tinggi.
-   - Keterbatasan: Pemahaman konteks lokal dapat ditingkatkan.
-   - Potensi Peningkatan: Peningkatan dalam pemahaman konteks lokal dan penyesuaian batasan kata atau karakter.
+Semoga tabel ini membantu memberikan gambaran yang lebih jelas tentang kelebihan, keterbatasan, dan potensi peningkatan dari masing-masing platform.
 
 ## Kesimpulan dan Wawasan untuk Pengguna Indonesia:
 
-Berdasarkan analisis, setiap layanan memiliki keunggulan dan kelemahan masing-masing. Untuk pengguna di Indonesia, ChatGPT mungkin lebih cocok karena kemampuan bahasa adaptatif dan kemampuan menghasilkan konten berkualitas tinggi. Namun, perlu mempertimbangkan preferensi dan kebutuhan pengguna individual.
+<img src="assets/9.gif" align="left" width="120px" height="175px"/> Berdasarkan analisis, setiap layanan memiliki keunggulan dan kelemahan masing-masing. Untuk pengguna di Indonesia, ChatGPT mungkin lebih cocok karena kemampuan bahasa adaptatif dan kemampuan menghasilkan konten berkualitas tinggi. Namun, perlu mempertimbangkan preferensi dan kebutuhan pengguna individual.
 
 Semoga perbandingan ini membantu Anda memahami perbedaan antara Bing Chat, Bard AI, dan ChatGPT dalam konteks layanan conversational AI. 😊
 
