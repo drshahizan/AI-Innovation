@@ -1,6 +1,6 @@
-#### Analisa Perbandingan Layanan Conversational AI: Bing Chat, Bard AI, dan ChatGPT 
+# Analisa Perbandingan Layanan Conversational AI: Bing Chat, Bard AI, dan ChatGPT 
 
-## Pendahuluan 
+### Pendahuluan 
 Dikutip dari artikel Liputan6.com bahwa terdapat empat chatbot AI populer: ChatGPT milik OpenAI, Bing milik Microsoft, Bard milik Google, dan Claude 2.0 milik Anthropic.
 
 Masing-masing model AI ini menghadirkan fitur dan kemampuan unik yang berbeda, sehingga pilihan chatbot AI mana yang akan digunakan tergantung pada preferensi pribadi dan kebutuhan spesifik.
@@ -11,7 +11,7 @@ Perlu diingat bahwa semua model bahasa besar (LLM) memberikan hasil yang sangat 
 
 source : <https://www.liputan6.com/tekno/read/5383712/perbandingan-4-chatbot-ai-yang-pintarnya-bikin-takjub-dari-chatgpt-hingga-bard>
 
-## Perbandingan Layanan Conversational AI: Bing Chat, Bard AI, dan ChatGPT 
+### Perbandingan Layanan Conversational AI: Bing Chat, Bard AI, dan ChatGPT 
 
 | Bing Chat         | Bard AI   | Chat GPT            |
 | ------------ | -------------- | --------------- |
