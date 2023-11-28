@@ -2,12 +2,6 @@ Don't forget to hit the :star: if you like this repo.
 
 # Assignment 1: Transformative Waves: A Comprehensive Case Study on AI Adoption in Indonesia Business Landscape
 
-| Name          | NPM  | Task            |
-| ------------ | -------------- | --------------- |
-| 1.Muhammad Arsyad Faturrohman |251020230012       |   Research, Prompt, Reporting        |
-| 2.Ahmad Syaifullah |251020230013          |     Research, Prompt, Reporting      |
-| 3.Mochamad Taufan Harry Sakti Ruchendi |251020230014         |  Research, Prompt, Reporting         |
-
 <p align="center">
   <img src="AImanufacturer.jpg" width="524px" height="324px">
 </p>
