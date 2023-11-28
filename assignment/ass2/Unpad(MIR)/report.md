@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/0_oEn31UfZIiNtcKBd.jpg" width="524px" height="224px">
+</p>
+
 # Perbandingan Layanan Conversational AI: Bing Chat, Bard AI, dan ChatGPT 🤖
 
 Layanan conversational AI memungkinkan pengguna berinteraksi dengan sistem berbasis kecerdasan buatan (AI) melalui teks atau suara, dapat digunakan untuk berbagai tujuan seperti mencari informasi, menghasilkan konten, menghibur, atau belajar. Bing Chat, Bard AI, dan ChatGPT adalah beberapa layanan conversational AI yang populer. Berikut perbandingan ketiganya:
