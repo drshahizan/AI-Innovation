@@ -1,3 +1,5 @@
+![enter image description here]([https://media-cdn.tripadvisor.com/media/photo-s/19/23/89/ac/wyndham-casablanca-jakarta.jpg](https://www.shutterstock.com/image-photo/man-using-tools-ai-technology-600nw-2284581609.jpg))
+
 # Analisis Dampak Alat Kecerdasan Buatan pada Lanskap Bisnis di Indonesia
 
 ## Pendahuluan
