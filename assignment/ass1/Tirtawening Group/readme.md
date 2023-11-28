@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Assignment 1: Transformative Waves: A Comprehensive Case Study on AI Adoption in Indonesian Manufacturing
+# Assignment 1: Transformative Waves: A Comprehensive Case Study on AI Adoption in Indonesia Business Landscape
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
