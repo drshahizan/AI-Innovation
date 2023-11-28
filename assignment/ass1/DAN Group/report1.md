@@ -8,25 +8,13 @@ Analisis dampak kecerdasan buatan (AI) terhadap lanskap bisnis di Indonesia meli
 ## 2. Dampak, Keuntungan, Tantangan 
 ### Dampak
 
-| Dampak        | Penjelasan  |
-| ------------ | -------------- | 
-| Dian Prastiwi |   251020220503     | 
-|  Abdul Muis  |   251020220505     | 
-| Nisa Ismundari Wildan  |   251020220501    | 
+| Dampak        | keuntungan | tantangan |
+| ------------ | -------------- | -------------- |
+| Meningkatkan efisiensi operasional melalui otomatisasi tugas-tugas rutin |   Pengurangan biaya dan waktu operasional     |   Peningkatan kebergantungan pada teknologi, mungkin menyebabkan ketidakmampuan jika terjadi kegagalan sistem     | 
+|  Transformasi model bisnis di berbagai sektor  |   Mendorong inovasi, pertumbuhan, dan daya saing     |  Menyesuaikan organisasi dengan perubahan yang cepat, mungkin memerlukan investasi besar dan restrukturisasi     | 
+| Analisis data mendalam untuk pengambilan keputusan yang lebih baik  |   Identifikasi peluang dan risiko lebih cepat   |   Perlunya sumber daya manusia yang terampil dalam menganalisis dan menginterpretasi output AI   | 
 
-### Keuntungan
-| No. | Keuntungan                    | Keterangan                        |                    
-|-----|-------------------------------|--------------------------------- -|
-|-----|-------------------------------|--------------------------------- -|
-|-----|-------------------------------|--------------------------------- -|
-|-----|-------------------------------|--------------------------------- -|
 
-### Tantangan
-| No. | Tantangan                     | Keterangan                        |                    
-|-----|-------------------------------|--------------------------------- -|
-|-----|-------------------------------|--------------------------------- -|
-|-----|-------------------------------|--------------------------------- -|
-|-----|-------------------------------|--------------------------------- -|
  
 #### 3. Contoh Kecerdasan Buatan (AI) terhadap bisnis di Indonesia
 
