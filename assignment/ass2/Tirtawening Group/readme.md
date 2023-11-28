@@ -4,7 +4,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | No | Group |  Title | Submission | 
 | -----: |  ------ | ----- |  :-----: |  
-| 1. | Tirtawening  |  Analisis Perbandingan Komprehensif Bing Chat, Bard AI, dan ChatGPT dengan Fokus pada Pengalaman Pengguna dan Adaptabilitas di Konteks Indonesia |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
+| 1. | Tirtawening  |  Analisis Perbandingan Komprehensif Bing Chat, Bard AI, dan ChatGPT dengan Fokus pada Pengalaman Pengguna dan Adaptabilitas di Konteks Indonesia |<a href="./readme.md" ><img src="book.png" width="24px" height="24px" ></a>| 
 
 <p align="center">
   <img src="AIChat.jpeg" width="524px" height="324px">
