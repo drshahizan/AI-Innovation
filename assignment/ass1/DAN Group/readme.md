@@ -20,7 +20,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Tools:
 ### 1. AI tools used: 
-ChatGPT
+ChatGPT AI, Bard AI, Bing AI
 
 ### Prompt used in this assignment
 - Deskripsi kecerdasan buatan (AI) terhadap landscape bisnis Indonesia
