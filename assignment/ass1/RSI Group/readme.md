@@ -15,7 +15,7 @@ Don't forget to hit the :star: if you like this repo.
 | 2. Ridianti Riski | 251010230008       | Research, Prompt, Reporting        |
 
 ## 📂 Folder content:
-* [📖 Report : (Report.md)
+* [📖 Report](report.md)
 
 ## Tools:
 ### AIPRM Prompt "Write Best Article to rank on Google"
