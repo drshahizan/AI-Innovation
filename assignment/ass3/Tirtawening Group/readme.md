@@ -73,7 +73,7 @@ These case studies showcase the practical application of AI tools in the context
 
 | No | Group |  Title | Submission | 
 | -----: |  ------ | ----- |  :-----: |  
-| 1. | Tirtawening  |  Exploring the Power of "Cara Memanfaatkan Tools Humata AI" for Enhanced Business Strategies |<a href="./Tirtawening Group/report.md" ><img src="book.png" width="24px" height="24px" ></a> |
+| 1. | Tirtawening  |  Exploring the Power of "Cara Memanfaatkan Tools Humata AI" for Enhanced Business Strategies |<a href="./report.md" ><img src="book.png" width="24px" height="24px" ></a> |
 
 
 ## Important Dates
