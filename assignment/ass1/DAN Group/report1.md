@@ -1,6 +1,6 @@
 # Analisis Kecerdasan Buatan (AI) terhadap Lanskap Bisnis di Indonesia 
 
-<a href="https://chat.openai.com/"> <img src= "assets/chagptlogo.jpeg" width="234px" height="54px" /></a>
+<img src="AI.jpeg" align="left" width="120px" height="130px"/>
 
 ## 1. Deskripsi
 
