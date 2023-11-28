@@ -11,9 +11,9 @@ Don't forget to hit the :star: if you like this repo.
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
-| 1. | Abdul Muis     |           |
-| 2. |   Nisa       |           |
-| 3. |    Dian Prastiwi     |           |
+| Dian Prastiwi |   251020220503     |        |
+|  Abdul Muis  |   251020220505     |          |
+| Nisa Ismundari Wildan  |   251020220501    |           |
 
 ## 📂 Folder content:
 * [📖 Report](report.md)
