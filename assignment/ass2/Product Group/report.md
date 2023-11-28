@@ -1,5 +1,5 @@
+# Comparative Study of AI Chat Services
 ## Introduction to Bing Chat, Google Bard, and ChatGPT
-
 ### Bing Chat
 - **Overview**: Bing Chat is an AI-powered assistant that enhances the web search experience. It can handle both simple and complex queries, assist with research, summarize content, and even generate text and images. Bing Chat elevates search by allowing interactive, conversational queries and content exploration.
 - **Access and Features**: It can be accessed via the Bing website, Microsoft Edge sidebar, and on mobile devices through the Bing or Edge apps. Bing Chat offers three conversation styles: Creative, Precise, and Balanced, catering to different user needs from imaginative responses to concise information.
