@@ -4,9 +4,9 @@ Don't forget to hit the :star: if you like this repo.
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
-| 1.Muhammad Arsyad Faturrohman |251020230012       |           |
-| 2.Ahmad Syaifullah |251020230013          |           |
-| 3.Mochamad Taufan Harry Sakti Ruchendi |251020230014         |           |
+| 1.Muhammad Arsyad Faturrohman |251020230012       |Research, Prompt, Reporting           |
+| 2.Ahmad Syaifullah |251020230013          |Research, Prompt, Reporting           |
+| 3.Mochamad Taufan Harry Sakti Ruchendi |251020230014         |   Research, Prompt, Reporting        |
 
 <p align="center">
   <img src="AIChat.jpeg" width="524px" height="324px">
