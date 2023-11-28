@@ -17,10 +17,10 @@ Your goal is to conduct an in-depth comparative study of three prominent convers
 ## 1. Team Collaboration
 🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=1640371957). Please update your group information:
 
-| No | Name |  MatricNo | 
-| -----: |  ------ | :-----: | 
-|1        |Ita hardianti   |251020230011| Research, Promt and doing report|
-|2        | Hilman Revisionery   |251020230004	|Research, Editing|
+| Name          | NPM  | Task            |
+| ------------ | -------------- | --------------- |
+| 1. Ita Hardianti | 251020230011 | Research, Promt and doing report          |
+| 2. Hilman Revisionery | 251020230004 | Research, Editing  |
 
 ## Guidelines
 
