@@ -1,5 +1,7 @@
 # Analisis Kecerdasan Buatan (AI) terhadap Lanskap Bisnis di Indonesia 
 
+<a href="https://chat.openai.com/"> <img src= "assets/chagptlogo.jpeg" width="234px" height="54px" /></a>
+
 ## 1. Deskripsi
 
 Terobosan dalam pengembangan kecerdasan buatan (Artificial Intelligence / AI) mulai berperan aktif di Indonesia.  Dengan populasi muda yang melek teknologi dan tren makroekonomi yang mendukung, perusahaan-perusahaan Indonesia mulai mengadopsi dan memanfaatkan AI yang peluangnya sangat besar. Saat ini, investor lokal dan internasional juga mengincar potensi AI di negara dpengan ekonomi terbesar di Asia Tenggara ini.
