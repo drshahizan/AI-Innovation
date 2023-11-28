@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
-| 1. Abdan Muhammad Adani | 251020230002 | Research, Report |
+| 1. Abdan Muhammad Adani | 251020230001 | Research, Report |
 | 2. |         |           |
 
 ## 📂 Folder content:
