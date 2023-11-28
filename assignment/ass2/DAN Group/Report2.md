@@ -1,4 +1,4 @@
-**Sudi Perbandingan Layanan Chat AI**
+**STUDI PERBANDINGAN LAYANAN CHAT AI (CHATGPT, BARD & BING)**
 
 **A. PENDAHULUAN**
 
@@ -221,7 +221,7 @@ Berdasarkan analisis dan kesimpulan di atas, rekomendasi berikut diberikan untuk
 
 Percakapan AI adalah bidang yang berkembang pesat, dan dengan terus dikembangkannya teknologi, layanan percakapan AI akan menjadi semakin canggih dan bermanfaat bagi pengguna di Indonesia dan di seluruh dunia. Layanan percakapan AI ini memiliki potensi untuk mengubah cara kita berinteraksi dengan teknologi, dan dapat menjadi alat yang berharga untuk meningkatkan produktivitas, pendidikan, dan hiburan.
 
-## G. REFERENCES
+## G. REFERENSI
 
 1. **"The State of Conversational AI in 2023"**, by Gartner, 2023.
 
