@@ -20,6 +20,8 @@ Your goal is to conduct an in-depth comparative study of three prominent convers
 | No | Name |  MatricNo | 
 | -----: |  ------ | :-----: | 
 |1        |Ita hardianti   |251020230011|
+|2        | Hilman Revisionery   |251020230004	|Research, Editing
+
 
 | 0. | Sample  |  Analisis Perbandingan Komprehensif Bing Chat, Bard AI, dan ChatGPT dengan Fokus pada Pengalaman Pengguna dan Adaptabilitas di Konteks Indonesia |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
 
