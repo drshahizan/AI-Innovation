@@ -21,13 +21,6 @@ Don't forget to hit the :star: if you like this repo.
 ### 1. AI tools used: 
 - [ChatGPT 4](chat.openai.com)
 
-### Prompt used in this assignment
-1. Investigate how AI tools are utilized in marketing, sales, customer support, and productivity in Indonesian businesses. Provide specific examples and case studies to illustrate your points.
-2. Explore and evaluate the advantages that businesses gain from adopting AI tools in Indonesia in general.
-3. Specifically identify and analyze the challenges they face in the integration and utilization of these tools from your previous answer.
-4. Create me a table and summarize those tools in each sectors, advantages, and challenges they face.
-5. Provide me an introduction–a brief overview of that article, including the significance of AI tools in the Indonesian business landscape.
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
 
