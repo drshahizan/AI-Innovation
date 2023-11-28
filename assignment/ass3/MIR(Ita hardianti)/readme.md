@@ -73,7 +73,8 @@ These case studies showcase the practical application of AI tools in the context
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
-| 1. Ita Hardianti | 251020230011 | Report Assignment 3 |
+| 1. Ita Hardianti | 251020230011 | Research, Promt and doing report          |
+| 2. Hilman Revisionery | 251020230004 | Research, Editing         |
 
 
 
