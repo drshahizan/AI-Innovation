@@ -9,8 +9,8 @@
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
-| 1. Muhamad Yusup  | 251020230007       | Research, Prompt, Reporting        |
-| 2. Ridianti Riski | 251010230008       | Research, Prompt, Reporting        |
+| 1. Muhamad Yusup  | 251020230007       | Research, Prompt, Reporting for assignment 2 and also review the assignment 1       |
+| 2. Ridianti Riski | 251010230008       | Research, Prompt, Reporting for assignment 1 and also review the assignment 2       |
 
 ## 📂 Folder content:
 * [📖 Report](report.md)
