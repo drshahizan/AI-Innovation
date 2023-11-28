@@ -5,8 +5,6 @@
 <a href="https://github.com/drshahizan/AI-Innovation/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/AI-Innovation?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FAI-Innovation&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Don't forget to hit the :star: if you like this repo.
-
 # Assignment 2: Comparative Study of AI Chat Services
 
 ## Objective:
@@ -24,12 +22,3 @@ Your goal is to conduct an in-depth comparative study of three prominent convers
 
 ## Tools:
 - [AIPRM Prompt: Human Written Article |100% Unique|SEO optimized](https://www.aiprm.com/prompts/copywriting/writing/1865652949808631808/)
-
-
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
-
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
