@@ -70,7 +70,5 @@ As users in Indonesia embrace these conversational companions, the journey towar
 _Created by [Pastiin Dulu "Article Builder Pro"](https://www.pastiin.com)_
 
 Partner :
-1. [Berita Teknologi](https://
-
-beritateknologi.id)
+1. [Berita Teknologi](https://beritateknologi.id)
 2. [Slawi Ayu](https://www.slawiayu.com)
