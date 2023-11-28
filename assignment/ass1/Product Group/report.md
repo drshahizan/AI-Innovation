@@ -67,7 +67,6 @@ These examples demonstrate how Indonesian businesses are leveraging AI to enhanc
 
 In summary, while the adoption of AI tools offers significant advantages in enhancing efficiency, customer engagement, and innovation for Indonesian businesses, it also presents challenges in areas like data security, technical expertise, cost, and regulatory compliance. Addressing these challenges is crucial for maximizing the benefits of AI in the Indonesian business landscape.
 
-Here's a summary table of the AI tools in various sectors in Indonesia, along with the advantages and challenges faced by these businesses in adopting these tools:
 
 | **Sector**          | **AI Tools/Examples**                                        | **Advantages**                                           | **Challenges**                                     |
 |---------------------|--------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------|
