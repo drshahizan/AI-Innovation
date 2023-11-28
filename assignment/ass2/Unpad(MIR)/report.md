@@ -56,15 +56,15 @@ Penelitian ini bertujuan untuk mengevaluasi sejauh mana setiap layanan Chat AI d
 
 ## Bing Chat
 <img src="assets/bing.png" align="left" width="70px" height="75px"/>
-**Adaptabilitas Bahasa:** Meskipun Bing Chat menggunakan teknologi GPT-4, keberagaman bahasa Indonesia dalam konteks informal mungkin menjadi tantangan. Penggunaan bahasa gaul atau bahasa daerah bisa menjadi aspek yang perlu dieksplorasi lebih lanjut.
+Adaptabilitas Bahasa: Meskipun Bing Chat menggunakan teknologi GPT-4, keberagaman bahasa Indonesia dalam konteks informal mungkin menjadi tantangan. Penggunaan bahasa gaul atau bahasa daerah bisa menjadi aspek yang perlu dieksplorasi lebih lanjut.
 
 **Pemahaman Konteks Lokal:** Bing Chat mungkin memerlukan penyesuaian lebih lanjut dalam pemahaman konteks lokal, termasuk isu-isu budaya atau perbedaan dalam percakapan sehari-hari di Indonesia.
 
 **Fitur Lokal:** Bing Chat perlu mempertimbangkan penambahan fitur-fitur lokal yang relevan, seperti integrasi dengan sumber daya lokal, untuk memberikan nilai tambah bagi pengguna Indonesia.
 
 ## Bard AI
-<img src="assets/bard.png" align="left" width="70px" height="75px"/>
-**Adaptabilitas Bahasa:** Bard AI, menggunakan teknologi Google Neural Machine Translation (GNMT), mungkin dapat mengatasi beberapa tantangan dalam adaptasi bahasa. Namun, perlu diuji sejauh mana pemahaman terhadap bahasa informal dan variasi dialek di Indonesia.
+<img src="assets/bard.png" align="left" width="70px" height="75px"/> 
+Adaptabilitas Bahasa: Bard AI, menggunakan teknologi Google Neural Machine Translation (GNMT), mungkin dapat mengatasi beberapa tantangan dalam adaptasi bahasa. Namun, perlu diuji sejauh mana pemahaman terhadap bahasa informal dan variasi dialek di Indonesia.
 
 **Pemahaman Konteks Lokal:** Bard AI dapat meningkatkan pemahaman terhadap konteks lokal dengan menggali lebih dalam ke dalam ekspresi budaya dan kebiasaan komunikasi yang unik bagi pengguna Indonesia.
 
@@ -72,7 +72,7 @@ Penelitian ini bertujuan untuk mengevaluasi sejauh mana setiap layanan Chat AI d
 
 ## ChatGPT
 <img src="assets/chatgpt.png" align="left" width="70px" height="75px"/>
-**Adaptabilitas Bahasa:** ChatGPT, menggunakan teknologi GPT-3.5, memiliki kemampuan adaptasi bahasa yang baik. Meskipun dapat mengatasi banyak variasi bahasa, uji coba lebih lanjut diperlukan untuk menilai kinerjanya dalam konteks bahasa Indonesia.
+Adaptabilitas Bahasa: ChatGPT, menggunakan teknologi GPT-3.5, memiliki kemampuan adaptasi bahasa yang baik. Meskipun dapat mengatasi banyak variasi bahasa, uji coba lebih lanjut diperlukan untuk menilai kinerjanya dalam konteks bahasa Indonesia.
 
 **Pemahaman Konteks Lokal:** ChatGPT dapat ditingkatkan dengan memasukkan pengetahuan lebih lanjut tentang konteks lokal Indonesia, termasuk norma budaya dan aturan komunikasi yang berlaku.
 
