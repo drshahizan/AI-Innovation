@@ -18,6 +18,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## 📂 Folder content:
 * [📖 Report](report.md)
+* <a href="https://docs.google.com/presentation/d/1p856SaRGG2X1vUZq-rVtfsFvkunTVtNUxW7sD2fUvjs/edit#slide=id.g2a02300e468_0_16">📽️ Slide </a> 
 
 ## Tools:
 ### 1. AI tools used: 
