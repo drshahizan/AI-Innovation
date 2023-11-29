@@ -3,7 +3,7 @@ Don't forget to hit the :star: if you like this repo.
 # Assignment 1: Transformative Waves: A Comprehensive Case Study on AI Adoption in Indonesia Business Landscape
 
 <p align="center">
-  <img src="AImanufacturer.jpg" width="524px" height="324px">
+  <img src="AI WTP.png">
 </p>
 
 _Created with [AIPRM Prompt "Write Best Article to rank on Google"](https://www.aiprm.com/prompts/copywriting/writing/1784184571873726464/)_
