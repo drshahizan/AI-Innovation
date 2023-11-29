@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.jpg" width="524px" height="324px">
+</p>
+
 # Bing Chat, Bard AI, dan ChatGPT: Analisis Perbandingan Mendalam
 
 ## 1. Pengantar
