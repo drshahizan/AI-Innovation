@@ -51,7 +51,7 @@ Google Scholar adalah mesin pencari akademis yang dikembangkan oleh Google. Ini 
 ## Kesimpulan
 Dalam mencari karya tulis di bidang inovasi regional, kita dapat memanfaatkan berbagai alat pencarian literatur seperti Scopus, Semantic Scholar, dan Google Scholar untuk memperoleh informasi yang komprehensif, relevan, dan kontekstual, serta mengeksplorasi kontribusi penelitian terbaru dan tren inovatif dalam skala regional.
 
-# Case 2 : Analisis Pencarian Penelitian Kolaboratif
+# Case 2 : Analisis Pencarian _Penelitian Kolaboratif_ menggunakan AI Tools
 ## Deskripsi Kasus:
 Mahasiswa Magister Inovasi Regional tertarik untuk menjalankan penelitian kolaboratif yang mendalam untuk mendukung pembangunan regional, dengan menggunakan alat kecerdasan buatan seperti Connected Papers dan Publish or Perish untuk memfasilitasi proses penemuan karya tulis penelitian yang relevan dan berdampak.
 
