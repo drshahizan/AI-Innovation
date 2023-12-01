@@ -70,4 +70,6 @@ Inciteful menggunakan teknologi pembelajaran mesin untuk menganalisis konten ber
 
 Dengan memanfaatkan Inciteful, mahasiswa Magister Inovasi Regional dapat menghemat waktu yang sebelumnya dihabiskan untuk menyusun tinjauan literatur secara manual. Ini memberikan mereka kesempatan untuk lebih fokus pada aspek praktis penelitian mereka. Dengan pemilihan literatur yang lebih efisien, mahasiswa dapat mengalokasikan waktu dan energi mereka untuk mengembangkan solusi inovatif yang dapat mendukung perkembangan regional.
 
+## Kesimpulan
+
 *Studi kasus ini menunjukkan bahwa penggunaan Inciteful tidak hanya membantu menyederhanakan tinjauan literatur, tetapi juga memberikan manfaat nyata dengan mengarahkan perhatian mahasiswa pada aspek praktis dan kontribusi yang lebih efisien terhadap inovasi regional.*
