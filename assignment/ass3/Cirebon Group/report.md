@@ -55,7 +55,7 @@ Dalam mencari karya tulis di bidang inovasi regional, kita dapat memanfaatkan be
 ## Deskripsi Kasus:
 Mahasiswa Magister Inovasi Regional tertarik untuk menjalankan penelitian kolaboratif yang mendalam untuk mendukung pembangunan regional, dengan menggunakan alat kecerdasan buatan seperti Connected Papers dan Publish or Perish untuk memfasilitasi proses penemuan karya tulis penelitian yang relevan dan berdampak.
 
-1. Pemilihan Topik:
+### 1. Pemilihan Topik:
 
 Connected Papers:
 Mahasiswa menggunakan Connected Papers untuk menjelajahi topik penelitian dan memahami konsep-konsep utama yang berkaitan dengan inovasi regional.
@@ -64,7 +64,7 @@ Visualisasi keterkaitan antar artikel membantu mereka memilih fokus riset yang s
 Publish or Perish:
 Mereka menggunakan Publish or Perish untuk melihat dampak riset terkini dalam bidang inovasi regional dan memahami kontribusi penelitian sebelumnya.
 
-2. Penemuan Literatur:
+### 2. Penemuan Literatur:
 
 Connected Papers:
 Mahasiswa memanfaatkan fitur pencarian dan pemetaan visual Connected Papers untuk menemukan artikel ilmiah yang relevan dengan fokus riset mereka.
@@ -72,7 +72,7 @@ Mahasiswa memanfaatkan fitur pencarian dan pemetaan visual Connected Papers untu
 Publish or Perish:
 Platform ini membantu mereka mengidentifikasi penelitian terkini yang telah banyak dikutip, membimbing penemuan literatur yang memiliki dampak dan relevansi.
 
-3. Evaluasi dan Seleksi Artikel:
+### 3. Evaluasi dan Seleksi Artikel:
 
 Connected Papers:
 Visualisasi keterkaitan memudahkan mahasiswa dalam mengevaluasi kontribusi setiap artikel terhadap pemahaman mereka tentang inovasi regional.
@@ -80,12 +80,12 @@ Visualisasi keterkaitan memudahkan mahasiswa dalam mengevaluasi kontribusi setia
 Publish or Perish:
 Metrik kuantitatif seperti indeks h membantu mahasiswa menilai reputasi dan dampak artikel secara objektif.
 
-4. Kolaborasi dan Pertukaran Ide:
+### 4. Kolaborasi dan Pertukaran Ide:
 
 Connected Papers dan Publish or Perish:
 Mahasiswa menggunakan informasi dari kedua platform untuk mengidentifikasi peneliti lain dengan minat serupa. Mereka memanfaatkan kolaborasi untuk mendapatkan wawasan baru dan menyempurnakan metodologi riset mereka.
 
-5. Efisiensi dan Produktivitas:
+### 5. Efisiensi dan Produktivitas:
 
 Connected Papers dan Publish or Perish:
 Integrasi kedua platform membantu mahasiswa meningkatkan efisiensi dalam penemuan literatur dan meningkatkan produktivitas dengan fokus pada artikel yang berdampak tinggi.
