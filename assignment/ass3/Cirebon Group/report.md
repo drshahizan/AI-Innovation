@@ -37,12 +37,12 @@ Semantic Scholar adalah mesin pencari akademis yang menggunakan teknologi pemros
  ## Semantic scolar 🌎
 Google Scholar adalah mesin pencari akademis yang dikembangkan oleh Google. Ini memfokuskan pada pencarian literatur ilmiah, termasuk artikel jurnal, tesis, buku, dan konferensi.
 
-**Kelebihan:**
+**🔼 Kelebihan:**
 - **Cakupan Luas:** Google Scholar memiliki cakupan luas dan dapat mencari literatur dari berbagai sumber, termasuk publikasi akademis dan repositori institusi.
 - **Kemudahan Akses:** Gratis diakses dan digunakan oleh siapa saja, memungkinkan peneliti di seluruh dunia untuk mencari informasi akademis.
 - **Keterbukaan Akses:** Sejumlah besar literatur yang disediakan dalam bentuk terbuka (open access), memberikan akses terbuka ke sebagian besar artikel.
 
-**Keterbatasan:**
+**🔽 Keterbatasan:**
 - **Kualitas Variabel:** Kualitas artikel yang muncul dapat bervariasi, termasuk publikasi yang belum melalui proses review sejawat.
 - **Keterbatasan Dalam Pencarian Lanjutan:** Meskipun memberikan pencarian canggih, Google Scholar mungkin tidak sekuat alat pencarian literatur khusus dalam hal fitur pencarian yang lebih mendalam.
 - **Kurangnya Metrik Dampak:** Tidak menyediakan faktor dampak jurnal atau statistik kutipan yang serinci beberapa platform lainnya.
