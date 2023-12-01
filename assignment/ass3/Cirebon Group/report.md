@@ -48,3 +48,26 @@ Google Scholar adalah mesin pencari akademis yang dikembangkan oleh Google. Ini 
 - **Kurangnya Metrik Dampak:** Tidak menyediakan faktor dampak jurnal atau statistik kutipan yang serinci beberapa platform lainnya.
 - **Keterbatasan dalam Bahasa:** Keterbatasan dalam pengindeksan literatur non-Inggris, meskipun telah memperluas cakupan ke beberapa bahasa.
 
+
+# Menyederhanakan Tinjauan Literatur dengan AI Inciteful (CASE STUDY 3)
+
+## Latar Belakang
+
+Tinjauan literatur memainkan peran sentral dalam penelitian akademis, tetapi seringkali memakan waktu yang signifikan. Inciteful, sebagai alat berbasis kecerdasan buatan (AI), hadir untuk membantu mahasiswa Magister Inovasi Regional dalam menyederhanakan proses ini.
+
+## Kegunaan Inciteful
+
+Inciteful menggunakan teknologi pembelajaran mesin untuk menganalisis konten berbagai makalah terkait inovasi regional. Alat ini bertujuan untuk mempercepat dan menyederhanakan identifikasi literatur relevan bagi mahasiswa, memberikan kontribusi yang berharga untuk memahami tren dan temuan terkini dalam bidang inovasi regional.
+
+## Implementasi
+
+1. **Tinjauan Literatur Otomatis:**
+   - Mahasiswa memasukkan pertanyaan penelitian atau topik ke dalam Inciteful.
+   - Menggunakan pembelajaran mesin, Inciteful menganalisis berbagai makalah terkait dengan pertanyaan atau topik tersebut.
+   - Algoritma pembelajaran berkelanjutan disematkan untuk menyempurnakan rekomendasi berdasarkan umpan balik pengguna.
+
+## Hasil
+
+Dengan memanfaatkan Inciteful, mahasiswa Magister Inovasi Regional dapat menghemat waktu yang sebelumnya dihabiskan untuk menyusun tinjauan literatur secara manual. Ini memberikan mereka kesempatan untuk lebih fokus pada aspek praktis penelitian mereka. Dengan pemilihan literatur yang lebih efisien, mahasiswa dapat mengalokasikan waktu dan energi mereka untuk mengembangkan solusi inovatif yang dapat mendukung perkembangan regional.
+
+*Studi kasus ini menunjukkan bahwa penggunaan Inciteful tidak hanya membantu menyederhanakan tinjauan literatur, tetapi juga memberikan manfaat nyata dengan mengarahkan perhatian mahasiswa pada aspek praktis dan kontribusi yang lebih efisien terhadap inovasi regional.*
