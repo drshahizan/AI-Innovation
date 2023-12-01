@@ -71,31 +71,12 @@ These case studies showcase the practical application of AI tools in the context
 ## Team Collaboration
 🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=2105041612). Please update your group information:
 
-| No | Group |  Title | Submission | 
+| No | Name |  NPM | Task | 
 | -----: |  ------ | ----- |  :-----: |  
-| 0. | Cirebon Group  |  Comparative Analysis of Literature Search Tools |<a href="./sample/readme.md" ><img src="../../images/answer.png" width="24px" height="24px" ></a> | 
-
-## Important Dates
-- **Submission Deadline:** ## December 2023
-
-## File and Folder Structure 
-
-You must place your file in the submission folder. Within the [`assignment/ass3`](https://github.com/drshahizan/AI-Innovation/edit/main/assignment/ass3) folder, create a folder called your group. Name the default file as `readme.md`. Suggested folder structure for this project:
-
-```html
-ass3/your_group/
-├── 📄 report.md
-└── 📄 readme.md
-```
-
-Good luck with your assignment! If you have any questions or need help, don't hesitate to reach out to your lecturer or fellow students.
+| 1. | Abdul Karim  |  251020230015 | Research Case Study 1| 
+| 2. | Indriana Syah Putri |  251010230016 | Research Case Study 2| 
+| 3. | Yusuf Kurniawan |  251010230017 | Research Case Study 3| 
 
 
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
 
