@@ -77,6 +77,9 @@ These case studies showcase the practical application of AI tools in the context
 | 2. | Indriana Syah Putri |  251010230016 | Research Case Study 2| 
 | 3. | Yusuf Kurniawan |  251010230017 | Research Case Study 3| 
 
+## 📂 Folder content:
+* [📖 Report](report.md)
+
 
 
 
