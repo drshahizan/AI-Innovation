@@ -1,8 +1,8 @@
-# Analisa Perbandingan _Literature Search Tools_ dalam Pencarian _Paper_
+# Analisa Perbandingan _Paper Literature Search Tools_ bagi Mahasiswa Magister Inovasi Regional 🎓🌐
 
 Penggunaan alat pencarian literatur memungkinkan peneliti untuk dengan efisien menemukan, mengakses, dan mengelola literatur ilmiah yang relevan, memperbarui pengetahuan, serta mengidentifikasi tren dan kontribusi terbaru dalam bidang riset, salah satunya untuk riset di bidang inovasi regional.
 
-Berikut ini, 3 (tiga) Literature Search Tools yang dapat dijadikan sebagai referensi untuk menemukan literatur yang kita cari.
+Berikut ini, 3 (tiga) _Literature Search Tools_ yang dapat dijadikan sebagai referensi untuk menemukan literatur yang kita cari :
 ## Scopus 📖
 Scopus adalah basis data indeks dan abstrak yang mencakup literatur ilmiah dari berbagai disiplin ilmu, memberikan informasi mengenai jurnal, konferensi, dan literatur ilmiah lainnya, serta menyediakan metrik dampak dan kutipan.
 
@@ -20,7 +20,7 @@ Scopus adalah basis data indeks dan abstrak yang mencakup literatur ilmiah dari 
 - **Keterbatasan Sumber:** Meskipun cakupan luas, mungkin masih ada beberapa sumber atau publikasi yang tidak tercakup di dalamnya.
 - **Kurangnya Teks Penuh:** Beberapa entri mungkin tidak menyediakan teks penuh artikel, memerlukan akses tambahan ke penerbit.
 
- ## Semantic scolar 🔎
+ ## Semantic Scolar 🔎
 Semantic Scholar adalah mesin pencari akademis yang menggunakan teknologi pemrosesan bahasa alami dan kecerdasan buatan untuk menyajikan hasil pencarian literatur ilmiah yang lebih relevan dan kontekstual.
 
 **🔼 Kelebihan:**
@@ -47,6 +47,12 @@ Google Scholar adalah mesin pencari akademis yang dikembangkan oleh Google. Ini 
 - **Keterbatasan Dalam Pencarian Lanjutan:** Meskipun memberikan pencarian canggih, Google Scholar mungkin tidak sekuat alat pencarian literatur khusus dalam hal fitur pencarian yang lebih mendalam.
 - **Kurangnya Metrik Dampak:** Tidak menyediakan faktor dampak jurnal atau statistik kutipan yang serinci beberapa platform lainnya.
 - **Keterbatasan dalam Bahasa:** Keterbatasan dalam pengindeksan literatur non-Inggris, meskipun telah memperluas cakupan ke beberapa bahasa.
+  
+## Kesimpulan
+Dalam mencari karya tulis di bidang inovasi regional, kita dapat memanfaatkan berbagai alat pencarian literatur seperti Scopus, Semantic Scholar, dan Google Scholar untuk memperoleh informasi yang komprehensif, relevan, dan kontekstual, serta mengeksplorasi kontribusi penelitian terbaru dan tren inovatif dalam skala regional.
+
+# FOR CASE 2 : MBAK INDRI 
+
 
 
 # Menyederhanakan Tinjauan Literatur dengan AI Inciteful (CASE STUDY 3)
