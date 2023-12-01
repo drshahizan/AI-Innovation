@@ -34,7 +34,7 @@ Semantic Scholar adalah mesin pencari akademis yang menggunakan teknologi pemros
 - **Keterbatasan dalam Data Lengkap:** Beberapa catatan mungkin tidak menyediakan teks penuh artikel, dan link ke versi lengkap dapat mengarah ke situs web eksternal yang memerlukan langganan.
 - **Ketergantungan pada Pemrosesan Bahasa Alami:** Keterbatasan teknologi pemrosesan bahasa alami dapat menghasilkan hasil yang kurang akurat atau kurang relevan dalam beberapa kasus.
 
- ## Semantic scolar 🌎
+ ## Google Scholar 🌎
 Google Scholar adalah mesin pencari akademis yang dikembangkan oleh Google. Ini memfokuskan pada pencarian literatur ilmiah, termasuk artikel jurnal, tesis, buku, dan konferensi.
 
 **🔼 Kelebihan:**
