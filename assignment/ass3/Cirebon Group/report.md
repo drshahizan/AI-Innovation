@@ -93,7 +93,7 @@ Integrasi kedua platform membantu mahasiswa meningkatkan efisiensi dalam penemua
 Pencapaian dan Dampak:
 Dengan menggunakan Connected Papers dan Publish or Perish, mahasiswa berhasil membangun dasar pengetahuan yang kuat untuk penelitian kolaboratif mereka dalam inovasi regional. Mereka dapat memanfaatkan sumber daya literatur secara efisien, mengoptimalkan kolaborasi, dan menghasilkan penelitian yang memiliki dampak positif pada pembangunan wilayah. Kombinasi antara analisis visual dan evaluasi kuantitatif memungkinkan mereka membuat keputusan yang terinformasi dan menghasilkan kontribusi yang berarti dalam konteks pembangunan regional.
 
-# Case 3 : Menyederhanakan Tinjauan Literatur dengan AI Inciteful (CASE STUDY 3)
+# Case 3 : Menyederhanakan Tinjauan Literatur dengan AI Inciteful 
 
 ## Latar Belakang
 
