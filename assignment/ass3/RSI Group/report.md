@@ -19,17 +19,9 @@ dst.
 
 * **Memvisualisasikan Jaringan Makalah Akademis**: Pemanfaatan AI Connected Papers tidak hanya sekadar alat, melainkan sebuah portal menuju pemahaman mendalam tentang inovasi regional. Dengan kemampuannya untuk memvisualisasikan jaringan makalah akademis, mahasiswa dapat dengan mudah melihat keterkaitan antar topik. Dengan kata lain, AI Connected Papers memberi kemampuan visual yang memudahkan pemahaman kompleksitas inovasi regional.
 
-Tidak hanya sebatas visualisasi, AI Connected Papers juga memberikan akses langsung ke makalah-makalah tersebut. Mahasiswa dapat menjelajahi makalah-makalah yang terkait dengan inovasi regional dengan lebih efisien, membantu mereka merinci pemahaman terhadap berbagai konsep dan ide yang muncul.
-
-Menggunakan AI Connected Papers adalah langkah cerdas untuk menciptakan fondasi pengetahuan yang kokoh bagi mahasiswa yang ingin memahami inovasi regional secara holistik.
-
 * **Algoritma AI Mengidentifikasi Tema Utama**: Algoritma AI yang terdapat dalam Connected Papers bukan hanya sekadar pengolah data biasa. Ia adalah pengawas yang cermat, mampu mengidentifikasi tema-tema utama yang melibatkan inovasi regional. Dengan memahami tema-tema ini, mahasiswa dapat fokus pada aspek-aspek kunci yang relevan dengan penelitian atau proyek mereka.
 
-Selain itu, algoritma ini juga mampu mengidentifikasi penulis-penulis kunci yang berkontribusi pada inovasi regional. Dengan begitu, mahasiswa dapat melibatkan diri dalam literatur yang relevan, mendekati pemahaman dari sudut pandang para ahli, dan memperdalam wawasan mereka.
-
 * **Menyarankan Makalah Berpengaruh**: Salah satu keunggulan utama AI Connected Papers adalah kemampuannya untuk menyarankan makalah yang banyak dikutip atau ditautkan. Ini bukan hanya sekadar rekomendasi semata, melainkan sebuah panduan menuju makalah-makalah yang memiliki dampak signifikan dalam bidang inovasi regional.
-
-Bagi mahasiswa, hal ini menjadi alat penting untuk menyaring informasi dan fokus pada karya-karya yang memiliki relevansi dan berpengaruh. Ini tidak hanya mempercepat proses penelitian, tetapi juga memastikan bahwa upaya mahasiswa diarahkan pada literatur yang memiliki dampak riil dalam bidang inovasi regional.
 
 * **Memahami Tren dalam Inovasi Regional**: Algoritma AI tidak hanya mengidentifikasi tema-tema, tetapi juga tren dalam inovasi regional. Mahasiswa dapat menggunakan informasi ini untuk mengarahkan penelitian mereka sesuai dengan perkembangan terkini, memberikan dampak yang lebih besar dalam kontribusi akademis mereka.
 
