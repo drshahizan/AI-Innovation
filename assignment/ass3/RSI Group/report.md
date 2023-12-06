@@ -2,9 +2,9 @@ _Created with [AIPRM Prompt "Article Builder Pro by Pastiin Dulu"](https://www.a
 
 # Case Study 1: Enhancing Regional Innovation Through AI-Powered Paper Discovery
 
-Alat pencarian literatur adalah perangkat lunak atau sistem yang digunakan untuk menemukan dan mengakses literatur ilmiah, seperti jurnal, artikel, buku, dan konferensi. Alat ini dapat membantu mahasiswa magister dalam melakukan penelitian, baik untuk tugas akhir, tesis, maupun disertasi.
+Alat pencarian literatur adalah perangkat lunak atau sistem yang digunakan untuk menemukan dan mengakses literatur ilmiah, seperti jurnal, artikel, buku, dan konferensi. Alat ini dapat membantu mahasiswa Magister Inovasi Regional  dalam melakukan penelitian, baik untuk tugas akhir, tesis, maupun disertasi.
 
-Berikut adalah beberapa alat pencarian literatur yang dapat digunakan oleh mahasiswa magister:
+Berikut adalah beberapa alat pencarian literatur yang dapat digunakan oleh mahasiswa Magister Inovasi Regional:
 1. Google Scholar
 2. Connected Papers
 3. Web of Science
