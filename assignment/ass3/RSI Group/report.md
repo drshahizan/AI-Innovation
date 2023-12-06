@@ -1,5 +1,3 @@
-_Created with [AIPRM Prompt "Article Builder Pro by Pastiin Dulu"](https://www.aiprm.com/prompts/copywriting/writing/1805771235708375040/)_
-
 # Case Study 1: Enhancing Regional Innovation Through AI-Powered Paper Discovery
 
 Alat pencarian literatur adalah perangkat lunak atau sistem yang digunakan untuk menemukan dan mengakses literatur ilmiah, seperti jurnal, artikel, buku, dan konferensi. Alat ini dapat membantu mahasiswa Magister Inovasi Regional  dalam melakukan penelitian, baik untuk tugas akhir, tesis, maupun disertasi.
@@ -94,9 +92,8 @@ Berikut adalah beberapa cara spesifik AI Inciteful dapat membantu mahasiswa magi
 
 Secara keseluruhan, AI Inciteful adalah alat yang kuat yang dapat membantu mahasiswa magister dalam melakukan tinjauan literatur. Alat ini dapat menghemat waktu dan usaha, sehingga mahasiswa magister dapat fokus pada aspek-aspek lain dari penelitian mereka.
 
-
-_Created by [Pastiin Dulu "Article Builder Pro"](https://www.pastiin.com)_
-
-Partner :
+Sumber :
 1. [Berita Teknologi](https://beritateknologi.id)
 2. [Slawi Ayu](https://www.slawiayu.com)
+3. [Bard](https://bard.google.com)
+4. [Bing](https://www.bing.com/)
