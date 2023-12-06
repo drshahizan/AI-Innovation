@@ -19,6 +19,11 @@ Berikut adalah cara kedua AI Tools tersebut dapat membantu:
   - Identify Similar Research:
       Connected Papers dapat membantu mahasiswa mengidentifikasi penelitian serupa atau berkaitan dengan topik inovasi regional mereka.
       Hal ini memungkinkan mahasiswa untuk memperluas cakupan literatur mereka dan memahami tren penelitian yang ada.
+
+<p align="center">
+  <img src="connected paper_r.jpg" width="686px" height="350px">
+</p>
+    
 ## 2. ResearchRabbit:
   - Automatic Monitoring:
       ResearchRabbit memungkinkan pengguna membuat profil pencarian dengan kata kunci dan kriteria tertentu.
