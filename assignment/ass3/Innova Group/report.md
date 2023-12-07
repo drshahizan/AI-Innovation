@@ -57,6 +57,12 @@ Berikut adalah analisis dari kedua alat tersebut:
    Alat ini dapat memberikan rekomendasi proyek bersama berdasarkan kesamaan minat dan keahlian, mempercepat proses perencanaan kolaborasi.
   - Fasilitas Komunikasi dan Kolaborasi:
    Humata AI Collaboration Hub mungkin menyediakan fitur komunikasi dan kolaborasi terintegrasi untuk memfasilitasi diskusi antarpenelitian dan pertukaran ide.
+Berikut cuplikan dari penggunaan Humata AI
+
+<p align="center">
+  <img src="Humata AI_R.jpg" width="708px" height="350px">
+</p>
+
 ## 2. Litmaps Citation Analysis:
   - Analisis Citasi dan Pengaruh:
    Litmaps Citation Analysis fokus pada menganalisis citasi dan dampak penelitian.
