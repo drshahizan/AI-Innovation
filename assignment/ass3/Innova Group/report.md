@@ -21,7 +21,7 @@ Berikut adalah cara kedua AI Tools tersebut dapat membantu:
       Hal ini memungkinkan mahasiswa untuk memperluas cakupan literatur mereka dan memahami tren penelitian yang ada.
 
 <p align="center">
-  <img src="connected paper_r.jpg" width="686px" height="350px">
+  <img src="connected paper.jpg" width="686px" height="350px">
 </p>
     
 ## 2. ResearchRabbit:
