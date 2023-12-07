@@ -76,6 +76,12 @@ Berikut cuplikan dari penggunaan Humata AI
    Analisis citasi dapat memberikan wawasan tentang publikasi terkini dan aktivitas penelitian terkini dalam suatu bidang, membantu peneliti tetap terinformasi.
   - Evaluasi Dampak Penelitian Bersama:
    Dengan memahami dampak publikasi bersama, peneliti dapat mengukur sejauh mana kolaborasi penelitian sebelumnya telah berhasil.
+<BR>
+Berikut cuplikan dari penggunaan Litmaps dengan topik pencarian tentang "electric vehicle battery swap"
+<p align="center">
+  <img src="Litmaps.jpg" width="733px" height="350px">
+</p>
+
 ### Pertimbangan Umum:
   - Privasi dan Keamanan Data:
 Penting untuk memastikan bahwa kedua alat ini mematuhi standar privasi dan keamanan data, mengingat sensitivitas informasi penelitian.
