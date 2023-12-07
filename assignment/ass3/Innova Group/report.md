@@ -120,6 +120,7 @@ Dengan memungkinkan siswa memasukkan pertanyaan atau topik penelitian, alat ini 
 Berikut cuplikan dari penggunaan AI inciteful dengan memasukkan dua paper
   - "Electric Vehicles: Benefits, Challenges, and Potential Solutions for Widespread Adaptation" by Fayez Alanazi, Applied sciences, 2023
   - "Electric Vehicle Charging Systems: Comprehensive Review" by Aziz Rachid ,Hassan El Fadil,*,Khawla Gaouzi, Kamal Rachid, Abdellah Lassioui, Zakariae El Idrissi and Mohamed Koundi
+<BR>
 <p align="center">
   <img src="Inciteful.jpg" width="611px" height="350px">
 </p>
