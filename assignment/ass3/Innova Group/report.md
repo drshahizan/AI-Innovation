@@ -61,7 +61,7 @@ Berikut adalah analisis dari kedua alat tersebut:
 Berikut cuplikan dari penggunaan Humata AI
 
 <p align="center">
-  <img src="Humata AI_R.jpg" width="708px" height="350px">
+  <img src="Humata AI.jpg" width="708px" height="350px">
 </p>
 
 ## 2. Litmaps Citation Analysis:
