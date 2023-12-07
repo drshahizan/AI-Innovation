@@ -57,6 +57,7 @@ Berikut adalah analisis dari kedua alat tersebut:
    Alat ini dapat memberikan rekomendasi proyek bersama berdasarkan kesamaan minat dan keahlian, mempercepat proses perencanaan kolaborasi.
   - Fasilitas Komunikasi dan Kolaborasi:
    Humata AI Collaboration Hub mungkin menyediakan fitur komunikasi dan kolaborasi terintegrasi untuk memfasilitasi diskusi antarpenelitian dan pertukaran ide.
+<BR>
 Berikut cuplikan dari penggunaan Humata AI
 
 <p align="center">
