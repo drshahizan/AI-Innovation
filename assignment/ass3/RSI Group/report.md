@@ -2,7 +2,7 @@
 
 ## Alat-Alat AI untuk Mendukung Mahasiswa Magister Inovasi Regional
 
-Mahasiswa Magister Inovasi Regional seringkali dihadapkan dengan tantangan untuk tetap terupdate dengan inovasi-inovasi regional terbaru. Volume jurnal akademik yang sangat banyak dapat membuat mereka kewalahan. Studi kasus ini akan mengeksplorasi bagaimana alat-alat AI seperti Connected Papers, R discovery, Humata AI, Litmaps, Inciteful, dan ResearchRabbit dapat membantu mahasiswa menemukan jurnal-jurnal relevan untuk inovasi regional.
+Mahasiswa Magister Inovasi Regional seringkali dihadapkan dengan tantangan untuk tetap terupdate dengan inovasi-inovasi regional terbaru. Studi kasus ini akan mengeksplorasi bagaimana alat-alat AI seperti Connected Papers, R discovery, Humata AI, Litmaps, Inciteful, dan ResearchRabbit dapat membantu mahasiswa menemukan jurnal-jurnal relevan untuk inovasi regional.
 
 Berikut adalah penjelasan mengenai kelebihan dan kekurangan masing-masing alat AI:
 
