@@ -95,7 +95,7 @@ Berikut adalah penjelasan mengenai kelebihan dan kekurangan masing-masing alat A
 
 ## Memanfaatkan Humata AI dan Litmaps untuk Penemuan Paper Kolaboratif dalam Pengembangan Regional
 
-**Abstrak:** Case study ini mengeksplorasi bagaimana Humata AI dan Litmaps dapat memfasilitasi penemuan paper kolaboratif untuk mahasiswa Magister Inovasi Regional. Penelitian ini dilakukan dalam format studi kasus, dengan fokus utama pada bagaimana kedua platform ini dapat membantu mahasiswa menemukan dan mengakses sumber daya yang relevan untuk penelitian mereka, serta memfasilitasi kolaborasi antar mahasiswa.
+Case study ini mengeksplorasi bagaimana Humata AI dan Litmaps dapat memfasilitasi penemuan paper kolaboratif untuk mahasiswa Magister Inovasi Regional. Penelitian ini dilakukan dalam format studi kasus, dengan fokus utama pada bagaimana kedua platform ini dapat membantu mahasiswa menemukan dan mengakses sumber daya yang relevan untuk penelitian mereka, serta memfasilitasi kolaborasi antar mahasiswa.
 
 **1. Pendahuluan**
 
