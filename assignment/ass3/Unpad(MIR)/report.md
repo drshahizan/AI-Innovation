@@ -28,7 +28,7 @@ Dalam dunia penelitian, alat pencarian literatur memainkan peran krusial untuk m
 | - Keterwakilan yang baik dalam berbagai bidang ilmu.                  |                                                                           |
 
 
-## Kesimpulan:
+## Kesimpulan: ✅
 - **Google Scholar:** Cocok untuk peneliti lintas disiplin dengan antarmuka yang ramah pengguna.
 - **PubMed:** Ideal untuk penelitian di bidang medis dan biomedis.
 - **Scopus:** Menawarkan keunggulan dalam analisis dan metrik sitasi.
@@ -55,7 +55,7 @@ Mahasiswa Magister Inovasi Regional sering berkolaborasi pada proyek penelitian.
 | Kolaborasi dalam Tim                                | Litmaps memfasilitasi kolaborasi dalam tim dengan menyediakan platform yang memungkinkan mahasiswa menyimpan, berbagi, dan membahas karya penelitian bersama. |
 
 
-## Manfaat Kolaborasi:
+## Manfaat Kolaborasi: ✅
 1. **Optimalisasi Sumber Daya:** Mahasiswa dapat mengoptimalkan sumber daya dengan fokus pada topik penelitian yang paling strategis untuk pengembangan regional.
 2. **Pencarian Informasi Efisien:** Kolaborasi dengan Humata AI dan Litmaps memungkinkan pencarian dan seleksi informasi yang lebih efisien.
 3. **Pengembangan Kolaboratif:** Mahasiswa dapat mengembangkan proyek-proyek penelitian kolaboratif yang mendalam dan berdampak.
