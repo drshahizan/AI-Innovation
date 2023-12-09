@@ -1,5 +1,5 @@
 # Analisis Perbandingan Alat Pencarian Literatur 📚
-
+## Konteks:
 Dalam dunia penelitian, alat pencarian literatur memainkan peran krusial untuk membantu peneliti menemukan dan mengelola sumber informasi yang relevan. Beberapa alat pencarian literatur yang populer adalah Google Scholar, PubMed, dan Scopus. Berikut adalah analisis perbandingan ketiganya:
 
 ## Google Scholar 📖
@@ -86,4 +86,4 @@ Tinjauan pustaka adalah aspek penting dalam penelitian akademis. Dalam studi kas
 3. **Waktu dan Usaha yang Dikurangi:** Inciteful membantu mengurangi waktu dan usaha yang diperlukan untuk menyusun tinjauan pustaka, memungkinkan mahasiswa fokus pada penelitian inti mereka.
 
 ## Kesimpulan:
-Penggunaan Humata AI dan Litmaps dalam konteks kolaborasi mahasiswa Magister Inovasi Regional memberikan potensi untuk meningkatkan efisiensi dan kualitas penelitian. Kolaborasi ini menciptakan lingkungan di mana penemuan dan pertukaran ide dapat berlangsung secara dinamis, mendukung pengembangan regional dengan cara yang inovatif dan berkelanjutan, selain itu Inciteful dalam proses tinjauan pustaka memberikan manfaat nyata dalam meningkatkan efisiensi dan kualitas penelitian mahasiswa Magister Inovasi Regional. Dengan memanfaatkan kecerdasan buatan, alat ini menjadi mitra yang berharga dalam mendukung pengembangan kemampuan penelitian dan pemahaman mendalam terhadap literatur terkini. 🚀📖
+<img src="assets/9.gif" align="left" width="140px" height="150px"/> Penggunaan Humata AI dan Litmaps dalam konteks kolaborasi mahasiswa Magister Inovasi Regional memberikan potensi untuk meningkatkan efisiensi dan kualitas penelitian. Kolaborasi ini menciptakan lingkungan di mana penemuan dan pertukaran ide dapat berlangsung secara dinamis, mendukung pengembangan regional dengan cara yang inovatif dan berkelanjutan, selain itu Inciteful dalam proses tinjauan pustaka memberikan manfaat nyata dalam meningkatkan efisiensi dan kualitas penelitian mahasiswa Magister Inovasi Regional. Dengan memanfaatkan kecerdasan buatan, alat ini menjadi mitra yang berharga dalam mendukung pengembangan kemampuan penelitian dan pemahaman mendalam terhadap literatur terkini. 🚀📖
