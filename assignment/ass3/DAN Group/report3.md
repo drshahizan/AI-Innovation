@@ -120,3 +120,23 @@ Citations:
 [7] https://youtube.com/watch?v=DNlGed_59ak&t=0
 [13] https://researcherssite.com/how-to-find-relevant-research-papers-to-speed-up-your-literature-review/
 
+# An Example of using "Inciteful" for a regional Innovation literature review
+## Step 1
+Access www.inciteful.xyz
+
+## Step 2
+We already have a paper reference regarding the use of scientific data for regional innovation. So we copied the DOI from the paper, then pasted it into inciteful. The DOI is 
+
+## Step 3
+Analyze the Results. These are a list of related papers
+
+## Step 4
+
+## Step 5
+Visualize Connections.
+
+## Step 6
+Download Findings.
+
+## Step 7
+Continuous Learning
