@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 3 : Comparative Analysis of Literature Search Tools
 
 | Name          | NPM  | Task            |
 | ------------ | -------------- | --------------- |
