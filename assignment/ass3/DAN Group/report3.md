@@ -1,33 +1,21 @@
-# How Does INCITEFUL Use Machine Learning To Analyze Literature
-Inciteful, an AI-powered tool, uses machine learning and natural language processing (NLP) to analyze literature for academic research. Here's a detailed explanation of how it works:
+# WHAT is "Inciteful" ?
+Inciteful is an AI-powered tool designed to assist researchers in the process of literature review and discovery of academic papers. It uses machine learning and natural language processing to analyze the content of numerous papers related to a specific research question or topic input by the user[1][4].
 
-1. **Natural Language Processing (NLP)**: NLP is a field at the intersection of computer science, artificial intelligence, and linguistics. It's concerned with the interactions between computers and human (natural) languages. In essence, it allows machines to understand, interpret, and generate human language in a valuable and meaningful way[3][9][12][15].
+Inciteful has two main features:
 
-2. **Machine Learning**: Machine learning is a subset of artificial intelligence that involves the development of algorithms that allow computers to learn from and make decisions or predictions based on data[4][10].
+1. **Paper Discovery**: This feature allows researchers to find new papers relevant to a specific paper they're interested in. It builds a network of papers from citations and uses network analysis algorithms to analyze the network[1][3][4].
 
-3. **Application in Inciteful**: When a user inputs a specific research question or topic into Inciteful, the tool uses machine learning algorithms to analyze the content of numerous papers related to the input. This analysis is not just a simple keyword search; it involves understanding the context, semantics, and relevance of the content in relation to the input, which is made possible by NLP[1][5].
+2. **Connection Analysis**: This feature allows researchers to see how two papers are connected with each other[3].
 
-4. **Continuous Learning**: Inciteful uses continuous learning algorithms, a type of machine learning where the model continually updates and refines its knowledge as new data comes in. In this case, the new data would be user feedback. This allows the tool to improve its recommendations over time, making them more accurate and relevant to the user's research question or topic[1][5].
+The tool leverages citation networks to create a robust web of interconnected papers, providing valuable insights into similar works, important contributions, and prolific authors and institutions[4]. It also uses continuous learning algorithms to refine its recommendations based on user feedback, thereby improving the relevance and accuracy of its literature reviews over time[1][4].
 
-5. **Outcome**: The result is an automated literature review that's tailored to the user's specific research needs. This not only saves time but also ensures a comprehensive and relevant review of the literature[1][5].
-
-In summary, Inciteful uses a combination of NLP and machine learning to understand, analyze, and generate literature reviews based on user input and feedback. This allows it to provide highly relevant and accurate literature reviews, thereby streamlining the literature review process for academic research[1][5].
+Inciteful is accessible to researchers worldwide and is available free of charge, making it a valuable resource for the academic community[4]. It is designed to streamline the literature review process, save valuable time and effort, and provide deeper insights into the research domain[4][7].
 
 Citations:
-[1] https://inciteful.xyz/data
-[2] https://inciteful.xyz
-[3] https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html
-[4] https://www.sciencedirect.com/science/article/abs/pii/S1574013721000538
-[5] https://www.linkedin.com/pulse/supercharge-your-productivity-streamline-literature-review-masud-rana
-[6] https://spectrum.ieee.org/natural-language-processing-dates-back-to-kabbalist-mystics
+[1] https://inciteful.xyz
+[2] https://youtube.com/watch?pp=ygUeI-GPouGOqs694Y-A4Y674Y6qzbNf1b_OuM694Y-A&v=f1E_nwMovuM
+[3] https://youtube.com/watch?v=94bJm52XLZM&t=0
+[4] https://www.linkedin.com/pulse/supercharge-your-productivity-streamline-literature-review-masud-rana
+[5] https://twitter.com/airesearchtools/status/1635599744842997760
+[6] https://guides.library.ttu.edu/artificialintelligencetools/aitools
 [7] https://www.forbes.com/sites/beatajones/2023/09/28/how-generative-ai-tools-help-transform-academic-research/?sh=75c674eb34fc
-[8] https://youtube.com/watch?pp=ygUeI-GPouGOqs694Y-A4Y674Y6qzbNf1b_OuM694Y-A&v=f1E_nwMovuM
-[9] https://www.linkedin.com/pulse/natural-language-processing-enhancing-communication-ai-sayini
-[10] https://journals.sagepub.com/doi/full/10.1177/02683962211048201
-[11] https://libguides.mq.edu.au/AItoolsforliteraturereview/popular_tools
-[12] https://www.sciencedirect.com/topics/computer-science/natural-language-processing
-[13] https://tamu.libguides.com/c.php?g=1289555
-[14] https://academiainsider.com/ai-tools-for-research-papers-and-academic-research/
-[15] https://www.wired.com/insights/2014/02/growing-importance-natural-language-processing/
-[16] https://journals.sagepub.com/doi/pdf/10.1177/02683962211048201
-[17] https://tamu.libguides.com/c.php?g=1289555&p=9975755
