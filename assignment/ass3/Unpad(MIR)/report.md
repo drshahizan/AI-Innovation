@@ -3,30 +3,31 @@
 Dalam dunia penelitian, alat pencarian literatur memainkan peran krusial untuk membantu peneliti menemukan dan mengelola sumber informasi yang relevan. Beberapa alat pencarian literatur yang populer adalah Google Scholar, PubMed, dan Scopus. Berikut adalah analisis perbandingan ketiganya:
 
 ## Google Scholar 📖
-- **Kelebihan:**
-  - Dapat mengakses berbagai jenis literatur, termasuk artikel ilmiah, tesis, dan buku.
-  - Antarmuka pengguna yang sederhana dan mudah digunakan.
-  - Cakupan yang luas dalam berbagai disiplin ilmu.
-- **Keterbatasan:**
-  - Kurangnya fitur filterisasi dan kategorisasi yang mendalam.
-  - Tidak selalu memberikan informasi bibliografi yang lengkap.
+ 
+| Kelebihan    | Keterbatasan                                                                     |
+|--------------|----------------------------------------------------------------------------------|
+| - Akses ke berbagai jenis literatur, termasuk artikel ilmiah, tesis, dan buku.      | - Kurangnya fitur filterisasi dan kategorisasi yang mendalam.                    |
+| - Antarmuka pengguna yang sederhana dan mudah digunakan.                              | - Tidak selalu memberikan informasi bibliografi yang lengkap.                     |
+| - Cakupan yang luas dalam berbagai disiplin ilmu.                                     |                                                                                  |
+
 
 ## PubMed 🩺
-- **Kelebihan:**
-  - Spesifik untuk literatur medis dan biomedis.
-  - Menyediakan opsi pencarian lanjutan dengan filter yang khusus untuk penelitian medis.
-  - Integrasi dengan database PubMed Central.
-- **Keterbatasan:**
-  - Fokus terbatas pada bidang medis dan biomedis.
-  - Antarmuka yang mungkin terasa kompleks bagi pengguna awam.
+ 
+| Kelebihan                                                       | Keterbatasan                                                                   |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------------|
+| - Spesifik untuk literatur medis dan biomedis.                  | - Fokus terbatas pada bidang medis dan biomedis.                               |
+| - Menyediakan opsi pencarian lanjutan dengan filter khusus.    | - Antarmuka mungkin terasa kompleks bagi pengguna awam.                        |
+| - Integrasi dengan database PubMed Central.                     |                                                                                |
+
 ## Scopus 🔍
-- **Kelebihan:**
-  - Menyediakan indeks untuk berbagai jenis sumber literatur, termasuk konferensi dan paten.
-  - Fitur analitik dan metrik sitasi yang kuat.
-  - Keterwakilan yang baik dalam berbagai bidang ilmu.
-- **Keterbatasan:**
-  - Berbayar, membuatnya kurang dapat diakses secara universal.
-  - Batasan akses ke beberapa jurnal tertentu.
+ 
+| Kelebihan                                                             | Keterbatasan                                                              |
+|----------------------------------------------------------------------|---------------------------------------------------------------------------|
+| - Menyediakan indeks untuk berbagai jenis sumber literatur.           | - Berbayar, membuatnya kurang dapat diakses secara universal.             |
+|   - Termasuk konferensi dan paten.                                   | - Batasan akses ke beberapa jurnal tertentu.                              |
+| - Fitur analitik dan metrik sitasi yang kuat.                         |                                                                           |
+| - Keterwakilan yang baik dalam berbagai bidang ilmu.                  |                                                                           |
+
 
 ## Kesimpulan:
 - **Google Scholar:** Cocok untuk peneliti lintas disiplin dengan antarmuka yang ramah pengguna.
