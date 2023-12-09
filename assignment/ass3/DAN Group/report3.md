@@ -125,18 +125,25 @@ Citations:
 Access www.inciteful.xyz
 
 ## Step 2
-We already have a paper reference regarding the use of scientific data for regional innovation. So we copied the DOI from the paper, then pasted it into inciteful. The DOI is 
+We already have a paper reference regarding the use of scientific data for regional innovation. So we copied the DOI from the paper, then pasted it into inciteful. The DOI is 10.1051/e3sconf/202021402054. Or we can use the title of the paper, "Big Data Industrial Agglomeration Promoting Regional Innovation: Comparison between Guangzhou and Zhaoqing in China".
 
 ## Step 3
-Analyze the Results. These are a list of related papers
+Analyze the Results. These are a list of related papers :
+<img width="928" alt="image" src="https://github.com/drshahizan/AI-Innovation/assets/150221185/71272412-a23a-44f2-b834-0ca09ab3bb01">
 
 ## Step 4
+Add Relevant Papers.
+<img width="937" alt="image" src="https://github.com/drshahizan/AI-Innovation/assets/150221185/03200cd9-7caf-42f5-a290-2faa65fa7ccf">
 
 ## Step 5
 Visualize Connections.
+<img width="1079" alt="image" src="https://github.com/drshahizan/AI-Innovation/assets/150221185/fb035a07-547f-46c5-91cb-1bb727633169">
 
 ## Step 6
-Download Findings.
+Download Findings. We can save our findings into BibTex, RIS, Mendeley or Zotero format. In this case we use RIS format.
+<img width="996" alt="image" src="https://github.com/drshahizan/AI-Innovation/assets/150221185/6a347d4d-8d10-4dcb-b2bd-4cf1aa046d7f">
+
+<img width="826" alt="image" src="https://github.com/drshahizan/AI-Innovation/assets/150221185/b45a38a4-984a-42b8-856a-6f27e55ca223">
 
 ## Step 7
-Continuous Learning
+Continuous Learning. Then, we can import the references' RIS into citation management such as BibTex, RIS, Mendeley or Zotero and continue reading our papers.
