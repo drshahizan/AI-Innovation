@@ -1,4 +1,5 @@
-# Analisis Perbandingan Alat Pencarian Literatur 📚
+# <img src="assets/6.gif" align="left" width="50px" height="70px"/> Analisis Perbandingan Alat Pencarian Literatur 📚
+
 ## Konteks:
 Dalam dunia penelitian, alat pencarian literatur memainkan peran krusial untuk membantu peneliti menemukan dan mengelola sumber informasi yang relevan. Beberapa alat pencarian literatur yang populer adalah Google Scholar, PubMed, dan Scopus. Berikut adalah analisis perbandingan ketiganya:
 
@@ -33,7 +34,7 @@ Dalam dunia penelitian, alat pencarian literatur memainkan peran krusial untuk m
 - **PubMed:** Ideal untuk penelitian di bidang medis dan biomedis.
 - **Scopus:** Menawarkan keunggulan dalam analisis dan metrik sitasi.
 
-# Studi Kasus: Kolaborasi Mahasiswa Magister Inovasi Regional dengan Humata AI  dan Litmaps untuk Penemuan Kertas Penelitian Bersama dalam Pengembangan Regional 🎓🌐
+# <img src="assets/6.gif" align="left" width="90px" height="100px"/> Studi Kasus: Kolaborasi Mahasiswa Magister Inovasi Regional dengan Humata AI  dan Litmaps untuk Penemuan Kertas Penelitian Bersama dalam Pengembangan Regional 🎓🌐
 
 ## Konteks:
 Mahasiswa Magister Inovasi Regional sering berkolaborasi pada proyek penelitian. Dalam studi kasus ini, kita akan mengeksplorasi bagaimana penggunaan Humata AI dan Litmaps dapat memfasilitasi penemuan bersama kertas penelitian untuk mendukung pengembangan regional.
@@ -60,7 +61,7 @@ Mahasiswa Magister Inovasi Regional sering berkolaborasi pada proyek penelitian.
 2. **Pencarian Informasi Efisien:** Kolaborasi dengan Humata AI dan Litmaps memungkinkan pencarian dan seleksi informasi yang lebih efisien.
 3. **Pengembangan Kolaboratif:** Mahasiswa dapat mengembangkan proyek-proyek penelitian kolaboratif yang mendalam dan berdampak.
 
-# Studi Kasus: Penggunaan Inciteful, Alat Berbasis Kecerdasan Buatan, dalam Mempermudah Proses Tinjauan Pustaka untuk Mahasiswa Magister Inovasi Regional 📚🔍
+# <img src="assets/6.gif" align="left" width="90px" height="100px"/> Studi Kasus: Penggunaan Inciteful, Alat Berbasis Kecerdasan Buatan, dalam Mempermudah Proses Tinjauan Pustaka untuk Mahasiswa Magister Inovasi Regional 📚🔍
 
 ## Konteks:
 Tinjauan pustaka adalah aspek penting dalam penelitian akademis. Dalam studi kasus ini, kita akan menyoroti bagaimana Inciteful, alat berbasis kecerdasan buatan, dapat menyederhanakan proses tinjauan pustaka bagi mahasiswa Magister Inovasi Regional.
