@@ -3,6 +3,9 @@ Tantangan bagi mahasiswa Magister Inovasi Regional adalah **mengikuti perkembang
 
 berikut penjelasan mengenai AI tersebut:
 ### Iris ai
+<p align="center">
+  <img src="iris ai.png" width="300px" height="100px">
+</p>
 **Iris AI** adalah alat bantu penelitian berbasis kecerdasan buatan yang dirancang untuk memudahkan peneliti dalam menemukan dan menganalisis literatur ilmiah. Dengan menggunakan teknologi pemrosesan bahasa alami, Iris AI memungkinkan peneliti untuk melakukan pencarian literatur yang efisien, menyaring hasil pencarian yang relevan, dan membuat ringkasan otomatis dari makalah yang dipilih. Fitur ekstraksi data otomatis juga membantu dalam mengumpulkan dan mengorganisasikan informasi dari berbagai sumber, sehingga mempercepat proses penelitian dan meningkatkan produktivitas akademis. Alat ini sangat berguna bagi mereka yang ingin menghemat waktu dan usaha dalam tinjauan literatur dan analisis data penelitian.
 
 **kelebihan**
@@ -20,6 +23,9 @@ berikut penjelasan mengenai AI tersebut:
 - Kurva Pembelajaran: Mungkin memerlukan waktu untuk memahami dan menggunakan semua fitur yang ditawarkan secara efektif.
 
 ### Connected Papers
+<p align="center">
+  <img src="connected papers.png" width="300px" height="100px">
+</p>
 Connected Papers adalah alat visual yang membantu peneliti dan ilmuwan terapan menemukan dan menjelajahi makalah akademik yang relevan dengan bidang kerja mereka. Dengan memasukkan sebuah makalah asal, Connected Papers akan menghasilkan grafik yang menampilkan makalah-makalah serupa berdasarkan kekuatan koneksi antara mereka. Alat ini menganalisis sekitar 50.000 makalah penelitian dan memilih yang memiliki koneksi terkuat dengan makalah asal. Grafik yang dihasilkan mengatur makalah berdasarkan kesamaan, memungkinkan peneliti untuk mendapatkan pemahaman visual yang nyata tentang tren, karya populer, dan dinamika di bidang yang mereka minati
 
 **Kelebihan**
@@ -35,6 +41,9 @@ Connected Papers adalah alat visual yang membantu peneliti dan ilmuwan terapan m
 - Fokus pada Hubungan: Lebih berfokus pada hubungan antar makalah daripada isi makalah itu sendiri.
 
 ### Humata AI
+<p align="center">
+  <img src="humata ai.png" width="300px" height="100px">
+</p>
 Humata AI adalah platform berbasis AI yang dirancang untuk mempermudah pencarian dan analisis informasi dalam dokumen PDF. Alat ini memungkinkan pengguna untuk mengunggah dokumen apa pun dan bertanya tentangnya dalam bahasa alami, menjadikannya alat yang serbaguna bagi mahasiswa, peneliti, profesional, dan penulis. Humata AI menggunakan kemajuan terbaru dalam AI untuk mensintesis hasil berdasarkan perintah bahasa alami. Ini menciptakan vektor embedding untuk pencarian semantik, memungkinkan Anda untuk mencari dan menganalisis dokumen berdasarkan maknanya daripada kata kunci.  Dengan demikian, Humata AI mendefinisikan ulang proses pencarian informasi, membuatnya lebih cepat, mudah, dan jauh lebih efisien
 
 **Kelebihan**
