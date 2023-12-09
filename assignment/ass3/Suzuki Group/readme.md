@@ -68,7 +68,7 @@ Magister Inovasi Regional students can save time on literature review, allowing 
 These case studies showcase the practical application of AI tools in the context of Magister Inovasi Regional, providing students with valuable resources for paper discovery and research collaboration.
 
 ## Team Collaboration
-🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information [**here**](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=2105041612). Please update your group information:
+🚀 Form project teams comprising a minimum of two and a maximum of three students. Teamwork is essential for this assignment. Please complete the Google Sheets page with your group information. Please update your group information:
 
 | No |   Nama          |      NPM       |
 |----|-----------------|----------------|
