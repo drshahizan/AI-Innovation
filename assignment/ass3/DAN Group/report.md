@@ -9,47 +9,7 @@ Scilit adalah tools pencarian literatur yang dikembangkan oleh perusahaan asal I
 Pencarian yang akurat dan relevan berdasarkan konteks query
 Visualisasi data untuk membantu memahami penelitian
 Analisis sentiment untuk memahami sikap penulis
-Iris.ai adalah tools pencarian literatur yang dikembangkan oleh perusahaan asal Amerika Serikat, Iris.ai. Iris memiliki basis data yang lebih kecil dari Scilit, tetapi mencakup artikel penelitian dari berbagai sumber yang lebih beragam, termasuk jurnal ilmiah, blog, dan media sosial. Iris juga dilengkapi dengan fitur-fitur canggih, seperti:
-
-Pencarian yang akurat dan relevan berdasarkan konteks query
-Saran penelitian terkait
-Analisis jaringan untuk memahami hubungan antar penelitian
-Meta adalah tools pencarian literatur yang dikembangkan oleh perusahaan asal Jerman, MetaMind. Meta memiliki basis data yang lebih kecil dari Scilit dan Iris, tetapi mencakup artikel penelitian dari berbagai sumber yang lebih beragam, termasuk jurnal ilmiah, buku, dan paten. Meta juga dilengkapi dengan fitur-fitur canggih, seperti:
-
-Pencarian yang akurat dan relevan berdasarkan konteks query
-Visualisasi data untuk membantu memahami penelitian
-Analisis jaringan untuk memahami hubungan antar penelitian
-Semantic Scholar adalah tools pencarian literatur yang dikembangkan oleh perusahaan asal Amerika Serikat, Google AI. Semantic Scholar memiliki basis data yang lebih kecil dari Scilit, Iris, dan Meta, tetapi mencakup artikel penelitian dari berbagai sumber yang lebih beragam, termasuk jurnal ilmiah, preprint, dan karya tulis akademis lainnya. Semantic Scholar juga dilengkapi dengan fitur-fitur canggih, seperti:
-
-Pencarian yang akurat dan relevan berdasarkan konteks query
-Visualisasi data untuk membantu memahami penelitian
-Analisis jaringan untuk memahami hubungan antar penelitian
-Analisis sentiment untuk memahami sikap penulis
-Berikut adalah tabel perbandingan keempat tools tersebut:
-
-Fitur	Scilit	Iris.ai	Meta	Semantic Scholar
-Basis data	100+ juta artikel	50+ juta artikel	20+ juta artikel	10+ juta artikel
-Sumber	Jurnal ilmiah, konferensi, preprint	Jurnal ilmiah, blog, media sosial	Jurnal ilmiah, buku, paten	Jurnal ilmiah, preprint, karya tulis akademis lainnya
-Fitur canggih	* Pencarian yang akurat dan relevan berdasarkan konteks query
-Visualisasi data untuk membantu memahami penelitian
-Analisis sentiment untuk memahami sikap penulis | * Pencarian yang akurat dan relevan berdasarkan konteks query
-Saran penelitian terkait
-Analisis jaringan untuk memahami hubungan antar penelitian | * Pencarian yang akurat dan relevan berdasarkan konteks query
-Visualisasi data untuk membantu memahami penelitian
-Analisis jaringan untuk memahami hubungan antar penelitian | * Pencarian yang akurat dan relevan berdasarkan konteks query
-Visualisasi data untuk membantu memahami penelitian
-Analisis jaringan untuk memahami hubungan antar penelitian
-Analisis sentiment untuk memahami sikap penulis | | Harga | Gratis | Gratis | Gratis | Gratis |
-Kesimpulan:
-
-Scilit, Iris.ai, Meta, dan Semantic Scholar adalah tools pencarian literatur berbasis AI yang menawarkan berbagai fitur dan keunggulan. Pilihan tools yang tepat tergantung pada kebutuhan dan preferensi pengguna.
-
-Berikut adalah beberapa rekomendasi:
-
-Untuk pengguna yang baru memulai dengan pencarian literatur, disarankan untuk mencoba Scilit atau Iris.ai. Kedua tools ini memiliki basis data yang cukup luas dan fitur-fitur canggih yang mudah digunakan.
-Untuk pengguna yang membutuhkan akses ke basis data yang lebih luas, disarankan untuk menggunakan Meta atau Semantic Scholar. Kedua tools ini memiliki basis data yang lebih kecil, tetapi mencakup artikel penelitian dari berbagai sumber yang lebih beragam.
-Pengguna yang membutuhkan hasil pencarian yang sangat akurat dan relevan dapat berlangganan layanan tools AI powered yang lebih premium.
-Untuk melengkapi pencarian dengan tools AI powered, pengguna juga dapat melakukan pencarian tambahan dengan tools tradisional.
+Iris.ai adalah tools pencarian literatur yang dikembangkan oleh perusahaan asal Amerika Serikat, Iris.ai.
 
 
 ## 1.2 **Traditional Paper Literature Search Tools:**
