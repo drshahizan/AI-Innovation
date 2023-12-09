@@ -10,7 +10,6 @@ Dalam dunia penelitian, alat pencarian literatur memainkan peran krusial untuk m
 | - Antarmuka pengguna yang sederhana dan mudah digunakan.                              | - Tidak selalu memberikan informasi bibliografi yang lengkap.                     |
 | - Cakupan yang luas dalam berbagai disiplin ilmu.                                     |                                                                                  |
 
-
 ## PubMed 🩺
  
 | Kelebihan                                                       | Keterbatasan                                                                   |
@@ -40,24 +39,21 @@ Dalam dunia penelitian, alat pencarian literatur memainkan peran krusial untuk m
 Mahasiswa Magister Inovasi Regional sering berkolaborasi pada proyek penelitian. Dalam studi kasus ini, kita akan mengeksplorasi bagaimana penggunaan Humata AI dan Litmaps dapat memfasilitasi penemuan bersama kertas penelitian untuk mendukung pengembangan regional.
 
 ## Penggunaan Humata AI:
-### 1. **Analisis Data Regional:**
-   - Humata AI dapat digunakan untuk menganalisis data regional yang relevan, membantu mahasiswa memahami tantangan dan peluang pengembangan di wilayah tertentu.
 
-### 2. **Pemetaan Keterlibatan Mahasiswa:**
-   - Platform ini dapat memetakan keterlibatan mahasiswa pada berbagai proyek penelitian, menciptakan gambaran yang jelas tentang keahlian dan minat mereka.
+| Fitur                                                                      | Deskripsi                                                                                                         |
+|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Analisis Data Regional                                                      | Humata AI digunakan untuk menganalisis data regional yang relevan, membantu mahasiswa memahami tantangan dan peluang pengembangan di wilayah tertentu. |
+| Pemetaan Keterlibatan Mahasiswa                                             | Platform ini memetakan keterlibatan mahasiswa pada berbagai proyek penelitian, menciptakan gambaran yang jelas tentang keahlian dan minat mereka. |
+| Kurasi Informasi Penting                                                    | Humata AI membantu menyaring informasi dan penelitian terbaru yang paling relevan untuk pengembangan regional.        |
 
-### 3. **Kurasi Informasi Penting:**
-   - Humata AI dapat membantu menyaring informasi dan penelitian terbaru yang paling relevan untuk pengembangan regional.
 
 ## Penggunaan Litmaps:
-### 1. **Visualisasi Topik Penelitian:**
-   - Litmaps memungkinkan mahasiswa untuk memvisualisasikan topik penelitian yang tengah tren, membantu mereka memilih area yang paling relevan untuk penelitian kolaboratif.
+| Fitur                                              | Deskripsi                                                                                                                     |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Visualisasi Topik Penelitian                        | Litmaps memungkinkan mahasiswa untuk memvisualisasikan topik penelitian yang tengah tren, membantu mereka memilih area yang paling relevan untuk penelitian kolaboratif. |
+| Pencarian Bersama Karya Penelitian                  | Mahasiswa dapat menggunakan Litmaps untuk mencari bersama karya penelitian yang relevan dengan topik pengembangan regional.     |
+| Kolaborasi dalam Tim                                | Litmaps memfasilitasi kolaborasi dalam tim dengan menyediakan platform yang memungkinkan mahasiswa menyimpan, berbagi, dan membahas karya penelitian bersama. |
 
-### 2. **Pencarian Bersama Karya Penelitian:**
-   - Mahasiswa dapat menggunakan Litmaps untuk mencari bersama karya penelitian yang relevan dengan topik pengembangan regional.
-
-### 3. **Kolaborasi dalam Tim:**
-   - Litmaps memfasilitasi kolaborasi dalam tim dengan menyediakan platform yang memungkinkan mahasiswa menyimpan, berbagi, dan membahas karya penelitian bersama.
 
 ## Manfaat Kolaborasi:
 1. **Optimalisasi Sumber Daya:** Mahasiswa dapat mengoptimalkan sumber daya dengan fokus pada topik penelitian yang paling strategis untuk pengembangan regional.
