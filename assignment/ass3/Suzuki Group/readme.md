@@ -72,5 +72,5 @@ These case studies showcase the practical application of AI tools in the context
 
 | No |   Nama          |      NPM       |
 |----|-----------------|----------------|
-| 1 | MIla Sekarini | 251020220502 |
+| 1 | Mila Sekarini | 251020220502 |
 
