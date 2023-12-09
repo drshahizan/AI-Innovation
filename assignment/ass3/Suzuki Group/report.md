@@ -94,7 +94,7 @@ Humata AI Collaboration Hub merupakan platform kolaboratif yang inovatif, diranc
 - Keamanan Data: Humata AI menjamin keamanan data dan privasi pengguna, memastikan bahwa semua informasi yang dibagikan di platform tetap aman dan terlindungi.
 
 ### Litmaps Citation Analysis
-Litmaps Citation Analysis adalah alat analisis sitasi yang canggih, dirancang untuk membantu peneliti dan mahasiswa dalam mengidentifikasi makalah kunci dalam bidang pengembangan regional. Berikut adalah penjelasan rinci berdasarkan poin-poin yang Anda sebutkan:
+Litmaps Citation Analysis adalah alat analisis sitasi yang canggih, dirancang untuk membantu peneliti dan mahasiswa dalam mengidentifikasi makalah kunci dalam bidang pengembangan regional
 
 - Analisis Jaringan Sitasi: Litmaps menggunakan teknologi AI untuk menganalisis jaringan sitasi dan mengidentifikasi makalah penting yang mempengaruhi bidang pengembangan regional. Ini memungkinkan peneliti untuk memahami konteks dan signifikansi makalah dalam lanskap penelitian yang lebih luas.
 - Eksplorasi Makalah yang Sering Dikutip: Mahasiswa dapat menjelajahi makalah yang sering dikutip dan menemukan hubungan antara subbidang pengembangan regional yang berbeda. Ini membantu dalam membangun pemahaman yang lebih baik tentang bagaimana berbagai aspek pengembangan regional saling terkait.
