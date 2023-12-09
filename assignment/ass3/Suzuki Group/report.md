@@ -53,7 +53,7 @@ Humata AI adalah platform berbasis AI yang dirancang untuk mempermudah pencarian
 
 ### ResearchRabbit
 <p align="center">
-  <img src="ResearchRabbit.png" width="686px" height="350px">
+  <img src="ResearchRabbit.png" width="300px" height="100px">
 </p>
 ResearchRabbit adalah alat pemetaan literatur berbasis sitasi yang inovatif dan tersedia secara online. Alat ini dirancang untuk mengoptimalkan waktu pencarian referensi saat Anda merencanakan esai, proyek kecil, atau tinjauan literatur. Dengan memulai dari satu atau lebih makalah (disebut makalah benih), ResearchRabbit akan menemukan lebih banyak makalah yang relevan dengan topik minat, yang ditentukan oleh makalah benih yang Anda pilih sebelumnya. Alat ini mendukung penelitian Anda tanpa perlu beralih antara mode pencarian dan basis data, proses yang memakan waktu dan sering kali berujung pada penambangan sitasi lebih lanjut; sebuah lubang kelinci yang tidak menyenangkan (dan itulah yang menginspirasi nama ResearchRabbit)
 
