@@ -8,6 +8,9 @@
 Don't forget to hit the :star: if you like this repo.
 
 # AI for Innovation
+<p align="center">
+<img src="/images//unpad%20mir.png"  height="500" />
+</p>
 
 ## Course Synopsis
 Explore contemporary AI advancements encompassing generative AI, Large Language Models, and Automated Machine Learning. Additionally, delve into AI's applications in social media and business, specifically focusing on recommender systems.
